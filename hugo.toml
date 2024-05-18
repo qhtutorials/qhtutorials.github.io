@@ -1,8 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://qhtutorials.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Quickly How Tutorials'
 theme="archie"
 publishDir = "docs"
+copyright = "© Quickly How Tutorials"
+paginate=3
+
+[params]
+   customcss = ["css/first.css"] 
+ 
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/athul/archie"
 
 [[menu.main]]
 name = "All posts"
