@@ -12,19 +12,24 @@ paginate=3
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/qhtutorials/qhtutorials.github.io"
 
 [[menu.main]]
-name = "All posts"
+name = "Blog"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Videos"
+url = "/videos"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Slides"
+url = "/slides"
 weight = 4
+
+[[menu.main]]
+name = "PDFs"
+url = "/pdfs"
+weight = 5
