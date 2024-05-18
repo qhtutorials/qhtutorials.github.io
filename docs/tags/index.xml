@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quickly How Tutorials</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://qhtutorials.github.io/tags/</link>
     <description>Recent content in Tags on Quickly How Tutorials</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qhtutorials.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer</title>
-      <link>http://localhost:1313/tags/primer/</link>
+      <link>https://qhtutorials.github.io/tags/primer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/primer/</guid>
+      <guid>https://qhtutorials.github.io/tags/primer/</guid>
       <description></description>
     </item>
     <item>
       <title>Todo</title>
-      <link>http://localhost:1313/tags/todo/</link>
+      <link>https://qhtutorials.github.io/tags/todo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/todo/</guid>
+      <guid>https://qhtutorials.github.io/tags/todo/</guid>
       <description></description>
     </item>
     <item>
       <title>Procrastinating</title>
-      <link>http://localhost:1313/tags/procrastinating/</link>
+      <link>https://qhtutorials.github.io/tags/procrastinating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/procrastinating/</guid>
+      <guid>https://qhtutorials.github.io/tags/procrastinating/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
+      <link>https://qhtutorials.github.io/tags/space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
+      <guid>https://qhtutorials.github.io/tags/space/</guid>
       <description></description>
     </item>
   </channel>
