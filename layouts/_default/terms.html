@@ -1,4 +1,5 @@
 {{ define "main" }} 
+
 Tags
 {{ $biggest := 1 }} {{ $smallest := 1 }} {{ $max := 3 }} {{ $min := 1 }} {{ $size := $min }} {{ $data := .Data }} 
       {{ range $key, $value := .Data.Terms.ByCount }} {{ $size := (add (mul (div $value.Count $biggest) (sub $max $min)) $min) }} {{ $size := (cond (eq $biggest $smallest) $min $size) }} 

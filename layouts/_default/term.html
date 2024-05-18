@@ -1,6 +1,8 @@
 {{ define "main" }} {{ if isset .Data "Term" }} 
+
 All Entries Tagged: "{{ .Data.Term }}"
 {{ else }} 
+
 All articles
 {{ end }} 
       {{- range .Data.Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}} 
