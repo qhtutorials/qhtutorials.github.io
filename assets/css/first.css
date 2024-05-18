@@ -209,10 +209,10 @@
       color: #000000;
     }
     .footer-info {
-      padding: var(--footer-padding);
+      padding-bottom: 0.1em;
+      padding-top: 2rem;
       font-family: 'Merriweather-Regular', serif;
       color: #000000;
-      margin-top: 2rem;
     }
     
     /* Common */
@@ -263,21 +263,22 @@
     .hometable {
         display: flex;
         justify-content: space-between;
-        border-color: #fff;
     }
+
+    .hometable img {
+        max-width: 30%;
+    }
+
+    .hometable a:hover {
+        border-bottom: #fff;
+    }
+
     .hometable table, td, th, tr {
         width: 68rem;
         height: 13rem;
         text-align: center;
         font-family: 'Merriweather-Regular', serif;
-    }
-
-    .site-description img {
-        max-width: 30%;
-    }
-
-    .site-description a:hover {
-        border-bottom: none;
+        border-color: #fff;
     }
     
     .tags li::before{
