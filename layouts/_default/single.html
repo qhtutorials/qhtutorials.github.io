@@ -5,15 +5,6 @@
 			<h1 class="title">{{ .Title }}</h1>
 			<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 		</div>
-		{{ if isset .Params "tldr" }}
-		<div class="tldr">
-			<strong>tl;dr:</strong>
-			{{ .Params.tldr }}
-		</div>{{ end }}
-
-		<section class="body">
-			{{ .Content }}
-		</section>
 
 		<div class="post-tags">
 			{{ if ne .Type "page" }}
@@ -28,6 +19,17 @@
 			{{ end }}
 			{{ end }}
 		</div>
+		
+		{{ if isset .Params "tldr" }}
+		<div class="tldr">
+			<strong>tl;dr:</strong>
+			{{ .Params.tldr }}
+		</div>{{ end }}
+
+		<section class="body">
+			{{ .Content }}
+		</section>
+
 		{{- $.Scratch.Set "isDisqus" true -}}
 		<!-- Check if disqus short name is given -->
 		{{ if not .Site.DisqusShortname }}

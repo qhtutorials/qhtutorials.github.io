@@ -195,8 +195,7 @@
       justify-content: center;
       align-items: center;
       border-top: 0.1rem solid var(--bordercl);
-      padding: 0.1rem;
-      margin-top: 2rem;
+      padding-top: 1.5rem;
     }
     .soc {
       display: flex;
@@ -271,7 +270,7 @@
         border-bottom: #fff;
     }
 
-    .hometable table, td, th, tr {
+    .hometable table, tbody, td, th, tr {
         width: 68rem;
         height: 13rem;
         text-align: center;
