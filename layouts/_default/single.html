@@ -9,6 +9,7 @@
 		<div class="post-tags">
 			{{ if ne .Type "page" }}
 			{{ if gt .Params.tags 0 }}
+			<h3><a href="https://qhtutorials.github.io/tags/">Tags:</a></h3>
 			<nav class="nav tags">
 				<ul class="tags">
 					{{ range .Params.tags }}

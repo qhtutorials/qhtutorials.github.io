@@ -276,6 +276,8 @@
         text-align: center;
         font-family: 'Merriweather-Regular', serif;
         border: solid 3px #fff;
+        border-left: solid 3px #fff;
+        border-right: solid 3px #fff;
     }
     
     .tags li::before{
