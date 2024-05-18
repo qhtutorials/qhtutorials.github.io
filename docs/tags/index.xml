@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Quickly How Tutorials</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
     <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer</title>
-      <link>https://example.org/tags/primer/</link>
+      <link>http://localhost:1313/tags/primer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/primer/</guid>
+      <guid>http://localhost:1313/tags/primer/</guid>
       <description></description>
     </item>
     <item>
       <title>Todo</title>
-      <link>https://example.org/tags/todo/</link>
+      <link>http://localhost:1313/tags/todo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/todo/</guid>
+      <guid>http://localhost:1313/tags/todo/</guid>
       <description></description>
     </item>
     <item>
       <title>Procrastinating</title>
-      <link>https://example.org/tags/procrastinating/</link>
+      <link>http://localhost:1313/tags/procrastinating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/procrastinating/</guid>
+      <guid>http://localhost:1313/tags/procrastinating/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>https://example.org/tags/space/</link>
+      <link>http://localhost:1313/tags/space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/space/</guid>
+      <guid>http://localhost:1313/tags/space/</guid>
       <description></description>
     </item>
   </channel>
