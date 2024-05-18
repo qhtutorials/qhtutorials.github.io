@@ -1,17 +1,17 @@
 {{ define "main" }}
+{{ if isset .Data "Term" }}
+<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+{{ else }}
+<h1 class="page-title">All articles</h1>
+{{ end }}
 
-<h1 class="page-title">Most Recent</h1>
-
-{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections}}
-{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true)}} {{ range $paginator.Pages }}
-
-{{.Title}}
- {{ dateFormat "Jan 2, 2006" .Date}} {{ if .Draft}} DRAFT {{ end }}
- {{ if isset .Params "description" }} {{ .Description }} {{ else }} {{ .Summary }}... {{ end}}
- Read more ⟶ {{ end }} {{ template "partials/paginator.html" . }}
-
- <h1 class="page-title">All Articles</h1>
-    {{- range .Data.Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-    {{.Title}} {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} {{- end -}}
-
-	<h1 class="page-title">All Tags</h1>
+<ul class="posts">
+	{{- range .Data.Pages -}}
+		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+		<li class="post">
+			<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+		</li>
+		{{- end -}}
+	{{- end -}}
+</ul>
+{{ end }}
