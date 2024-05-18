@@ -270,6 +270,11 @@
         font-family: 'Merriweather-Regular', serif;
     }
 
+    .homepagetable img {
+        border: #fff;
+        max-width: 30%;
+    }
+
     .tags li::before{
       content: none;
     }
