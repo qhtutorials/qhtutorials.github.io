@@ -11,17 +11,19 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
-				<section class="list-item">
-					<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
-					<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
-					<br>{{ template "partials/pagedescription.html" . }}
-					<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
-				</section>
-				{{ end }}
-				{{ template "partials/paginator.html" . }}
+				<div class="hometable">
+					<table class="hompeagetable">
+						<tr>
+							<th><a href="www.google.com"><img src="https://www.svgrepo.com/show/513175/book-closed.svg" alt="A book icon"></a></th>
+							<th><a href="www.duckduckgo.com"><img src="https://www.svgrepo.com/show/478737/video-playback-mark.svg" alt="A video icon"></a></th>
+						</tr>
+						<tr>
+							<td><a href="www.bing.com"><img src="https://www.svgrepo.com/show/347456/slideshow-3.svg" alt="A slideshow icon"></a></td>
+							<td><a href="www.google.com"><img src="https://www.svgrepo.com/show/478188/pdf.svg" alt="A PDF icon"></a></td>
+						</tr>
+					</table>
+				</div>
+				{{.Content}}
 			</main>
 			{{ partial "footer.html" . }}
 		</div>
