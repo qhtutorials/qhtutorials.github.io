@@ -40,14 +40,15 @@
     }
     
     a {
-      color: inherit;
+      color: #3042cd;
       text-decoration: none;
       font-family: 'Merriweather-Bold';
+      border-bottom: none;
     }
     a:hover {
         border-bottom: 2px solid #3042cd;
-        background-color: var(--hovercolor);
-        color: #fff;
+        background-color: none;
+        color: #3042cd;
     }
     
     .container-tagcloud {
@@ -156,6 +157,10 @@
     header a {
       font-size: 1.5rem;
       margin-right: 3rem;
+    }
+
+    .header nav, .footer {
+        border-color: #333;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -269,11 +274,12 @@
       content: none;
     }
     .tags a{
-      border-bottom: #fff; 
+      color: #3042cd; 
     }
     .tags a:hover{
-      color:white;
-      background-color: var(--hovercolor); 
+      border-bottom: 2px solid #3042cd;
+      color: #3042cd;
+      background-color: none; 
     }
     svg{
       max-height: 15px;
@@ -293,6 +299,7 @@
     .highlight {
       position: relative;
       -webkit-overflow-scrolling: touch;
+      background-color: #333;
     }
     .highlight pre code[class*="language-"] {
       -webkit-overflow-scrolling: touch;
@@ -382,6 +389,40 @@
     table tr {
         height: 0.1em;
     }
+
+::-moz-selection {
+    background: blue;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: rebeccapurple;
+    color: #fff;
+    text-shadow: none;
+}
+
+hr {
+    border-top: 1.5px solid #737373;
+}
+
+.site-description a {
+    color: #000000;
+}
+
+.site-description a:hover {
+    color: #000000;
+}
+
+.site-description img {
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.site-title a {
+    color: white;
+    text-decoration: none !important;
+}
 
     /* Merriweather-Regular */
 @font-face {
