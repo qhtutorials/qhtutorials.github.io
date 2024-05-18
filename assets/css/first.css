@@ -262,6 +262,7 @@
     .hometable {
         display: flex;
         justify-content: space-between;
+        border-color: #fff;
     }
     .hometable table, td, th, tr {
         width: 68rem;
@@ -270,11 +271,14 @@
         font-family: 'Merriweather-Regular', serif;
     }
 
-    .homepagetable img {
-        border: #fff;
+    .site-description img {
         max-width: 30%;
     }
 
+    .site-description a:hover {
+        border-bottom: none;
+    }
+    
     .tags li::before{
       content: none;
     }
