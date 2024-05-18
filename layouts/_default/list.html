@@ -1,17 +1,13 @@
-{{ define "main" }}
-{{ if isset .Data "Term" }}
-<h1>Entries tagged - "{{ .Data.Term }}"</h1>
-{{ else }}
-<h1 class="page-title">All articles</h1>
-{{ end }}
-
-<ul class="posts">
-	{{- range .Data.Pages -}}
-		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-		<li class="post">
-			<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
-		</li>
-		{{- end -}}
-	{{- end -}}
-</ul>
+{{ define "main" }} 
+Most Recent
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }} {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }} {{ range $paginator.Pages }} 
+{{.Title}}
+{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} 
+{{ if isset .Params "description" }} {{ .Description }} {{ else }} {{ .Summary }}… {{ end }} 
+Read more ⟶ {{ end }} {{ template "partials/paginator.html" . }} 
+All Articles
+       {{- range .Data.Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}} 
+    1. {{.Title}} {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} {{- end -}} {{- end -}} 
+All Tags
+{{ if ne (len $.Site.Taxonomies.tags) 0 }} {{ $largestFontSize := 1.4 }} {{ $smallestFontSize := 1.0 }} {{ $fontSpread := sub $largestFontSize $smallestFontSize }} {{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }} {{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }} {{ $spread := sub $max $min }} {{ $fontStep := div $fontSpread $spread }} {{ range $name, $taxonomy := $.Site.Taxonomies.tags }} {{ $tagCount := len $taxonomy.Pages }} {{ $currentFontSize := (add $smallestFontSize (mul (sub $tagCount $min) $fontStep) ) }} {{ $weigth := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }} {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth)) }} {{ $name }}{{ $tagCount }} {{ end }} {{ end }} 
 {{ end }}

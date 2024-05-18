@@ -1,0 +1,10 @@
+{{ partial "header.html" . }} 
+{{ partial "head.html" . }} 
+{{- if isset .Site.Params "subtitle" -}} 
+{{ .Site.Params.Subtitle | markdownify }}
+{{- end -}} 
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }} {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }} {{ range $paginator.Pages }}
+
+{{.Title}}
+{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} 
+{{ template "partials/pagedescription.html" . }} Read more ⟶ {{ end }} {{ template "partials/paginator.html" . }} {{ partial "footer.html" . }} 
