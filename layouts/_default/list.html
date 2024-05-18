@@ -11,7 +11,7 @@
  Read more ⟶ {{ end }} {{ template "partials/paginator.html" . }}
 
  <h1 class="page-title">All Articles</h1>
-    {{- range .Data.Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice"page")) .Type)) -}}
+    {{- range .Data.Pages -}} {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
     {{.Title}} {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} {{- end -}}
 
 	<h1 class="page-title">All Tags</h1>
