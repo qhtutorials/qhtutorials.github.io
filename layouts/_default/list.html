@@ -7,7 +7,7 @@
 	{{ range $paginator.Pages }}
 	<section class="list-item">
 		<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
-		<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
+		<time class="datefont">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
 		<br>{{ template "partials/pagedescription.html" . }}
 		<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
 	</section>
@@ -15,7 +15,7 @@
 	{{ template "partials/paginator.html" . }}
 </main>
 
-<h1 class="page-title">All articles</h1>
+<h1 class="page-title">All Articles</h1>
 <ul class="posts">
 	{{- range .Data.Pages -}}
 		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}

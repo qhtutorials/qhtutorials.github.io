@@ -1,10 +1,32 @@
-{{ partial "header.html" . }} 
-{{ partial "head.html" . }} 
-{{- if isset .Site.Params "subtitle" -}} 
-{{ .Site.Params.Subtitle | markdownify }}
-{{- end -}} 
-{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }} {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }} {{ range $paginator.Pages }}
-
-{{.Title}}
-{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} DRAFT {{ end }} 
-{{ template "partials/pagedescription.html" . }} Read more ⟶ {{ end }} {{ template "partials/paginator.html" . }} {{ partial "footer.html" . }} 
+<!DOCTYPE html>
+<html>
+	{{ partial "header.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "head.html" . }}
+			
+			<main class="list">
+				<div class="site-description">
+					{{- if isset .Site.Params "subtitle" -}}
+					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
+					{{- end -}}
+				</div>
+				<div class="hometable">
+					<table class="hompeagetable">
+						<tr>
+							<th><a href="www.google.com"><img src="https://www.svgrepo.com/show/513175/book-closed.svg" alt="A book icon"></a></th>
+							<th><a href="www.duckduckgo.com"><img src="https://www.svgrepo.com/show/478737/video-playback-mark.svg" alt="A video icon"></a></th>
+						</tr>
+						<tr>
+							<td><a href="www.bing.com"><img src="https://www.svgrepo.com/show/347456/slideshow-3.svg" alt="A slideshow icon"></a></td>
+							<td><a href="www.google.com"><img src="https://www.svgrepo.com/show/478188/pdf.svg" alt="A PDF icon"></a></td>
+						</tr>
+					</table>
+				</div>
+				{{.Content}}
+			</main>
+			{{ partial "footer.html" . }}
+		</div>
+		
+	</body>
+</html>
