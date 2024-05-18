@@ -275,6 +275,7 @@
     }
     .tags a{
       color: #3042cd; 
+      border-bottom: none;
     }
     .tags a:hover{
       border-bottom: 2px solid #3042cd;
