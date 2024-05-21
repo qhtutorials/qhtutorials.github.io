@@ -1,0 +1,520 @@
+/* Markdown */
+:root{
+    --bordercl:#737373;
+    --callouctcolor:dodgerblue;
+    --hovercolor: #fff;
+    }
+    html {
+      color: #232333;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 15px;
+      line-height: 1.6em;
+    }
+    body{
+      display: block;
+      margin: 8px;
+    }
+    * {
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+    
+    ::selection {
+      background: var(--maincolor);
+      color: #fff;
+    }
+    
+    p {
+      font-family: 'Merriweather-Regular', serif;
+      line-height: 1.5;
+    }
+    
+    hr {
+       border-top: 1.5 px solid #737373;
+    }
+    
+    blockquote {
+      border-left: 3px solid var(--bordercl);
+      color: #737373;
+      margin: 0;
+      padding-left: 1em;
+    }
+    
+    a {
+      color: #3042cd;
+      text-decoration: none;
+      font-family: 'Merriweather-Bold';
+      border-bottom: none;
+    }
+    a:hover {
+        border-bottom: 2px solid #3042cd;
+        background-color: none;
+        color: #3042cd;
+    }
+    
+    .container-tagcloud {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 2rem;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 2ch;
+    }
+    ul li {
+      text-indent: -2ch;
+      font-family: 'Merriweather-Regular';
+    }
+    ul > li::before {
+      content: '* ';
+      font-weight: bold;
+    }
+    
+    ol {
+        font-family: 'Merriweather-Regular';
+    }
+
+    /* Images */
+    img {
+      border: 3px solid #fff;
+      max-width: 100%;
+    }
+    
+    figure {
+      box-sizing: border-box;
+      display: inline-block;
+      margin: 0;
+      max-width: 100%;
+    }
+    
+    figure img {
+      max-height: 500px;
+    }
+    
+    @media screen and (min-width: 600px) {
+      figure {
+        padding: 0 40px;
+      }
+    }
+    
+    figure h4 {
+      font-size: 1rem;
+      margin: 0;
+      margin-bottom: 1em;
+    }
+    figure h4::before {
+      content: '↳ ';
+    }
+    
+    /* Code blocks */
+    code {
+      background-color: #f1f1f1;
+      padding: .1em .2em;
+    }
+    
+    pre {
+      background-color: #ececec;
+      line-height: 1.4;
+      overflow-x: auto;
+      padding: 1em;
+    }
+    
+    .highlight pre ::selection {
+      background: rgba(255, 255, 255, 0.2);
+      color: inherit;
+    }
+    
+    pre code {
+      background-color: transparent;
+      color: inherit;
+      font-size: 100%;
+      padding: 0;
+    }
+    
+    /* Containers */
+    .content {
+      margin-bottom: 4em;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 1000px;
+      padding: 0 1ch;
+      word-wrap: break-word;
+    }
+    
+    /* Header */
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin: 1em 0;
+      line-height: 2.5em;
+    }
+    
+    header .main {
+      font-size: 1.5rem;
+    }
+
+    header a {
+      font-size: 1.5rem;
+      margin-right: 3rem;
+    }
+
+    .header nav, .footer {
+        border-color: #333;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Merriweather-Bold';
+      color: #232323;
+      margin-top: 2em;
+    }
+
+    h1 {font-size: 2rem;}
+    h2 {font-size: 1.7rem;}
+    h3 {font-size: 1.5rem;}
+    h4 {font-size: 1.2rem;}
+    h5 {font-size: 1rem;}
+    h6 {font-size: 0.8rem;}
+    
+    h1::before { color: #fff; content: none; }
+    h2::before { color: #fff; content: none; }
+    h3::before { color: #fff; content: none; }
+    h4::before { color: #fff; content: none; }
+    h5::before { color: #fff; content: none; }
+    h6::before { color: #fff; content: none; }
+    
+    .meta {
+      font-family: 'Merriweather-Regular', serif;
+        color: #999;
+      letter-spacing: -0.5px;
+      display: inline;
+      justify-content: space-between;
+    }
+    
+    /* Footer */
+    footer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-top: 0.1rem solid var(--bordercl);
+      padding-top: 1.5rem;
+    }
+    .soc {
+      display: flex;
+      align-items: center;
+    }
+    .border {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+      border: 1px solid;
+      color: #000000;
+    }
+    .footer-info {
+      font-family: 'Merriweather-Regular', serif;
+      color: #000000;
+    }
+    
+    /* Common */
+    .title h1 {
+      margin-bottom: 0;
+      color: #232333;
+    }
+    
+    time {
+      color: grey;
+    }
+    
+    .datefont {
+        font-family: 'Merriweather-Regular', serif;
+    }
+
+    /* Posts */
+    article .title {
+      margin-bottom: 1em;
+    }
+    
+    
+    /* Callout */
+    .callout {
+      background-color: var(--callouctcolor);
+      color: #fff;
+      padding: 1em;
+    }
+    
+    .callout p {
+      font-family: 'IBM Plex Mono', monospace;
+      margin: 0;
+    }
+    
+    .callout a {
+      border-bottom: 3px solid #fff;
+    }
+    
+    .callout a:hover {
+      background-color: #fff;
+      color: var(--callouctcolor);
+    }
+    
+    .description {
+        font-family: 'Merriweather-Regular', serif;
+    }
+
+    .hometable {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .hometable img {
+        max-width: 30%;
+    }
+
+    .hometable table a:hover {
+        border-bottom: #fff;
+    }
+
+    .hometable td, th, tr {
+        width: 68rem;
+        height: 13rem;
+        text-align: center;
+        font-family: 'Merriweather-Regular', serif;
+        border: solid 3px #fff;
+        border-left: solid 3px #fff;
+        border-right: solid 3px #fff;
+    }
+    
+    .tags ul {
+      list-style: none;
+    }
+
+    .tags li {
+      display: inline;
+      justify-content: space-between;
+      margin-right: 1.5rem;
+    }
+
+    .tags li::before{
+      content: none;
+    }
+    .tags a{
+      color: #3042cd; 
+      border-bottom: none;
+    }
+    .tags a:hover{
+      border-bottom: 2px solid #3042cd;
+      color: #3042cd;
+      background-color: none; 
+    }
+
+    .post-tags {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch;
+    }
+
+    .post-tags ul {
+      margin-right: 53rem;
+    }
+    
+    svg{
+      max-height: 15px;
+    }
+
+    .soc:hover{
+      color: #000000;
+    }
+    .draft-label{ 
+        color: var(--bordercl);
+        text-decoration: none;
+        padding: 2px 4px;
+        border-radius: 4px;
+        margin-left: 6px;
+        background-color: #f9f2f4;
+    }
+    .highlight {
+      position: relative;
+      -webkit-overflow-scrolling: touch;
+      background-color: #333;
+    }
+    .highlight pre code[class*="language-"] {
+      -webkit-overflow-scrolling: touch;
+    }
+    .highlight pre code[class*="language-"]::before {
+      background: black;
+      border-radius: 0 0 0.25rem 0.25rem;
+      color: white;
+      font-size: 12px;
+      letter-spacing: 0.025rem;
+      padding: 0.1rem 0.5rem;
+      position: absolute;
+      right: 1rem;
+      text-align: right;
+      text-transform: uppercase;
+      top: 0;
+    }
+    
+    .highlight pre code[class=language-javaScript]::before,
+    .highlight pre code[class="language-js"]::before {
+    content: "js";
+    background: #f7df1e;
+    color: black;
+    }
+    .highlight pre code[class*='language-yml']::before,
+    .highlight pre code[class*='language-yaml']::before {
+    content: 'yaml';
+    background: #f71e6a;
+    color: white;
+    }
+    .highlight pre code[class*='language-shell']::before,
+    .highlight pre code[class*='language-bash']::before,
+    .highlight pre code[class*='language-sh']::before {
+    content: 'shell';
+    background: green;
+    color:white
+    }
+    .highlight pre code[class*='language-json']::before{
+    content: 'json';
+    background: dodgerblue;
+     color: #000000 
+    }
+    .highlight pre code[class*='language-python']::before,
+    .highlight pre code[class*='language-py']::before {
+    content: 'py';
+    background: blue;
+    color: yellow ;
+    }
+    .highlight pre code[class*='language-css']::before{
+    content: 'css';
+    background: cyan;
+    color: black ;
+    }
+    .highlight pre code[class*='language-go']::before{
+    content: 'Go';
+    background: cyan;
+    color: royalblue ;
+    }
+    .highlight pre code[class*='language-md']::before,
+    .highlight pre code[class*='language-md']::before{
+    content: 'Markdown';
+    background: royalblue;
+    color: whitesmoke ;
+    }
+    
+    /* table */
+    table {
+      border-spacing: 0;
+      border-collapse: collapse;
+      width: 0.1em;
+      height: 0.1em;
+    }
+    
+    table th{
+      padding: 6px 13px;
+      border: 1px solid #dfe2e5;
+      font-size: large;
+      height: 0.1em;
+    }
+    
+    table td{
+      padding: 6px 13px;
+      border: 1px solid #dfe2e5;
+      height: 0.1em;
+    }
+    
+    table tr {
+        height: 0.1em;
+    }
+
+::-moz-selection {
+    background: blue;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: rebeccapurple;
+    color: #fff;
+    text-shadow: none;
+}
+
+hr {
+    border-top: 1.5px solid #737373;
+}
+
+.site-description a {
+    color: #000000;
+}
+
+.site-description a:hover {
+    color: #000000;
+}
+
+.site-description img {
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.site-title a {
+    color: white;
+    text-decoration: none !important;
+}
+
+    /* Merriweather-Regular */
+@font-face {
+    font-display: swap;
+    font-family: 'Merriweather-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Merriweather-Regular.otf')
+}
+
+    /* Merriweather-Bold */
+@font-face {
+    font-display: swap;
+    font-family: 'Merriweather-Bold';
+    font-style: normal;
+    font-weight: 400;
+    src:url('../fonts/Merriweather-Bold.otf')
+}
+
+    /* fira-sans-regular - latin */
+@font-face {
+    font-display: swap;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/fira-sans-v10-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Fira Sans Regular'), local('FiraSans-Regular'),
+         url('../fonts/fira-sans-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/fira-sans-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/fira-sans-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/fira-sans-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/fira-sans-v10-latin-regular.svg#FiraSans') format('svg'); /* Legacy iOS */
+  }
+  /* roboto-mono-regular - latin */
+  @font-face {
+    font-display: swap;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-mono-v12-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/roboto-mono-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/roboto-mono-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/roboto-mono-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/roboto-mono-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/roboto-mono-v12-latin-regular.svg#RobotoMono') format('svg'); /* Legacy iOS */
+  }
+  /* ibm-plex-mono-500italic - latin */
+  @font-face {
+    font-display: swap;
+    font-family: 'IBM Plex Mono';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/ibm-plex-mono-v6-latin-500italic.eot'); /* IE9 Compat Modes */
+    src: local('IBM Plex Mono Medium Italic'), local('IBMPlexMono-MediumItalic'),
+         url('../fonts/ibm-plex-mono-v6-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/ibm-plex-mono-v6-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/ibm-plex-mono-v6-latin-500italic.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/ibm-plex-mono-v6-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/ibm-plex-mono-v6-latin-500italic.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+  }
+  

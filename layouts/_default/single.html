@@ -3,7 +3,7 @@
 	<article>
 		<div class="title">
 			<h1 class="title">{{ .Title }}</h1>
-			<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}
+			<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }} 
 				<div class="post-tags">
 					{{ if ne .Type "page" }}
 					{{ if gt .Params.tags 0 }}
@@ -40,6 +40,22 @@
 		{{- if eq ($.Scratch.Get "isDisqus") true -}}
 		{{- partial "disqus.html" . -}}
 		{{- end -}}
+
+		<div class="post-tags">
+			{{ if ne .Type "page" }}
+			{{ if gt .Params.tags 0 }}
+			<h5><a href="https://qhtutorials.github.io/tags/">Tags:</a></h5>
+			<nav class="nav tags">
+				<ul class="tags">
+					{{ range .Params.tags }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</nav>
+			{{ end }}
+			{{ end }}
+		</div>
+
 	</article>
 </main>
 {{ end }}
