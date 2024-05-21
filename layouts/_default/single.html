@@ -5,11 +5,10 @@
 			<h1 class="title">{{ .Title }}</h1>
 			<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 		</div>
-
 		<div class="post-tags">
 			{{ if ne .Type "page" }}
 			{{ if gt .Params.tags 0 }}
-			<h3><a href="https://qhtutorials.github.io/tags/">Tags:</a></h3>
+			<h5><a href="https://qhtutorials.github.io/tags/">Tags:</a></h5>
 			<nav class="nav tags">
 				<ul class="tags">
 					{{ range .Params.tags }}

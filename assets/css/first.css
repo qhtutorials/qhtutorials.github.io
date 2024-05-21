@@ -280,6 +280,14 @@
         border-right: solid 3px #fff;
     }
     
+    .tags ul {
+      list-style: none;
+    }
+
+    .tags li {
+      display: inline;
+    }
+
     .tags li::before{
       content: none;
     }
