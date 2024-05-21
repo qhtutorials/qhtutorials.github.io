@@ -270,7 +270,7 @@
         border-bottom: #fff;
     }
 
-    .hometable table, tbody, td, th, tr {
+    .hometable td, th, tr {
         width: 68rem;
         height: 13rem;
         text-align: center;
@@ -286,6 +286,8 @@
 
     .tags li {
       display: inline;
+      justify-content: space-between;
+      margin-right: 3rem;
     }
 
     .tags li::before{
