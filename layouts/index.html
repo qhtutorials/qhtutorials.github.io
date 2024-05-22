@@ -11,17 +11,10 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
-				<div class="hometable">
-					<table class="hompeagetable">
-						<tr>
-							<th><a href="https://qhtutorials.github.io/posts/"><img src="https://www.svgrepo.com/show/513175/book-closed.svg" alt="A book icon"></a></th>
-							<th><a href="https://qhtutorials.github.io/videos/"><img src="https://www.svgrepo.com/show/478737/video-playback-mark.svg" alt="A video icon"></a></th>
-						</tr>
-						<tr>
-							<td><a href="https://qhtutorials.github.io/slides/"><img src="https://www.svgrepo.com/show/347456/slideshow-3.svg" alt="A slideshow icon"></a></td>
-							<td><a href="https://qhtutorials.github.io/pdfs/"><img src="https://www.svgrepo.com/show/478188/pdf.svg" alt="A PDF icon"></a></td>
-						</tr>
-					</table>
+				<div class="homepage">
+					<img class="logo" src="watermark.png" alt="The Quickly How Tutorials Logo">
+					<p class="homepagetext1">Hi! I write <a href="https://qhtutorials.github.io/posts/">tutorials</a> for software documentation, format screenshots for <a href="https://qhtutorials.github.io/slides/">slideshows</a> and <a href="https://qhtutorials.github.io/pdfs/">PDFs</a>, and edit <a href="https://qhtutorials.github.io/videos/">video</a> tutorials.</p>
+				    <p class="homepagetext"2>If you need help creating documentation, send me an email at <a href="mailto:qhtutorials@gmail.com">qhtutorials@gmail.com</a></p>
 				</div>
 				{{.Content}}
 			</main>
