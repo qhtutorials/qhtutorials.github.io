@@ -6,6 +6,8 @@ date = "2019-02-28"
 
 Here is a list of all the YouTube video tutorials I created.
 
+<div class="videotest"><iframe allowfullscreen="" class="BLOG_video_class" height="416" src="https://www.youtube.com/embed/tR79UbA_bjo" width="80%" youtube-src-id="tR79UbA_bjo" title="How to Use the Microsoft World Clock"></iframe></div>
+
 ## Microsoft Windows 11 Tutorials
 1. [Microsoft Sticky Notes App (Windows 11)](https://google.com)
 2. Microsoft Notepad App (Windows 11)
@@ -18,6 +20,7 @@ Link to playlists here
 2. How to Install Live Home 3D - House Design on Windows 11
 3. How to Install Inkscape on Windows 11
 
+{{< youtube pHmHD9lYm6E >}}
 
 ## Microsoft Sticky Notes App (Windows 11)
 
@@ -40,7 +43,6 @@ Link to playlists here
 
 
 ## Microsoft Whiteboard App (Windows 11)
-
 * https://github.com/yuin/goldmark
 * https://github.com/alecthomas/chroma
 * https://github.com/muesli/smartcrop
@@ -66,6 +68,8 @@ Link to playlists here
 ## How to Install Inkscape on Windows 11
 
 * https://github.com/yuin/goldmark
+
+<iframe allowfullscreen="" class="BLOG_video_class" height="416" src="https://www.youtube.com/embed/AAkwdvBlh1M" width="100%" youtube-src-id="AAkwdvBlh1M"></iframe>
 
 All the videos listed here were created with kdenlive.
 

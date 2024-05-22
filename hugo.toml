@@ -6,9 +6,17 @@ publishDir = "docs"
 copyright = "© Quickly How Tutorials"
 paginate=3
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"] 
+
+[markup]
+   [markup.goldmark]
+      [markup.goldmark.renderer]
+         unsafe = true
+
 [params]
    customcss = ["css/first.css"] 
- 
+
 [[params.social]]
 name = "GitHub"
 icon = "github"

@@ -14,14 +14,14 @@
       <link>http://localhost:1313/slides/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/slides/</guid>
-      <description>Here is a list of all the Google Slides tutorials I created.&#xA;The problem is, how do I link to the slide deck? I can&amp;rsquo;t embed it Do I just copy and paste the google drive link?&#xA;Microsoft Windows 11 Tutorials Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Microsoft Whiteboard App (Windows 11) Microsoft Windows Clock App (Windows 11) Installation Guides How to Install GIMP on Windows 11 How to Install Live Home 3D - House Design on Windows 11 How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) https://github.</description>
+      <description>Here is a list of all the Google Slides tutorials I created. For full screen mode, click the &amp;ldquo;Menu&amp;rdquo; or three vertical dots button, then click enter &amp;ldquo;Full Screen&amp;rdquo;. Or click the presentation and on the keyboard press Ctrl + Shift + F. Press Esc to exit full screen mode.&#xA;The problem is, how do I link to the slide deck? I can&amp;rsquo;t embed it Do I just copy and paste the google drive link?</description>
     </item>
     <item>
       <title>PDFs</title>
       <link>http://localhost:1313/pdfs/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pdfs/</guid>
-      <description>Here is a list of all the PDF tutorials I created.&#xA;Microsoft Windows 11 Tutorials Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Microsoft Whiteboard App (Windows 11) Microsoft Windows Clock App (Windows 11) ^Yes, google drive links do work. Installation Guides How to Install GIMP on Windows 11 How to Install Live Home 3D - House Design on Windows 11 How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) https://github.</description>
+      <description>Here is a list of all the PDF tutorials I created.&#xA;This is a sample of the table of contents&#xA;This tutorial covers:&#xA;How to Open the Microsoft Sticky Notes App How to Close the Microsoft Sticky Notes App How to Customize the Microsoft Sticky Notes App How to Open the Microsoft Sticky Notes App&#xD;Blah blah blah&#xD;Microsoft Windows 11 Tutorials Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Microsoft Whiteboard App (Windows 11) Microsoft Windows Clock App (Windows 11) ^Yes, google drive links do work.</description>
     </item>
     <item>
       <title>Telegram Bot for  GitHub Actions</title>
@@ -99,6 +99,13 @@
       <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
       <guid>http://localhost:1313/posts/post-2/</guid>
       <description>We spend our days filling in every available space, cramming in more tasks, responding to messages, checking social media and online sites, watching videos.&#xA;We are afraid of empty space in our lives.&#xA;The result is often a continual busyness, constant distraction and avoidance, lack of focus, lack of satisfaction with our lives.&#xA;We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness.</description>
+    </item>
+    <item>
+      <title>Search Results</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.&#xA;No content shown here is rendered, all content is based in the template layouts/page/search.html&#xA;Setting a very low sitemap priority will tell search engines this is not important content.&#xA;This implementation uses Fusejs, jquery and mark.js&#xA;Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
     </item>
   </channel>
 </rss>
