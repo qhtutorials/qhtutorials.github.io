@@ -15,6 +15,8 @@ This tutorial covers:
 <h2 id="1">How to Open the Microsoft Sticky Notes App</h2>
 Blah blah blah
 
+Is this not considered markdown anymore? I have to use html now? 
+<p>This is paragraph text</p>
 
 ## Microsoft Windows 11 Tutorials
 1. [Microsoft Sticky Notes App (Windows 11)](https://google.com)

@@ -21,7 +21,7 @@
       <link>http://localhost:1313/pdfs/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pdfs/</guid>
-      <description>Here is a list of all the PDF tutorials I created.&#xA;This is a sample of the table of contents&#xA;This tutorial covers:&#xA;How to Open the Microsoft Sticky Notes App How to Close the Microsoft Sticky Notes App How to Customize the Microsoft Sticky Notes App How to Open the Microsoft Sticky Notes App&#xD;Blah blah blah&#xD;Microsoft Windows 11 Tutorials Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Microsoft Whiteboard App (Windows 11) Microsoft Windows Clock App (Windows 11) ^Yes, google drive links do work.</description>
+      <description>Here is a list of all the PDF tutorials I created.&#xA;This is a sample of the table of contents&#xA;This tutorial covers:&#xA;How to Open the Microsoft Sticky Notes App How to Close the Microsoft Sticky Notes App How to Customize the Microsoft Sticky Notes App How to Open the Microsoft Sticky Notes App&#xD;Blah blah blah&#xD;Is this not considered markdown anymore? I have to use html now?</description>
     </item>
     <item>
       <title>Telegram Bot for  GitHub Actions</title>

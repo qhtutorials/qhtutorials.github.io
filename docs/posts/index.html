@@ -106,6 +106,9 @@
 
 
 </main>
+  
+</div>
+
 
 <h1 class="page-title">All Articles</h1>
 <ul class="posts"><li class="post">
@@ -174,6 +177,32 @@
             </a>
         
     
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="http://localhost:1313/search.js"></script>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  
+</section>
+
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
+
+<div class="my-auto" >
+  <form action="http://localhost:1313/search">
+    <input id="search-query" name="s"/>
+  </form>
+  <div id="search-results">
+   <h3>Matching pages</h3>
+  </div>
 </div>
 
 <footer>

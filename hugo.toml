@@ -6,9 +6,6 @@ publishDir = "docs"
 copyright = "© Quickly How Tutorials"
 paginate=3
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"] 
-
 [markup]
    [markup.goldmark]
       [markup.goldmark.renderer]
@@ -21,6 +18,9 @@ paginate=3
 name = "GitHub"
 icon = "github"
 url = "https://github.com/qhtutorials/qhtutorials.github.io"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] 
 
 [[menu.main]]
 name = "Blog"
