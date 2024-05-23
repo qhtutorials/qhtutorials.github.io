@@ -1,62 +1,61 @@
 ---
-title: "Primer: When You Have Too Much to Do"
+title: "How to Open the Microsoft Sticky Notes App (Windows 11)"
 date: 2020-04-01T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+description: "Microsoft Sticky Notes does more than just note-taking. Insert images, hyperlinks, and even customize the sticky note color. Learn how to open the Sticky Notes app on Windows 11."
+tags: [Sticky Notes, Windows 11]
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+This tutorial covers:
+1. <a href="#1">What is the Microsoft Sticky Notes App?</a>
+2. <a href="#2">How to Open the Microsoft Sticky Notes App With Search</a>
 
-It all keeps piling up, and it can feel overwhelming.
+<br />
+<p>No time to scroll down? Click through this tutorial presentation:</p>
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+Watch a tutorial video here:
 
-## The First Step: Triage
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+<h1 id="1">What is the Microsoft Sticky Notes App?</h1>
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a "Dark" mode for the app.
 
-Here’s what you might do:
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+<h1 id="2">How to Open the Sticky Notes App With Search</h1>
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+*Step 1: Go down to the taskbar and click Start (four blue squares). <div class="stepimage">![A screenshot of the cursor clicking the Start (four blue squares) button on the lower left side of the taskbar at the bottom of the screen.](c:\Users\jamiy\github\qhtutorials.github.io\static\watermark.png "Click the Start button")</div>
 
-## Next: Focus on One Thing
+*Step 2: In the Start window that opens, click the top search bar and type "sticky notes". <div class="stepimage">![A screenshot of the cursor clicking the search bar at the top of the Start window.](../../static/blogstartbuttonedit.png)</div>
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+*Step 3: On the search results screen, click one of the following to open the Sticky Notes app. <div class="stepimage">![A screenshot of the search results, with three blue rectangles surrounding the "Sticky Notes App" and "Open" buttons.](../../static/watermark.png)</div>
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+Troubleshooting the image paths
+If the current post file is in content/posts, then the path should go back from posts to content, go back from content to root, from root to static, then images, then the image ../../static/images/blogstartbuttonedit.png
+Should not be this, because posts goes back to content which is in the root
 
-The shift:
+![A screenshot of the cursor clicking the Start (four blue squares) button on the lower left side of the taskbar at the bottom of the screen.](c:\Users\jamiy\github\qhtutorials.github.io\static\watermark.png "Click the Start button")
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+Even when I click the goddamn vscode link, it still doesn't work. It knows that it's an image, but it just won't link to it. Otherwise the alt text wouldn't appear
 
-## Third: Schedule Time to Simplify
+{{< figure src="../" title="A screenshot of the cursor clicking the Start (four blue squares) button on the lower left side of the taskbar at the bottom of the screen." >}}
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+Or ../../assets/images/blogstartbuttonedit.png. Can't be this
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+Or blogstartbutonedit.png. This doesn't work
 
-## Fourth: Practice Mindful Focus
+Or ../blogstartbuttonedit.png this shouldn't work because you didn't specify the static folder
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+Or ../static/blogstartbuttonedit.png 
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+Or ../static/images/blogstartbuttonedit.png
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+Or perhaps the file is not the post file, but the html file which is single.html, so layouts/_default/single.html, so ../to go to layouts, ../ to go to root, then static/images/filename
+../../static/images/filename. But this doesn't work
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+
+Future posts will cover more features of the Sticky Notes app, so stay tuned!
+
+<br />

@@ -41,20 +41,6 @@
 		{{- partial "disqus.html" . -}}
 		{{- end -}}
 
-		<div class="post-tags">
-			{{ if ne .Type "page" }}
-			{{ if gt .Params.tags 0 }}
-			<h5><a href="https://qhtutorials.github.io/tags/">Tags:</a></h5>
-			<nav class="nav tags">
-				<ul class="tags">
-					{{ range .Params.tags }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</nav>
-			{{ end }}
-			{{ end }}
-		</div>
      <div class="backtolink">
         <a href="https://qhtutorials.github.io/posts/">Back to Blog</a>
 	 </div>

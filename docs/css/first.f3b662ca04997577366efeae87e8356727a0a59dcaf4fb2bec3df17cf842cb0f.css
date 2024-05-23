@@ -80,10 +80,6 @@
       max-width: 100%;
     }
     
-    .stepimage {
-      margin-bottom: 3rem;
-    }
-
     figure {
       box-sizing: border-box;
       display: inline-block;
@@ -312,7 +308,7 @@
     }
 
     .post-tags ul {
-      margin-right: 48em;
+      margin-right: 70%;
     }
     
     svg{
