@@ -43,6 +43,6 @@ View a video tutorial:
 * Step 2: On the far right side of a sticky note, click the "Menu" or "..." button. <div class="stepimage">![A screenshot of the cursor clicking the "..." button on a sticky note.](blogclick3dotspreviewedit.png "Click the '...' button ")</div>
 * Step 3: In the menu that opens, click "Open note" to open the sticky note. <div class="stepimage">![A screenshot of the cursor clicking the "Open note" option in the menu.](blogclick3dotsopennote.png "Click 'Open note' ")</div>
 
-Refer to these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1jCTxgXycW9Vlvw6Fp8hx-mKooqKqWbfS/view?usp=sharing).
+Refer to these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1jCTxgXycW9Vlvw6Fp8hx-mKooqKqWbfS/view?usp=drive_link).
 
 <br />

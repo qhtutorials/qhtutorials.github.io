@@ -55,6 +55,6 @@ Follow along with a tutorial video:
 * Step 5: Click the Start button twice, and in the Start window that opens, click the pinned Sticky Notes app icon. <div class="stepimage">![A screenshot of the cursor clicking the Start button twice and clicking the pinned Sticky Notes icon in the Start window.](blogclickpinnedstarttoopenedit.png "Click Start twice and click the pinned app icon")</div>
 * The Sticky Notes app opens. <div class="stepimage">![A screenshot of the Sticky Notes app sticky note and Notes list window on the Desktop.](blogopenedstickynotesapp.png "The open Sticky Notes app")</div>
 
-Download a free [tutorial PDF](https://drive.google.com/file/d/1JSYyVw9PwulK7yNpqd7RoE1PUlBYGJN7/view?usp=sharing).
+Download a free [tutorial PDF](https://drive.google.com/file/d/1JSYyVw9PwulK7yNpqd7RoE1PUlBYGJN7/view?usp=drive_link).
 
 <br />

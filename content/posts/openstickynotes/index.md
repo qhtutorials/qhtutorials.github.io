@@ -29,6 +29,6 @@ Sticky Notes is a note-taking app that comes with Windows 11. Notes can have for
 * Step 3: On the search results screen, click one of the following to open the Sticky Notes app. <div class="stepimage">![A screenshot of the search results, with three blue rectangles surrounding the "Sticky Notes App" and "Open" buttons.](blogsearchresultsedit.png "Click one of these buttons")</div>
 * Step 4: The Sticky Notes app opens. <div class="stepimage">![A screenshot of the Sticky Notes app sticky note and Notes list window on the Desktop.](blogopenedstickynotesapp.png "The open Sticky Notes app")</div>
 
-Save a copy of these instructions for later with this free [PDF tutorial.](https://drive.google.com/file/d/19-IHsU3aatTXJBe3CdYHjQYBJc4Qn_Fq/view?usp=sharing)
+Save a copy of these instructions for later with this free [PDF tutorial.](https://drive.google.com/file/d/1u-8EIZycee7qAfUrDxP2S25WiesUkjXd/view?usp=drive_link)
 
 <br />
