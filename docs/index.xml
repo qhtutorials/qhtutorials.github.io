@@ -14,14 +14,28 @@
       <link>http://localhost:1313/slides/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/slides/</guid>
-      <description>Here is a list of all the Google Slides tutorials I created. For full screen mode, click the &amp;ldquo;Menu&amp;rdquo; or three vertical dots button, then click enter &amp;ldquo;Full Screen&amp;rdquo;. Or click the presentation and on the keyboard press Ctrl + Shift + F. Press Esc to exit full screen mode.&#xA;The problem is, how do I link to the slide deck? I can&amp;rsquo;t embed it Do I just copy and paste the google drive link?</description>
+      <description>Here is a list of all the Google Slides tutorials I created.&#xA;For full screen mode:&#xA;Click the &amp;ldquo;Menu&amp;rdquo; or three vertical dots button. In the menu click &amp;ldquo;Enter Full Screen&amp;rdquo;. The keyboard shortcut for full screen mode is Ctrl + Shift + F.&#xA;Press Esc to exit full screen mode.&#xA;Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) Microsoft Windows Clock App (Windows 11) </description>
     </item>
     <item>
       <title>PDFs</title>
       <link>http://localhost:1313/pdfs/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pdfs/</guid>
-      <description>Here is a list of all the PDF tutorials I created.&#xA;This is a sample of the table of contents&#xA;This tutorial covers:&#xA;How to Open the Microsoft Sticky Notes App How to Close the Microsoft Sticky Notes App How to Customize the Microsoft Sticky Notes App How to Open the Microsoft Sticky Notes App&#xD;Blah blah blah&#xD;Is this not considered markdown anymore? I have to use html now?</description>
+      <description>Here is a list of all the PDF tutorials I created.&#xA;Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) Microsoft Windows Clock App (Windows 11) </description>
+    </item>
+    <item>
+      <title>How to Open a Sticky Note in the Microsoft Sticky Notes App</title>
+      <link>http://localhost:1313/posts/openastickynote/</link>
+      <pubDate>Mon, 01 Jun 2020 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/openastickynote/</guid>
+      <description>This tutorial covers:&#xA;How to Open a Sticky Note: With Double Click With Hover With Right Click From the Notes List No time to scroll down? Click through this presentation tutorial:&#xA;View a video tutorial:&#xA;How to Open a Sticky Note with Double Click Step 1: First open the Sticky Notes app. In the Notes List window, double click a sticky note to open it. How to Open a Sticky Note With Hover Step 1: Open the Sticky Notes app.</description>
+    </item>
+    <item>
+      <title>How to Pin the Microsoft Sticky Notes App</title>
+      <link>http://localhost:1313/posts/pinstickynotes/</link>
+      <pubDate>Fri, 01 May 2020 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/pinstickynotes/</guid>
+      <description>This tutorial covers:&#xA;How to Pin the Sticky Notes App: To the Taskbar With Search To the Taskbar With Right Click To the Taskbar From Start To Start No time to scroll down? Click through this tutorial presentation:&#xA;Follow along with a tutorial video:&#xA;How to Pin Sticky Notes to the Taskbar With Search Step 1: Go down to the taskbar and click Start (four blue squares). Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;sticky notes&amp;rdquo;.</description>
     </item>
     <item>
       <title>Telegram Bot for  GitHub Actions</title>
@@ -35,6 +49,13 @@
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Open the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/openstickynotes/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/openstickynotes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
@@ -63,7 +84,7 @@
       <link>http://localhost:1313/videos/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/videos/</guid>
-      <description>Here is a list of all the YouTube video tutorials I created.&#xA;Microsoft Windows 11 Tutorials Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Microsoft Whiteboard App (Windows 11) Microsoft Windows Clock App (Windows 11) Link to playlists here Installation Guides How to Install GIMP on Windows 11 How to Install Live Home 3D - House Design on Windows 11 How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) https://github.</description>
+      <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) Microsoft Windows Clock App (Windows 11) Link to playlists here Normal Normal Normal Normal </description>
     </item>
     <item>
       <title>How to test dark mode?</title>

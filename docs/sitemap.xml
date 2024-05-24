@@ -11,25 +11,31 @@
     <loc>http://localhost:1313/pdfs/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/openastickynote/</loc>
+    <lastmod>2020-06-01T02:01:58+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sticky-notes/</loc>
+    <lastmod>2020-06-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-06-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows-11/</loc>
+    <lastmod>2020-06-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pinstickynotes/</loc>
+    <lastmod>2020-05-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tg-gh/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/firstpost/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/post-1/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sticky-notes/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/windows-11/</loc>
+    <loc>http://localhost:1313/posts/openstickynotes/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-4/</loc>
