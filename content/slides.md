@@ -1,8 +1,10 @@
-+++
-title = "Slides"
-description = "A collection of YouTube tutorial video links."
-date = "2023-03-21"
-+++
+---
+title : Slides
+description : "A collection of Google Slide Decks."
+date : "2019-02-28"
+type: page
+layout: pagelayout
+---
 
 Here is a list of all the Google Slides tutorials I created. 
 
@@ -10,10 +12,17 @@ Here is a list of all the Google Slides tutorials I created.
 1. Click the "Menu" or three vertical dots button.
 2. In the menu click "Enter Full Screen". 
 
+<br />
+
 The keyboard shortcut for full screen mode is **Ctrl + Shift + F**. 
 
 Press **Esc** to exit full screen mode.
 
+
+## Installation Guides
+1. How to Install Inkscape on Windows 11 <div class="slidesitem"><iframe allowfullscreen="true" frameborder="0" height="299" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSYrcn96fodjHMwin3XF5ec_6KrCh2JAYlzYmEM16NOTQS_H86yYZBbjcWoAvSA9jjP4crJxybMgwBL/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe></div>
+
+<br />
 
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 1. How to Open the Microsoft Sticky Notes App (Windows 11) <div class="slidesitem"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBFr6TrImOfwthUC1D_I1MR2zCRVuQmbetJX3vCa6lgjoXg4Jgd18zFUJ8VXlSLAl-wUuLHFo2UAFr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>

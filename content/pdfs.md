@@ -1,9 +1,15 @@
-+++
-title = "PDFs"
-date = "2022-04-13"
-+++
+---
+title : PDFs
+description : "A collection of PDF tutorials."
+date : "2019-02-28"
+type: page
+layout: pagelayout
+---
 
 Here is a list of all the PDF tutorials I created.
+
+## Installation Guides
+1. [How to Install Inkscape on Windows 11](https://drive.google.com/file/d/1yCABGJc6fdNn2K1rWHdod0kq8jrc8N9d/view?usp=sharing)
 
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 1. [How to Open the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1u-8EIZycee7qAfUrDxP2S25WiesUkjXd/view?usp=drive_link)

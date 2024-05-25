@@ -1,8 +1,8 @@
 ---
 title: "How to Install Inkscape on Windows 11"
-date: 2020-07-01T02:01:58+05:30
+date: 2020-08-01T02:01:58+05:30
 description: "As a vector graphics editor, Inkscape is a free alternative to Adobe Illustrator. This step-by-step tutorial guides you through the Inkscape installation process."
-tags: [Installation Guides, GIMP]
+tags: [Installation Guides, Inkscape]
 ---
 This tutorial covers:
 
@@ -20,7 +20,7 @@ This tutorial covers:
 
 <br />
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPrS7YCJPr6Ha87HIAju996z6GnW4BPqjVtd5ZUwKPqYFxDUpZxD3VuI0t_z_RZ-voPeYhxxkAfaF8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" frameborder="0" height="299" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSYrcn96fodjHMwin3XF5ec_6KrCh2JAYlzYmEM16NOTQS_H86yYZBbjcWoAvSA9jjP4crJxybMgwBL/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe>
 
 <br />
 
@@ -121,6 +121,6 @@ Similar to Adobe Illustrator, Inkscape is a free vector graphics editor. Use Ink
 * Step 7: In the menu that opens, click "Uninstall". In the window that opens, click "Uninstall". <div class="stepimage">![A screenshot of the cursor clicking the "Uninstall" button. The second screenshot displays the cursor clicking the "Uninstall" button.](blogclickuninstall.png "Click 'Uninstall' ")</div>
 
 
-Save a copy of these instructions for later, with this free [tutorial PDF](https://drive.google.com/file/d/1ekgk7CcUtRD0teHTu9vYZ8RWCa-VuH4Y/view?usp=sharing).
+Save a copy of these instructions for later, with this free [tutorial PDF](https://drive.google.com/file/d/1yCABGJc6fdNn2K1rWHdod0kq8jrc8N9d/view?usp=sharing).
 
 <br />

@@ -1,8 +1,10 @@
-+++
-title = "Videos"
-description = "A collection of YouTube tutorial video links."
-date = "2019-02-28"
-+++
+---
+title : Videos
+description : "A collection of YouTube tutorial video links."
+date : "2019-02-28"
+type: page
+layout: pagelayout
+---
 
 Here is a list of all my YouTube video tutorials, created with kdenlive.
 

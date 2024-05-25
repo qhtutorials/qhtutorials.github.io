@@ -3,55 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/slides/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pdfs/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gimp/</loc>
-    <lastmod>2020-07-01T02:01:58+05:30</lastmod>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-install-inkscape/</loc>
-    <lastmod>2020-07-01T02:01:58+05:30</lastmod>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/opennoteslist/</loc>
-    <lastmod>2020-07-01T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/tags/inkscape/</loc>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/installation-guides/</loc>
-    <lastmod>2020-07-01T02:01:58+05:30</lastmod>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-08-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/open-notes-list/</loc>
     <lastmod>2020-07-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sticky-notes/</loc>
     <lastmod>2020-07-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-07-01T02:01:58+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/windows-11/</loc>
     <lastmod>2020-07-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/openastickynote/</loc>
+    <loc>http://localhost:1313/posts/open-a-sticky-note/</loc>
     <lastmod>2020-06-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pinstickynotes/</loc>
+    <loc>http://localhost:1313/posts/pin-sticky-notes/</loc>
     <lastmod>2020-05-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tg-gh/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>http://localhost:1313/posts/open-sticky-notes/</loc>
     <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/openstickynotes/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-4/</loc>
-    <lastmod>2020-03-18T12:13:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -59,29 +44,14 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/videos/</loc>
+    <loc>http://localhost:1313/pdfs/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-7/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+    <loc>http://localhost:1313/slides/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-6/</loc>
-    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/procrastinating/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/space/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+    <loc>http://localhost:1313/videos/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
