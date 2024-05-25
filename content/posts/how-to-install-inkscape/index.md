@@ -25,7 +25,7 @@ This tutorial covers:
 <br />
 
 Follow along with this video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="O-MRILaQUKA" width="100%" height="416" src="https://www.youtube.com/embed/O-MRILaQUKA"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="r0ZXbQzvYkI" width="100%" height="416" src="https://www.youtube.com/embed/r0ZXbQzvYkI"></iframe>
 
 <h1 id="1">What is Inkscape?</h1>
 

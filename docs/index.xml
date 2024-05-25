@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PDFs</title>
+      <link>http://localhost:1313/pdfs/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pdfs/</guid>
+      <description>Here is a list of all the PDF tutorials I created.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App (Windows 11) </description>
+    </item>
+    <item>
+      <title>Slides</title>
+      <link>http://localhost:1313/slides/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/</guid>
+      <description>Here is a list of all the Google Slides tutorials I created.&#xA;For full screen mode: Click the &amp;ldquo;Menu&amp;rdquo; or three vertical dots button. In the menu click &amp;ldquo;Enter Full Screen&amp;rdquo;. The keyboard shortcut for full screen mode is Ctrl + Shift + F.&#xA;Press Esc to exit full screen mode.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App Window (Windows 11) </description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/videos/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/videos/</guid>
+      <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App (Windows 11) </description>
+    </item>
+    <item>
+      <title>How to Minimize the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-minimize-sticky-notes/</link>
+      <pubDate>Thu, 01 Apr 2021 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Resize the Sticky Notes Window With Mouse How to Resize the Sticky Notes Window With Menu No time to scroll down? Click through these presentation slides:&#xA;See a video tutorial:&#xA;How to Resize the Sticky Notes Window With Mouse Step 1: First open the Sticky Notes app. Hover the mouse over any edge or corner of the window. Step 2: After the cursor becomes a double sided arrow, click, hold, and drag the mouse to resize the window.</description>
+    </item>
+    <item>
+      <title>How to Resize the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-resize-sticky-notes/</link>
+      <pubDate>Thu, 01 Apr 2021 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-resize-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Resize the Sticky Notes Window With Mouse How to Resize the Sticky Notes Window With Menu No time to scroll down? Click through these presentation slides:&#xA;See a video tutorial:&#xA;How to Resize the Sticky Notes Window With Mouse Step 1: First open the Sticky Notes app. Hover the mouse over any edge or corner of the window. Step 2: After the cursor becomes a double sided arrow, click, hold, and drag the mouse to resize the window.</description>
+    </item>
     <item>
       <title>How to Install Inkscape on Windows 11</title>
       <link>http://localhost:1313/posts/how-to-install-inkscape/</link>
@@ -18,30 +53,30 @@
     </item>
     <item>
       <title>How to Open the Notes List in the Microsoft Sticky Notes App</title>
-      <link>http://localhost:1313/posts/open-notes-list/</link>
+      <link>http://localhost:1313/posts/how-to-open-notes-list/</link>
       <pubDate>Wed, 01 Jul 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/open-notes-list/</guid>
+      <guid>http://localhost:1313/posts/how-to-open-notes-list/</guid>
       <description>This tutorial covers:&#xA;How to Open the Notes List: With Search With Hover With Right Click From a Sticky Note With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;View a video tutorial:&#xA;How to Open the Notes List With Search Step 1: Go down to the taskbar and click Start (four blue squares). Step 2: In the Start menu that opens, click in the search bar at the top and type &amp;ldquo;sticky notes&amp;rdquo;.</description>
     </item>
     <item>
       <title>How to Open a Sticky Note in the Microsoft Sticky Notes App</title>
-      <link>http://localhost:1313/posts/open-a-sticky-note/</link>
+      <link>http://localhost:1313/posts/how-to-open-a-sticky-note/</link>
       <pubDate>Mon, 01 Jun 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/open-a-sticky-note/</guid>
+      <guid>http://localhost:1313/posts/how-to-open-a-sticky-note/</guid>
       <description>This tutorial covers:&#xA;How to Open a Sticky Note: With Double Click With Hover With Right Click From the Notes List No time to scroll down? Click through this presentation tutorial:&#xA;View a video tutorial:&#xA;How to Open a Sticky Note with Double Click Step 1: First open the Sticky Notes app. In the Notes List window, double click a sticky note to open it. How to Open a Sticky Note With Hover Step 1: Open the Sticky Notes app.</description>
     </item>
     <item>
       <title>How to Pin the Microsoft Sticky Notes App</title>
-      <link>http://localhost:1313/posts/pin-sticky-notes/</link>
+      <link>http://localhost:1313/posts/how-to-pin-sticky-notes/</link>
       <pubDate>Fri, 01 May 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/pin-sticky-notes/</guid>
+      <guid>http://localhost:1313/posts/how-to-pin-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;How to Pin the Sticky Notes App: To the Taskbar With Search To the Taskbar With Right Click To the Taskbar From Start To Start No time to scroll down? Click through this tutorial presentation:&#xA;Follow along with a tutorial video:&#xA;How to Pin Sticky Notes to the Taskbar With Search Step 1: Go down to the taskbar and click Start (four blue squares). Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;sticky notes&amp;rdquo;.</description>
     </item>
     <item>
       <title>How to Open the Microsoft Sticky Notes App (Windows 11)</title>
-      <link>http://localhost:1313/posts/open-sticky-notes/</link>
+      <link>http://localhost:1313/posts/how-to-open-sticky-notes/</link>
       <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/open-sticky-notes/</guid>
+      <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
@@ -57,27 +92,6 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
-    </item>
-    <item>
-      <title>PDFs</title>
-      <link>http://localhost:1313/pdfs/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pdfs/</guid>
-      <description>Here is a list of all the PDF tutorials I created.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) </description>
-    </item>
-    <item>
-      <title>Slides</title>
-      <link>http://localhost:1313/slides/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/</guid>
-      <description>Here is a list of all the Google Slides tutorials I created.&#xA;For full screen mode: Click the &amp;ldquo;Menu&amp;rdquo; or three vertical dots button. In the menu click &amp;ldquo;Enter Full Screen&amp;rdquo;. The keyboard shortcut for full screen mode is Ctrl + Shift + F.&#xA;Press Esc to exit full screen mode.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) </description>
-    </item>
-    <item>
-      <title>Videos</title>
-      <link>http://localhost:1313/videos/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/videos/</guid>
-      <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) </description>
     </item>
     <item>
       <title>Search Results</title>
