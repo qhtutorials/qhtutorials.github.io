@@ -20,7 +20,7 @@ See a video tutorial:
 
 <h1 id="1">How to Resize the Sticky Notes Window With Mouse</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/open-sticky-notes/) the Sticky Notes app. Hover the mouse over any edge or corner of the window. <div class="stepimage">![A screenshot of the cursor hovering over the right edge of the Notes List window. The second screenshot displays the cursor hovering over the right edge of a sticky note.](blogresizestickynotes1hov.png "Hover over the edge/corner of the window")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-sticky-notes/) the Sticky Notes app. Hover the mouse over any edge or corner of the window. <div class="stepimage">![A screenshot of the cursor hovering over the right edge of the Notes List window. The second screenshot displays the cursor hovering over the right edge of a sticky note.](blogresizestickynotes1hov.png "Hover over the edge/corner of the window")</div>
 * Step 2: After the cursor becomes a double sided arrow, click, hold, and drag the mouse to resize the window. Release the mouse to stop resizing the window. <div class="stepimage">![A screenshot of the cursor dragging to the right, resulting in a wider Notes List. The second screenshot displays the cursor dragging to the right, resulting in a wider sticky note.](blogresizestickynotes2.png "Click, hold, and drag the mouse")</div>
 
 A quick demo:
@@ -28,7 +28,7 @@ A quick demo:
 
 <h1 id="2">How to Resize the Sticky Notes Window With Menu</h1>
 
-* Step 1: [Open](https://qhtutorials.github.io/posts/open-sticky-notes/) the Sticky Notes app. Go down to the taskbar and hover over the Sticky Notes app icon. <div class="stepimage">![A screenshot of the cursor hovering over the Sticky Notes app icon on the taskbar.](bloghoveroverappiconedit.png "Hover over the app icon")</div>
+* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-sticky-notes/) the Sticky Notes app. Go down to the taskbar and hover over the Sticky Notes app icon. <div class="stepimage">![A screenshot of the cursor hovering over the Sticky Notes app icon on the taskbar.](bloghoveroverappiconedit.png "Hover over the app icon")</div>
 * Step 2: Two small windows appear; one is the Notes List and the other is the sticky note. Right click one of the small windows. <div class="stepimage">![A screenshot of the cursor right clicking the small Notes List window. The second screenshot displays the cursor right clicking the small sticky note window.](blogrightclicksmallwindow.png "Right click a small window")</div>
 * Step 3: In the menu that opens, click "Size". <div class="stepimage">![A screenshot of the cursor clicking the "Size" option in the menu.](blogresizemenu.png "Click 'Size' ")</div>
 * Step 4: Hover the four arrows cursor over any edge or corner of the window. Click, hold, and drag to resize the window. Release the mouse to stop resizing the window. <div class="stepimage">![A screenshot of the cursor dragging to the right, resulting in a wider Notes List. The second screenshot displays the cursor dragging to the right, resulting in a wider sticky note.](blogresize4arrows.png "Click, hold, and drag the edge of a window")</div>
