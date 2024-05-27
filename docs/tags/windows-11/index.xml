@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Sun, 01 Aug 2021 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Restore the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-restore-sticky-notes/</link>
+      <pubDate>Wed, 01 Sep 2021 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-restore-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Restore the Notes List: With Double Click With Menu How to Restore a Sticky Note: With Double Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Restore the Notes List With Double Click Step 1: First maximize the Notes List. Double click the top of the maximized Notes List. The Notes List is restored to its original size before being maximized.</description>
+    </item>
     <item>
       <title>How to Maximize the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-maximize-sticky-notes/</link>
