@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-show-all-notes/</link>
+      <pubDate>Fri, 01 Oct 2021 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-show-all-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Show All Notes: With Right Click With Start No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Show All Notes With Right Click Step 1: First minimize or hide all notes. Go down to the taskbar and right click the Sticky Notes app icon. Step 2: In the menu that opens, click &amp;ldquo;Show all notes&amp;rdquo;. The Notes List and all sticky notes display on the Desktop.</description>
+    </item>
     <item>
       <title>How to Restore the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-restore-sticky-notes/</link>
