@@ -1,6 +1,6 @@
 ---
 title: "How to Change the Theme Color of the Microsoft Sticky Notes App (Windows 11)"
-date: 2021-11-01T02:01:58+05:30
+date: 2024-06-21T02:01:58+05:30
 description: "Whether you prefer dark mode or light mode, one thing is certain. You can customize the Sticky Notes app theme color to match your preferences. Learn more in this post."
 tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
 draft: false

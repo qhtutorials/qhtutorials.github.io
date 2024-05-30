@@ -1,6 +1,6 @@
 ---
 title: "How to Maximize the Microsoft Sticky Notes App (Windows 11)"
-date: 2021-08-01T02:01:58+05:30
+date: 2024-06-12T02:01:58+05:30
 description: "Block out all distractions by maximizing the sticky note or the Notes List. This handy tutorial covers two helpful ways to maximize the Sticky Notes app."
 tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
 draft: false

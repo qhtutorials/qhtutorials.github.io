@@ -1,9 +1,9 @@
 ---
 title: "How to Move the Microsoft Sticky Notes App (Windows 11)"
-date: 2021-10-01T02:01:58+05:30
+date: 2024-6-19T02:01:58+05:30
 description: "For even better organization, move the sticky notes and Notes List around on the Desktop. This tutorial covers the two ways to move windows in the Sticky Notes app."
 tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
-draft: false
+draft: true
 ---
 This tutorial covers:
 

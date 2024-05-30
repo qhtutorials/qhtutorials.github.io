@@ -1,6 +1,6 @@
 ---
 title: "How to Open the Microsoft Sticky Notes App (Windows 11)"
-date: 2020-04-01T02:01:58+05:30
+date: 2024-05-27T02:01:58+05:30
 description: "Microsoft Sticky Notes does more than just note-taking. Insert images, hyperlinks, and even customize the sticky note color. Learn how to open the Sticky Notes app on Windows 11."
 tags: [Sticky Notes, Windows 11, Open Sticky Notes]
 ---

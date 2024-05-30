@@ -1,6 +1,6 @@
 ---
 title: "How to Minimize the Microsoft Sticky Notes App (Windows 11)"
-date: 2021-07-01T02:01:58+05:30
+date: 2024-06-10T02:01:58+05:30
 description: "Desktop too cluttered? Free up some space by minimizing sticky notes. Learn how in this post."
 tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
 draft: false

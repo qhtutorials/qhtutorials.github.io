@@ -1,6 +1,6 @@
 ---
 title: "How to Pin the Microsoft Sticky Notes App"
-date: 2020-05-01T02:01:58+05:30
+date: 2024-05-29T02:01:58+05:30
 description: "Want a faster way to open the Sticky Notes App? Just pin Sticky Notes to the taskbar, or to the Start menu, then open the app with a single click. See how in this post."
 tags: [Sticky Notes, Windows 11, Open Sticky Notes]
 ---

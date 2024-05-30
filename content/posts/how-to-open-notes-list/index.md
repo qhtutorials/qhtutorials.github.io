@@ -1,6 +1,6 @@
 ---
 title: "How to Open the Notes List in the Microsoft Sticky Notes App"
-date: 2020-07-01T02:01:58+05:30
+date: 2024-06-03T02:01:58+05:30
 description: "Lists are a great way to stay organized. The Notes List is too. Learn how to open the Notes List and keep up with the growing pile of sticky notes."
 tags: [Sticky Notes, Windows 11, Open Sticky Notes]
 ---
