@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 29 May 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Sticky Notes</title>
@@ -28,6 +28,20 @@
       <link>http://localhost:1313/tags/windows-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/windows-11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation Guides</title>
+      <link>http://localhost:1313/tags/installation-guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/installation-guides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scribus</title>
+      <link>http://localhost:1313/tags/scribus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scribus/</guid>
       <description></description>
     </item>
   </channel>

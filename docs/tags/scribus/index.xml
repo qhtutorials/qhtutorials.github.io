@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scribus on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/scribus/</link>
+    <description>Recent content in Scribus on Quickly How Tutorials</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
+    <lastBuildDate>Mon, 26 Jun 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scribus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install Scribus on Windows 11</title>
+      <link>http://localhost:1313/posts/how-to-install-scribus/</link>
+      <pubDate>Mon, 26 Jun 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-scribus/</guid>
+      <description>This tutorial covers:&#xA;What is Scribus? How to Download Scribus With Google Chrome How to Download Scribus With Firefox How to Install Scribus How to Open Scribus With Shortcut How to Open Scribus With Search How to Pin Scribus to the Taskbar With Search How to Pin Scribus to the Taskbar With Right Click How to Pin Scribus to the Taskbar From Start How to Pin Scribus to Start How to Uninstall Scribus No time to scroll down?</description>
+    </item>
+  </channel>
+</rss>

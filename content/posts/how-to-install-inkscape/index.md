@@ -54,7 +54,7 @@ Similar to Adobe Illustrator, Inkscape is a free vector graphics editor. Use Ink
 * Step 7: In the "Opening inkscape" window that opens, click the "Save File" button. <div class="stepimage">![A screenshot of the cursor clicking the "Save File" button in the download window.](blogfirefoxclicksavefile.png "Click 'Save File' ")</div> 
 * Step 8: In the window that opens, click to select a save location (such as the Desktop), and click the "Save" button. <div class="stepimage">![A screenshot of the cursor clicking the "Save" button at the bottom right of the Save window.](blogfirefoxclicksave.png "Click 'Save' ")</div> 
 * Step 9: Click the "Minimize" button in the upper right of the Firefox browser window. <div class="stepimage">![A screenshot of the cursor clicking the "-" button in the upper right of the browser window.](blogclickminimize.png "Click '-' ")</div> 
-* Step 10: Double click the Inkscape setup shortcut to open the "Inkscape Setup" window. Inkscape is now ready to install; please see [How to Install Inkscape](#4). <div class="stepimage">![A screenshot of the cursor double clicking the Inkscape installer shortcut on the Desktop. The  second screenshot displays the open Inkscape Setup window.](blogfirefoxclickinstallshortcut2.png "Click the Inkscape installer shortcut ")</div> 
+* Step 10: Double click the Inkscape setup shortcut to open the "Inkscape Setup" window. Inkscape is now ready to install; please see [How to Install Inkscape](#4). <div class="stepimage">![A screenshot of the cursor double clicking the Inkscape installer shortcut on the Desktop. The second screenshot displays the open Inkscape Setup window.](blogfirefoxclickinstallshortcut2.png "Click the Inkscape installer shortcut ")</div> 
 
 
 <h1 id="4">How to Install Inkscape</h1>
@@ -84,7 +84,7 @@ Similar to Adobe Illustrator, Inkscape is a free vector graphics editor. Use Ink
 
 * Step 1: First go down to the taskbar and click Start (four blue squares). <div class="stepimage">![A screenshot of the cursor clicking the Start (four blue squares) button on the taskbar at the bottom of the screen.](blogstartbuttonedit.png "Click the Start button")</div>
 * Step 2: In the Start window that opens, click the top search bar and type "Inkscape". <div class="stepimage">![A screenshot of the cursor clicking the search bar at the top of the Start window.](blogsearchbaredit.png "Search for 'Inkscape' ")</div>
-* Step 3: On the search results screen, click "Pin to taskbar". <div class="stepimage">![A screenshot of the search results screen, with a blue rectangle surrounding the "Inkscape App" and "Open" buttons.](blogsearchresultspintotaskbaredit.png "Click one of these buttons")</div>
+* Step 3: On the search results screen, click "Pin to taskbar". <div class="stepimage">![A screenshot of the cursor clicking the "Pin to taskbar" option in the search results.](blogsearchresultspintotaskbaredit.png "Click 'Pin to taskbar' ")</div>
 * Step 4: Go down to the taskbar and click the pinned Inkscape icon. <div class="stepimage">![A screenshot of the cursor clicking the pinned Inkscape icon on the taskbar.](blogsearchresultspintotaskbar2edit.png "Click the pinned Inkscape icon")</div>
 * Inkscape opens. <div class="stepimage">![A screenshot of the open Inkscape window.](blogopenedinkscapeedit.png "The open Inkscape window")</div>
 
