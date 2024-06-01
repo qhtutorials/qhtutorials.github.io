@@ -29,7 +29,7 @@ Watch a video tutorial:
 
 <h1 id="2">How to Create a Sticky Note With Right Click</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-sticky-notes/) or [pin](https://qhtutorials.github.io/posts/how-to-pin-sticky-notes/) the Sticky Notes app. Go down to the taskbar and right click the Sticky Notes app icon. <div class="stepimage">![A screenshot of the cursor right clicking the Sticky Notes app icon on the taskbar at the bottom of the screen".](blogrightclickappiconedit.png "Right click the app icon")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-sticky-notes/) or [pin](https://qhtutorials.github.io/posts/how-to-pin-sticky-notes/) the Sticky Notes app. Go down to the taskbar and right click the Sticky Notes app icon. <div class="stepimage">![A screenshot of the cursor right clicking the Sticky Notes app icon on the taskbar at the bottom of the screen.](blogrightclickappiconedit.png "Right click the app icon")</div>
 * Step 2: In the menu that opens, click "+ New note". <div class="stepimage">![A screenshot of the cursor clicking the "+ New note" option in the menu".](blogrightclicknew1.png "Click '+ New note' ")</div>
 * A new sticky note appears. <div class="stepimage">![A screenshot of the Notes List with an open sticky note.](blogrightclicknew2.png "A new sticky note")</div>
 
