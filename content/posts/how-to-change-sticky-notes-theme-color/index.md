@@ -42,6 +42,6 @@ Watch a video tutorial:
 * Step 3: In the Sticky Notes Settings window that opens, under the "Color" section click to select "Light", "Dark", or "Use my Windows mode". <div class="stepimage">![A screenshot of the cursor browsing the options in the "Color" section of the Settings window.](blogsettingscolormenuedit.png "Click one of the options under 'Color' ")</div>
 *  Click "Dark" to select dark mode. Click "Use my Windows mode" to use the current color theme setting of the Windows operating system. <div class="stepimage">![A screenshot of the Sticky Notes app with the dark theme color.](blogdarkmodeapp.png "Dark mode")</div>
 
-Save a copy of these instructions with this free [PDF tutorial.](https://drive.google.com/file/d/1vsRKB87Uj1pmpcZ7MS6ovWZixH8ga6Jz/view?usp=sharing)
+Save a copy of these instructions with this free [PDF tutorial](https://drive.google.com/file/d/1vsRKB87Uj1pmpcZ7MS6ovWZixH8ga6Jz/view?usp=sharing).
 
 <br />

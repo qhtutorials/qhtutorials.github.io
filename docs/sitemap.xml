@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-24T02:01:58+05:30</lastmod>
+    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-24T02:01:58+05:30</lastmod>
+    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-open-a-sticky-note/</loc>
     <lastmod>2024-05-31T02:01:58+05:30</lastmod>
@@ -38,13 +38,10 @@
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-install-scribus/</loc>
+    <loc>http://localhost:1313/tags/edit-sticky-notes/</loc>
     <lastmod>2023-06-26T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/installation-guides/</loc>
-    <lastmod>2023-06-26T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/scribus/</loc>
+    <loc>http://localhost:1313/posts/how-to-create-sticky-notes/</loc>
     <lastmod>2023-06-26T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>

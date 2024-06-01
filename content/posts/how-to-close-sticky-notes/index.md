@@ -76,7 +76,7 @@ Follow along with a tutorial video:
 * Method 1: [Open](https://qhtutorials.github.io/posts/how-to-open-a-sticky-note/) a sticky note. On the keyboard press **Alt + F4**. The sticky note closes. Note: Some computers accept this shortcut as **Fn + Alt + F4**. <div class="stepimage">![One screenshot of a graphic of the computer keys "Alt + F4" on the sticky note window. The second screenshot displays the empty Desktop as the sticky note closes.](blogstickynotealtf4.png "Press Alt + F4")</div>
 * Method 2: First [open](https://qhtutorials.github.io/posts/how-to-open-a-sticky-note/) a sticky note. On the keyboard press **Ctrl + W**. This shortcut closes edited sticky notes, and deletes unedited sticky notes. <div class="stepimage">![One screenshot of a graphic of the computer keys "Ctrl + W" on the sticky note window. The second screenshot displays an open Notes List as the sticky note closes.](blogstickyctrlw.png "Press Ctrl + W")</div>
 
-Save a copy of these instructions with this free [PDF tutorial.](https://drive.google.com/file/d/1Ct530t72sPAUoqunMqMh5iq7VHXmzKuh/view?usp=sharing)
+Save a copy of these instructions with this free [PDF tutorial](https://drive.google.com/file/d/1Ct530t72sPAUoqunMqMh5iq7VHXmzKuh/view?usp=sharing).
 
 <br />
 

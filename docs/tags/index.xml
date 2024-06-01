@@ -31,17 +31,10 @@
       <description></description>
     </item>
     <item>
-      <title>Installation Guides</title>
-      <link>http://localhost:1313/tags/installation-guides/</link>
+      <title>Edit Sticky Notes</title>
+      <link>http://localhost:1313/tags/edit-sticky-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/installation-guides/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scribus</title>
-      <link>http://localhost:1313/tags/scribus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scribus/</guid>
+      <guid>http://localhost:1313/tags/edit-sticky-notes/</guid>
       <description></description>
     </item>
   </channel>
