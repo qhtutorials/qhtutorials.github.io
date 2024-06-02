@@ -56,7 +56,7 @@ See a tutorial video:
 
 * Method 2: [Edit](#2) a sticky note. Click to the right of the text, and on the keyboard press or hold **Backspace**. <div class="stepimage">![One screenshot of a graphic of the keyboard key "Backspace" on the sticky note. The second screenshot displays the sticky note where the words "note has been" were deleted.](blogpptbackspace.png "Press 'Backspace' ")</div>
 
-Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/1I7fR1wQ2aV_-ff28lEHZ2xkDY6qoKiXv/view?usp=sharing).
+Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/1dtfqxgegar3EprkSWvwAMGOsv4b0FogZ/view?usp=sharing).
 
 <br />
 
