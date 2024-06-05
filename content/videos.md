@@ -10,6 +10,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 <br />
 
+## Installation Guides
+1. [How to Install Inkscape on Windows 11](https://www.youtube.com/embed/r0ZXbQzvYkI) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="r0ZXbQzvYkI" width="100%" height="416" src="https://www.youtube.com/embed/r0ZXbQzvYkI"></iframe></div>
+
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
 #### *How to Open the Microsoft Sticky Notes App (Windows 11)*

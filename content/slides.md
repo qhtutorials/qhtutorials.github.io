@@ -20,6 +20,9 @@ Press **Esc** to exit full screen mode.
 
 <br />
 
+## Installation Guides
+1. How to Install Inkscape on Windows 11 <div class="slidesitem"><iframe allowfullscreen="true" frameborder="0" height="299" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSYrcn96fodjHMwin3XF5ec_6KrCh2JAYlzYmEM16NOTQS_H86yYZBbjcWoAvSA9jjP4crJxybMgwBL/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe></div>
+
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
 #### *How to Open the Microsoft Sticky Notes App (Windows 11)*

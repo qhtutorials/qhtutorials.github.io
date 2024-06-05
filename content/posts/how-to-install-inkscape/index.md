@@ -2,7 +2,7 @@
 title: "How to Install Inkscape on Windows 11"
 date: 2024-06-05T02:01:58+05:30
 description: "As a vector graphics editor, Inkscape is a free alternative to Adobe Illustrator. This step-by-step tutorial guides you through the Inkscape installation process."
-tags: [Installation Guides, Inkscape]
+tags: [Installation Guides]
 ---
 This tutorial covers:
 

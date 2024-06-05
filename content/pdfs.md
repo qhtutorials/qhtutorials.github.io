@@ -8,6 +8,10 @@ layout: pagelayout
 
 Here is a list of all the PDF tutorials I created.
 
+## Installation Guides
+
+1. [How to Install Inkscape on Windows 11](https://drive.google.com/file/d/1yCABGJc6fdNn2K1rWHdod0kq8jrc8N9d/view?usp=sharing)
+
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
 #### *How to Open the Microsoft Sticky Notes App (Windows 11)*

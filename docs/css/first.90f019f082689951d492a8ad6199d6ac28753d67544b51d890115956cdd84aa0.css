@@ -342,7 +342,6 @@
     }
 
     .refs {font-family: 'Merriweather-Regular';}
-    
     .draft-label{ 
         color: var(--bordercl);
         text-decoration: none;
