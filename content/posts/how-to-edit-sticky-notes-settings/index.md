@@ -14,6 +14,7 @@ This tutorial covers:
 2. [With Click](#3)
 
 <br />
+No time to scroll down? Click through this presentation tutorial:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV2880s9vdyUb_OD1ivhqEV97x0aiCAbUpFBvxriSV6JKyDp68CTCVEcouok86Bgt4QMAmSQNF9fG5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />

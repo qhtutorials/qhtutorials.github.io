@@ -10,13 +10,6 @@
     <lastBuildDate>Wed, 05 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inkscape</title>
-      <link>http://localhost:1313/tags/inkscape/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/inkscape/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Installation Guides</title>
       <link>http://localhost:1313/tags/installation-guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,10 +38,10 @@
       <description></description>
     </item>
     <item>
-      <title>Edit Sticky Notes</title>
-      <link>http://localhost:1313/tags/edit-sticky-notes/</link>
+      <title>Navigate Sticky Notes</title>
+      <link>http://localhost:1313/tags/navigate-sticky-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/edit-sticky-notes/</guid>
+      <guid>http://localhost:1313/tags/navigate-sticky-notes/</guid>
       <description></description>
     </item>
   </channel>
