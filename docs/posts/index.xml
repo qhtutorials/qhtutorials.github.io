@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 05 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Resize the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-resize-sticky-notes/</link>
+      <pubDate>Fri, 07 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-resize-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Resize the Sticky Notes Window With Mouse How to Resize the Sticky Notes Window With Menu No time to scroll down? Click through these presentation slides:&#xA;See a video tutorial:&#xA;How to Resize the Sticky Notes Window With Mouse Step 1: First open the Sticky Notes app. Hover the mouse over any edge or corner of the window. Step 2: After the cursor becomes a double sided arrow, click, hold, and drag the mouse to resize the window.</description>
+    </item>
     <item>
       <title>How to Install Inkscape on Windows 11</title>
       <link>http://localhost:1313/posts/how-to-install-inkscape/</link>
@@ -43,6 +50,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Install GIMP on Windows 11</title>
+      <link>http://localhost:1313/posts/how-to-install-gimp/</link>
+      <pubDate>Sat, 15 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-gimp/</guid>
+      <description>This tutorial covers:&#xA;What is GIMP? How to Download GIMP With Google Chrome How to Download GIMP With Firefox How to Install GIMP With Shortcut How to Install GIMP Without Shortcut How to Install GIMP From the Microsoft Store With Browser How to Install GIMP From the Microsoft Store How to Open GIMP With Shortcut How to Open GIMP Without Shortcut How to Pin GIMP to the Taskbar With Search How to Pin GIMP to the Taskbar With Right Click How to Pin GIMP to the Taskbar From Start How to Pin GIMP to Start How to Uninstall GIMP No time to scroll down?</description>
     </item>
   </channel>
 </rss>

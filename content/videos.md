@@ -20,3 +20,7 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 2. [How to Pin the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/Dtbi3jJBnQs) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="Dtbi3jJBnQs" width="100%" height="416" src="https://www.youtube.com/embed/Dtbi3jJBnQs"></iframe></div>
 3. [How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/fQ30gjzGnWk) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="fQ30gjzGnWk" width="100%" height="416" src="https://www.youtube.com/embed/fQ30gjzGnWk"></iframe></div>
 4. [How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/O-MRILaQUKA)<div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="O-MRILaQUKA" width="100%" height="416" src="https://www.youtube.com/embed/O-MRILaQUKA"></iframe></div>
+
+#### *How to Customize the Microsoft Sticky Notes App (Windows 11)*
+
+1. [How to Resize the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/1BsJkz-LPNs) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="1BsJkz-LPNs" width="100%" height="416" src="https://www.youtube.com/embed/1BsJkz-LPNs"></iframe></div>

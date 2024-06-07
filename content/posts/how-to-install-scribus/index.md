@@ -2,7 +2,7 @@
 title: "How to Install Scribus on Windows 11"
 date: 2024-06-26T02:01:58+05:30
 description: "Scribus is a free page layout editing program, as well aa a comparable alternative to Adobe InDesign. Install Scribus with this step-by-step guide."
-tags: [Installation Guides, Scribus]
+tags: [Installation Guides]
 ---
 This tutorial covers:
 
