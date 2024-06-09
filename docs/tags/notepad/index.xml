@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notepad on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/notepad/</link>
+    <description>Recent content in Notepad on Quickly How Tutorials</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
+    <lastBuildDate>Wed, 19 Jul 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Open the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-open-notepad/</link>
+      <pubDate>Wed, 19 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-open-notepad/</guid>
+      <description>This tutorial covers:&#xA;What is Notepad? How to Open Notepad With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;What is Notepad? Notepad is a basic text editor that comes with Windows 11. This app creates text files for various applications, such as editing code or writing stories. Notepad can save files with UTF-8 encoding, and customize document headers and footers with special codes.</description>
+    </item>
+  </channel>
+</rss>
