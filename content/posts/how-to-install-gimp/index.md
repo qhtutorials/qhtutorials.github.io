@@ -30,7 +30,7 @@ No time to scroll down? Click through these tutorial slides:
 <br />
 
 Follow along this tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_BKsSMEEt0w" width="100%" height="416" src="https://www.youtube.com/embed/_BKsSMEEt0w"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="rkP5QZTsM6M" width="100%" height="416" src="https://www.youtube.com/embed/rkP5QZTsM6M"></iframe>
 
 <h1 id="1">What is GIMP?</h1>
 
@@ -154,7 +154,7 @@ GIMP is an acronym for "GNU Image Manipulation Program". As an image editing sof
 * Step 7: In the menu that opens, click "Uninstall". <div class="stepimage">![A screenshot of the cursor clicking the "Uninstall" option in the menu.](bloguninstallclickuninstalledit.png "Click '...' ")</div>
 * Step 8: In the windows that open, click "Uninstall", "Yes", and "OK". <div class="stepimage">![Three screenshots where the cursor clicks the "Uninstall", "Yes", and "OK" buttons in the windows.](uninstalllaststep.png "Click 'Uninstall', 'Yes', and 'OK' ")</div>
 
-Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1GLw16W73tdn5hKlQUR6tIXZj4XhUkIJu/view?usp=sharing).
+Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1AyR0WbJgJgKg8shqhJQPr7TE18doAokw/view?usp=sharing).
 
 <br />
 
