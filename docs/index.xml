@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Minimize the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-minimize-sticky-notes/</link>
+      <pubDate>Mon, 10 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Minimize a Sticky Note: With Click From the Notes List From the Notes List With Right Click With Menu How to Minimize the Notes List: With Click With Menu With Right Click With Start With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Minimize a Sticky Note With Click Step 1: First open the Notes List and open a sticky note.</description>
+    </item>
     <item>
       <title>How to Resize the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-resize-sticky-notes/</link>
@@ -73,11 +80,11 @@
       <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App (Windows 11) </description>
     </item>
     <item>
-      <title>How to Open the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-open-notepad/</link>
-      <pubDate>Wed, 19 Jul 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-open-notepad/</guid>
-      <description>This tutorial covers:&#xA;What is Notepad? How to Open Notepad With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;What is Notepad? Notepad is a basic text editor that comes with Windows 11. This app creates text files for various applications, such as editing code or writing stories. Notepad can save files with UTF-8 encoding, and customize document headers and footers with special codes.</description>
+      <title>How to Pin the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-pin-notepad/</link>
+      <pubDate>Sat, 22 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-pin-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Pin Notepad to the Taskbar: With Search With Right Click From Start How to Pin Notepad to Start No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Pin Notepad to the Taskbar With Search Step 1: Go down to the taskbar and click the Start (four blue squares) button. Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;notepad&amp;rdquo;.</description>
     </item>
     <item>
       <title></title>

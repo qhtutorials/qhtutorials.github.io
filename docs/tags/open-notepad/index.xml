@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notepad on Quickly How Tutorials</title>
-    <link>http://localhost:1313/tags/notepad/</link>
-    <description>Recent content in Notepad on Quickly How Tutorials</description>
+    <title>Open Notepad on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/open-notepad/</link>
+    <description>Recent content in Open Notepad on Quickly How Tutorials</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
     <lastBuildDate>Sat, 22 Jul 2023 02:01:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/open-notepad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Pin the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-pin-notepad/</link>
