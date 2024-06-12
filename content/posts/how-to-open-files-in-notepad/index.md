@@ -1,5 +1,5 @@
 ---
-title: "How to Open Files in the Microsoft Sticky Notes App"
+title: "How to Open Files in the Microsoft Notepad App"
 date: 2024-07-24T02:01:58+05:30
 description: "You can open Notepad files in a new window or a new tab, with or without the keyboard. Learn more in this tutorial."
 tags: [Sticky Notes, Windows 11, Open Notepad]
