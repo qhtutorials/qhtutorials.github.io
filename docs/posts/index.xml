@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 10 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Maximize the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-maximize-sticky-notes/</link>
+      <pubDate>Wed, 12 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-maximize-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Maximize the Notes List: With Menu With Double Click How to Maximize a Sticky Note: With Menu With Double Click No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Maximize the Notes List With Menu Step 1: First open the Notes List. Go down to the taskbar and hover the mouse over the Sticky Notes app icon.</description>
+    </item>
     <item>
       <title>How to Minimize the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-minimize-sticky-notes/</link>
@@ -57,13 +64,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Close the Microsoft Notepad App</title>
-      <link>http://localhost:1313/posts/how-to-close-notepad/</link>
-      <pubDate>Wed, 26 Jul 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-close-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Close a Window: With Menu With Keyboard Shortcuts With Click With Right Click With Double Click With Hover With Hover and Right Click With Right Click on Taskbar How to Close All Windows With Menu How to Close a Tab: With Menu With Keyboard Shortcut With Click With Right Click How to Close Tabs: On the Right Side Multiple Tabs No time to scroll down? Click through this presentation tutorial:</description>
     </item>
   </channel>
 </rss>

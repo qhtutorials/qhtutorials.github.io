@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customize Notepad on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/customize-notepad/</link>
+    <description>Recent content in Customize Notepad on Quickly How Tutorials</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
+    <lastBuildDate>Sat, 29 Jul 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/customize-notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Resize the Microsoft Notepad App</title>
+      <link>http://localhost:1313/posts/how-to-resize-notepad/</link>
+      <pubDate>Sat, 29 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-resize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Resize Notepad: With Mouse With Right Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Resize Notepad With Mouse Step 1: First open Notepad. Hover the mouse over any edge or corner of the window, until the cursor becomes a double sided arrow. Step 2: Click, hold, and drag the mouse to resize the window. Release the mouse to stop resizing the window.</description>
+    </item>
+  </channel>
+</rss>

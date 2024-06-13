@@ -1,7 +1,7 @@
 ---
 title: "How to Close the Microsoft Notepad App"
 date: 2024-07-26T02:01:58+05:30
-description: "You can open Notepad files in a new window or a new tab, with or without the keyboard. Learn more in this tutorial."
+description: "This post covers the many ways to close a Notepad window, tab, or multiple tabs."
 tags: [Sticky Notes, Windows 11, Open Notepad]
 ---
 This tutorial covers:
@@ -36,7 +36,7 @@ This tutorial covers:
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="ofbpuy2stK4" width="100%" height="416" src="https://www.youtube.com/embed/ofbpuy2stK4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="zORiC9c5KmI" width="100%" height="416" src="https://www.youtube.com/embed/zORiC9c5KmI"></iframe>
 
 <h1 id="1">How to Close a Window With Menu</h1>
 
