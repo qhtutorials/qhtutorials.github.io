@@ -2,7 +2,7 @@
 title: "How to Open the Microsoft Notepad App (Windows 11)"
 date: 2024-07-19T02:01:58+05:30
 description: "Need to type up some code, take notes, or remove text formatting? Just open up Notepad. Learn how in this post."
-tags: [Windows 11, Notepad, Open Notepad]
+tags: [Notepad, Open Notepad, Windows 11]
 draft: false
 ---
 This tutorial covers:

@@ -2,7 +2,7 @@
 title: "How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-06-28T02:01:58+05:30
 description: "This post covers helpful basics of how to select, edit, and delete text in sticky notes. You can even change the sticky note color!"
-tags: [Sticky Notes, Windows 11, Edit Sticky Notes]
+tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

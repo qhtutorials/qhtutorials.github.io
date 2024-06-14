@@ -2,7 +2,7 @@
 title: "How to Pin the Microsoft Notepad App (Windows 11)"
 date: 2024-07-22T02:01:58+05:30
 description: "If it's not there already, pin Notepad to the taskbar or the Start menu. Read more to see how."
-tags: [Windows 11, Notepad, Open Notepad]
+tags: [Notepad, Open Notepad, Windows 11]
 draft: false
 ---
 This tutorial covers:

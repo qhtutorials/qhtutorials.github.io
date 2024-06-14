@@ -2,7 +2,7 @@
 title: "How to Edit the Microsoft Sticky Notes App Settings (Windows 11)"
 date: 2024-07-10T02:01:58+05:30
 description: "With just a few clicks, you can turn off deletion confirmation messages and include hyperlinks in sticky notes. See how in this post."
-tags: [Sticky Notes, Windows 11, Edit Sticky Notes]
+tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

@@ -2,7 +2,7 @@
 title: "How to Resize the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-06-07T02:01:58+05:30
 description: "Resize both the Notes List and sticky notes, for greater efficiency in your workflow. Read on to learn how."
-tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
+tags: [Customize Sticky Notes, Sticky Notes, Windows 11]
 ---
 This tutorial covers:
 1. [How to Resize the Sticky Notes Window With Mouse](#1)

@@ -2,7 +2,7 @@
 title: "How to Close the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-06-24T02:01:58+05:30
 description: "Too many open sticky notes on the screen? Make some room and close a few windows. This tutorial covers five ways to close the Sticky Notes app window."
-tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
+tags: [Customize Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

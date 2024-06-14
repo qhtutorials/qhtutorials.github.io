@@ -2,7 +2,7 @@
 title: "How to Restore the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-06-14T02:01:58+05:30
 description: "Need a faster way to resize the window? Looking to return a maximized window to its original size? Then restore the Sticky Notes app window! Learn how in this tutorial."
-tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
+tags: [Customize Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

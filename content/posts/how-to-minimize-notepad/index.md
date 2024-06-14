@@ -1,5 +1,5 @@
 ---
-title: "How to Minimize the Microsoft Notepad App"
+title: "How to Minimize the Microsoft Notepad App (Windows 11)"
 date: 2024-07-31T02:01:58+05:30
 description: "This post covers the three ways to hide the Notepad window."
 tags: [Customize Notepad, Notepad, Windows 11]

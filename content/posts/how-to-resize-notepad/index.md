@@ -1,8 +1,8 @@
 ---
-title: "How to Resize the Microsoft Notepad App"
+title: "How to Resize the Microsoft Notepad App (Windows 11)"
 date: 2024-07-29T02:01:58+05:30
 description: "Make the Notepad window smaller or larger to suit your note-taking needs. Read on to find out how."
-tags: [Notepad, Windows 11, Customize Notepad]
+tags: [Customize Notepad, Notepad, Windows 11]
 ---
 This tutorial covers:
 

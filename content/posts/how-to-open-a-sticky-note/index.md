@@ -2,7 +2,7 @@
 title: "How to Open a Sticky Note in the Microsoft Sticky Notes App"
 date: 2024-05-31T02:01:58+05:30
 description: "Imagine tracking weekly, daily, or even hourly goals with the Sticky Notes app. That's a lot of sticky notes! In order to stay organized, open only the relevant notes. Read on to find out more. "
-tags: [Sticky Notes, Windows 11, Open Sticky Notes]
+tags: [Open Sticky Notes, Sticky Notes, Windows 11]
 ---
 This tutorial covers:
 

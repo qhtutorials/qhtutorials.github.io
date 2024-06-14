@@ -2,7 +2,7 @@
 title: "How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-06-17T02:01:58+05:30
 description: "Maybe you minimized a sticky note and need to open it again. Or maybe you clicked 'Hide all notes'. Don't fret! Just click the 'Show all notes' option. Read on to learn more."
-tags: [Sticky Notes, Windows 11, Customize Sticky Notes]
+tags: [Customize Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

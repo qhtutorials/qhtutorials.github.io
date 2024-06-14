@@ -2,7 +2,7 @@
 title: "How to Edit Images in the Microsoft Sticky Notes App (Windows 11)"
 date: 2024-07-05T02:01:58+05:30
 description: "Learn how to insert and remove images in sticky notes with this tutorial. You can also view, save, and add a description for each image."
-tags: [Sticky Notes, Windows 11, Edit Sticky Notes]
+tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false
 ---
 This tutorial covers:

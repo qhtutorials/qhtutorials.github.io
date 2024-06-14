@@ -1,8 +1,8 @@
 ---
-title: "How to Open Files in the Microsoft Notepad App"
+title: "How to Open Files in the Microsoft Notepad App (Windows 11)"
 date: 2024-07-24T02:01:58+05:30
 description: "You can open Notepad files in a new window or a new tab, with or without the keyboard. Learn more in this tutorial."
-tags: [Notepad, Windows 11, Open Notepad]
+tags: [Notepad, Open Notepad, Windows 11]
 ---
 This tutorial covers:
 
