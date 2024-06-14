@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 12 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Restore the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-restore-sticky-notes/</link>
+      <pubDate>Fri, 14 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-restore-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Restore the Notes List: With Double Click With Menu How to Restore a Sticky Note: With Double Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Restore the Notes List With Double Click Step 1: First maximize the Notes List. Double click the top of the maximized Notes List. The Notes List is restored to its original size before being maximized.</description>
+    </item>
     <item>
       <title>How to Maximize the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-maximize-sticky-notes/</link>
@@ -85,6 +92,13 @@
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/videos/</guid>
       <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Installation Guides How to Install Inkscape on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App (Windows 11) How to Minimize the Microsoft Sticky Notes App (Windows 11) How to Maximize the Microsoft Sticky Notes App (Windows 11) </description>
+    </item>
+    <item>
+      <title>How to Minimize the Microsoft Notepad App</title>
+      <link>http://localhost:1313/posts/how-to-minimize-notepad/</link>
+      <pubDate>Mon, 31 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Minimize Notepad: With Click With Right Click With Menu No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Minimize Notepad With Click Step 1: First open Notepad. Go to the upper right and click the &amp;ldquo;Minimize&amp;rdquo; or &amp;ldquo;-&amp;rdquo; button. The Notepad window minimizes. How to Minimize Notepad With Right Click Step 1: Open Notepad. Right click either the top or the upper left corner of the window.</description>
     </item>
     <item>
       <title></title>

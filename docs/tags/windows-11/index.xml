@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 12 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Restore the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-restore-sticky-notes/</link>
+      <pubDate>Fri, 14 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-restore-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Restore the Notes List: With Double Click With Menu How to Restore a Sticky Note: With Double Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Restore the Notes List With Double Click Step 1: First maximize the Notes List. Double click the top of the maximized Notes List. The Notes List is restored to its original size before being maximized.</description>
+    </item>
     <item>
       <title>How to Maximize the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-maximize-sticky-notes/</link>
@@ -59,11 +66,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Resize the Microsoft Notepad App</title>
-      <link>http://localhost:1313/posts/how-to-resize-notepad/</link>
-      <pubDate>Sat, 29 Jul 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-resize-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Resize Notepad: With Mouse With Right Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Resize Notepad With Mouse Step 1: First open Notepad. Hover the mouse over any edge or corner of the window, until the cursor becomes a double sided arrow. Step 2: Click, hold, and drag the mouse to resize the window. Release the mouse to stop resizing the window.</description>
+      <title>How to Minimize the Microsoft Notepad App</title>
+      <link>http://localhost:1313/posts/how-to-minimize-notepad/</link>
+      <pubDate>Mon, 31 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Minimize Notepad: With Click With Right Click With Menu No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Minimize Notepad With Click Step 1: First open Notepad. Go to the upper right and click the &amp;ldquo;Minimize&amp;rdquo; or &amp;ldquo;-&amp;rdquo; button. The Notepad window minimizes. How to Minimize Notepad With Right Click Step 1: Open Notepad. Right click either the top or the upper left corner of the window.</description>
     </item>
   </channel>
 </rss>

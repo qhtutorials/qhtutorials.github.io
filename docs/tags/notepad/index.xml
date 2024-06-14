@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Sat, 22 Jul 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Pin the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-pin-notepad/</link>
-      <pubDate>Sat, 22 Jul 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-pin-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Pin Notepad to the Taskbar: With Search With Right Click From Start How to Pin Notepad to Start No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Pin Notepad to the Taskbar With Search Step 1: Go down to the taskbar and click the Start (four blue squares) button. Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;notepad&amp;rdquo;.</description>
+      <title>How to Minimize the Microsoft Notepad App</title>
+      <link>http://localhost:1313/posts/how-to-minimize-notepad/</link>
+      <pubDate>Mon, 31 Jul 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Minimize Notepad: With Click With Right Click With Menu No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Minimize Notepad With Click Step 1: First open Notepad. Go to the upper right and click the &amp;ldquo;Minimize&amp;rdquo; or &amp;ldquo;-&amp;rdquo; button. The Notepad window minimizes. How to Minimize Notepad With Right Click Step 1: Open Notepad. Right click either the top or the upper left corner of the window.</description>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 title: "How to Close the Microsoft Notepad App"
 date: 2024-07-26T02:01:58+05:30
 description: "This post covers the many ways to close a Notepad window, tab, or multiple tabs."
-tags: [Sticky Notes, Windows 11, Open Notepad]
+tags: [Notepad, Windows 11, Open Notepad]
 ---
 This tutorial covers:
 
