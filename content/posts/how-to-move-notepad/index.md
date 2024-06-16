@@ -19,12 +19,12 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through these presentation slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4QXAj8KMKwtDPTuJ-TdL7JSc4BpypAx8S4_Ajd9ViomnHlr3ie1VTDJrR4TqkEypJQjt-qCtLNksn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQr_yJR7yhses2-AR4GLdp3aOgmt03lYWflbMth1763uwQgOYRsebsjTRjEvh_tEf0KqFFqsxN6kSoI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="IJY0M6Wvsu4" width="100%" height="416" src="https://www.youtube.com/embed/IJY0M6Wvsu4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="OIbL6ZKVRJ0" width="100%" height="416" src="https://www.youtube.com/embed/OIbL6ZKVRJ0"></iframe>
 
 <h1 id="1">How to Move Notepad With Mouse</h1>
 
@@ -45,13 +45,16 @@ Watch a video tutorial:
 
 <h1 id="4">How to Move Notepad a Tab</h1>
 
-* Step 1: First [maximize](https://qhtutorials.github.io/posts/how-to-maximize-notepad/) Notepad. Right click the top of, or the upper left corner of the Notepad window. <div class="stepimage">![Two screenshots of the cursor right clicking the top of the Notepad window, or the upper left corner of the Notepad window.](blogrightclickrestore0.png "Right click the window")</div>
-* Step 2: In the menu that opens, click "Restore". The Notepad window is restored to its original size. <div class="stepimage">![Four screenshots where the cursor clicks the "Restore" option in the menu, and the resulting restored Notepad window appears.](blogrightclickrestore.png "Click 'Restore' ")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-notepad/) Notepad. Click, hold, and drag a tab to another location on the screen. After releasing the mouse, the Notepad window moves to that location. <div class="stepimage">![Three screenshots where the cursor drags the tab of the Notepad window and moves it to the right side of the Desktop.](blogpptmovetabtomovewindow.png "Drag the tab and release it")</div>
 
-<h1 id="">How to Move a Tab Outside a Window</h1>
+<h1 id="5">How to Move a Tab Outside a Window</h1>
 
-* Step 1: 
+* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-notepad/) a Notepad window with at least two tabs. Click, hold, and drag a tab to another location on the screen. After releasing the mouse, the tab opens in another separate Notepad window. <div class="stepimage">![Three screenshots where the cursor drags one tab of the Notepad window, moves it, and opens a separate window on the right side of the Desktop.](blogpptmovetabtomovewindow.png "Drag the tab and release it")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1tBTfrzklGTwsCFFX4fg_PzDp_aDtBkH4/view?usp=sharing).
+<h1 id="6">How to Move a Tab Into a Window</h1>
+
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-notepad/) two Notepad windows. Click, hold, and drag a tab from one window into the second window, until the word "Move" appears. After releasing the mouse, the second Notepad window has two tabs. <div class="stepimage">![Three screenshots where the cursor drags one tab into a second Notepad window, and the resulting Notepad window with two tabs appears.](blogpptemergetab.png "Drag the tab into a window and release it")</div>
+
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1GPt1-CnivjO7Ue-6vF1C0RldQHbEY_G4/view?usp=sharing).
 
 <br />
