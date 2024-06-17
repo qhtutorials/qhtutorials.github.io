@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 14 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-show-all-notes/</link>
+      <pubDate>Mon, 17 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-show-all-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Show All Notes: With Right Click With Start No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Show All Notes With Right Click Step 1: First minimize or hide all notes. Go down to the taskbar and right click the Sticky Notes app icon. Step 2: In the menu that opens, click &amp;ldquo;Show all notes&amp;rdquo;. The Notes List and all sticky notes display on the Desktop.</description>
+    </item>
     <item>
       <title>How to Restore the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-restore-sticky-notes/</link>
@@ -66,11 +73,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Use Zoom in the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-use-zoom-in-notepad/</link>
-      <pubDate>Wed, 09 Aug 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-use-zoom-in-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Zoom In: With Menu With Keyboard Shortcut How to Zoom Out: With Menu With Keyboard Shortcut How to Restore Default Zoom: With Menu With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;Follow along with a video tutorial:&#xA;How to Zoom In With Menu Step 1: First open Notepad. In the upper left click the &amp;ldquo;View&amp;rdquo; button. Step 2: In the menu that opens, hover over &amp;ldquo;Zoom&amp;rdquo;, and in the second menu that opens click &amp;ldquo;Zoom in&amp;rdquo;.</description>
+      <title>How to Edit the Microsoft Notepad App Settings (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-notepad-settings/</link>
+      <pubDate>Mon, 14 Aug 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-notepad-settings/</guid>
+      <description>This tutorial covers:&#xA;How to Choose How Files Are Opened How to Adjust When Notepad Starts No time to scroll down? Click through this presentation tutorial:&#xA;Watch a video tutorial:&#xA;How to Choose How Files Are Opened Step 1: First open Notepad. In the upper right click the &amp;ldquo;Settings&amp;rdquo; or gear button. Step 2: In the Settings window that opens, click the &amp;ldquo;Opening files&amp;rdquo; drop-down menu and select either &amp;ldquo;Open in a new tab&amp;rdquo; or &amp;ldquo;Open in a new window&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
