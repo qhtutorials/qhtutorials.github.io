@@ -1,8 +1,8 @@
 ---
 title: "How to Edit Files in the Microsoft Notepad App (Windows 11)"
-date: 2023-08-19T02:01:58+05:30
+date: 2024-08-19T02:01:58+05:30
 description: "In this post, learn to edit, select, copy, paste, and delete text in Notepad."
-tags: [Customize Notepad, Notepad, Windows 11]
+tags: [Edit Notepad, Notepad, Windows 11]
 ---
 This tutorial covers:
 
