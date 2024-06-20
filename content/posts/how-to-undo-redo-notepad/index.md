@@ -16,7 +16,7 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXrHM_w8wy6BSBpaxoqMaR81pAEGO5wMf8t_eOCO65ey71C6zVWd5DAvtw5YzuQrnyzyNNMz33ry3B/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqYF7nsUjIgVZaILK47SD3QnOZ4xoOLREQiEYuDAdiLIUPn-6WNQNTu8YkNQVWuzkTCi-WelypvjEG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
@@ -41,7 +41,7 @@ Follow along with a tutorial video:
 
 * Step 1: [Edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad file. On the keyboard press **Ctrl + Y**. Notepad reverses the last Undo. <div class="stepimage">![Two screenshots where a graphic of the keyboard keys "Ctrl + Y" appears on the Notepad window, and the resulting window with more text appears.](blogpptctrly.png "Press 'Ctrl + Y' ")</div>
 
-Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1A1zKX1kPmJuxfCQr0LFDYFvNgs-8LgLs/view?usp=sharing).
+Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/17u3pXn9Y4zFL0WkQP0Hf1QBUUh-Ho7D_/view?usp=sharing).
 
 <br />
 
