@@ -21,7 +21,7 @@ This tutorial covers:
 <br />
 
 Follow along with a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="nScdx-Ealg0" width="100%" height="416" src="https://www.youtube.com/embed/nScdx-Ealg0"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="EdDB2iBk-ak" width="100%" height="416" src="https://www.youtube.com/embed/EdDB2iBk-ak"></iframe>
 
 <h1 id="1">How to Undo With Menu</h1>
 
