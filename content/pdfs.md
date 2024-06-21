@@ -29,3 +29,4 @@ Here is a list of all the PDF tutorials I created.
 4. [How to Restore the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1G-kz1jiIh3q3SFcL_2tgvmsd3ioyy3k2/view?usp=sharing)
 5. [How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1d00eJgCUX2nIF9kYVqaPeyvV6aZJsOc9/view?usp=sharing)
 6. [How to Move the Microsoft Sticky Notes App Window (Windows 11)](https://drive.google.com/file/d/1KiYN3vB4PujkZ8o3FFzV5RXHDe6Icedi/view?usp=sharing)
+7. [How to Change the Theme Color of the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1vsRKB87Uj1pmpcZ7MS6ovWZixH8ga6Jz/view?usp=sharing)
