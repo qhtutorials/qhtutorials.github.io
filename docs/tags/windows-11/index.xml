@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 17 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Move the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-move-sticky-notes/</link>
+      <pubDate>Wed, 19 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-move-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Move the Sticky Notes App Window With Mouse How to Move the Sticky Notes App Window With Menu No time to scroll down? Click through this presentation tutorial:&#xA;Follow along with a tutorial video:&#xA;How to Move the Sticky Notes App Window With Mouse Step 1: First open the Sticky Notes app. At the top of the window, click, hold, and drag to move the window.</description>
+    </item>
     <item>
       <title>How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-show-all-notes/</link>
@@ -73,11 +80,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Move the Microsoft Sticky Notes App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-move-sticky-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-to-move-sticky-notes/</guid>
-      <description>This tutorial covers:&#xA;How to Move the Sticky Notes App Window With Mouse How to Move the Sticky Notes App Window With Menu No time to scroll down? Click through this presentation tutorial:&#xA;Follow along with a tutorial video:&#xA;How to Move the Sticky Notes App Window With Mouse Step 1: First open the Sticky Notes app. At the top of the window, click, hold, and drag to move the window.</description>
+      <title>How to Search for Text in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-search-text-in-notepad/</link>
+      <pubDate>Tue, 22 Aug 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-search-text-in-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Use Find: With Menu With Keyboard Shortcut How to Use Find Next: With Menu With Click With Keyboard Shortcut How to Use Find Previous: With Menu With Click With Keyboard Shortcut How to Apply Match Case How to Apply Wrap Around How to Clear the Find Bar How to Exit the Find Window: With Click With Keyboard How to Use Find and Replace: With Menu With Click With Keyboard Shortcut No time to scroll down?</description>
     </item>
   </channel>
 </rss>

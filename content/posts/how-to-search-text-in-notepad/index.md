@@ -1,7 +1,7 @@
 ---
 title: "How to Search for Text in the Microsoft Notepad App (Windows 11)"
-date: 2023-08-22T02:01:58+05:30
-description: "Use the 'Find' and 'Go to' commands to jump to a specific place in your document. Or use 'Find and Replace' to edit the text. This post covers the basic Notepad search functions."
+date: 2024-08-23T02:01:58+05:30
+description: "Use the 'Find' command to locate a specific place in your document. Or use 'Find and Replace' to edit the text. This post covers the basic Notepad search functions."
 tags: [Edit Notepad, Notepad, Windows 11]
 ---
 This tutorial covers:
@@ -38,12 +38,12 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqYF7nsUjIgVZaILK47SD3QnOZ4xoOLREQiEYuDAdiLIUPn-6WNQNTu8YkNQVWuzkTCi-WelypvjEG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXmSGIXztSd3B1AKzPZjhqTuxgXwiR_cPYzGr9PmlxUhpWRnDIZDHRT06pNR18m51d5hI6QSqfXhJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="EdDB2iBk-ak" width="100%" height="416" src="https://www.youtube.com/embed/EdDB2iBk-ak"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="1fn2eRogJwY" width="100%" height="416" src="https://www.youtube.com/embed/1fn2eRogJwY"></iframe>
 
 <h1 id="1">How to Use Find With Menu</h1>
 
@@ -104,13 +104,34 @@ Watch a video tutorial:
 <h1 id="11">How to Clear the Find Bar</h1>
 
 * Step 1: First [edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad file and [open](#2) the Find window. Click the "X" button to the right of the search bar. The search bar clears as the previous search term disappears. <div class="stepimage">![Two screenshots where the cursor clicks the "X" button and the resulting empty search bar appears.](blogclearfindbar.png "Click 'X' ")</div>
-* Step 2: Click anywhere inside the Notepad window to deselect the previously highlighted text. The next time the Find window opens, the search bar will be empty. div class="stepimage">![Two screenshots where the cursor clicks the "X" button and the resulting empty search bar appears.](blogclearfindbar2.png "Click 'X' ")</div>
+* Step 2: Click anywhere inside the Notepad window to deselect the previously highlighted text. The next time the Find window opens, the search bar will be empty. <div class="stepimage">![Two screenshots where the cursor clicks the "X" button and the resulting empty search bar appears.](blogclearfindbar2.png "Click 'X' ")</div>
 
 <h1 id="12">How to Exit the Find Window With Click</h1>
 
-* Step 1: 
+* Step 1: [Open](#2) the Find window. On the far right side click the "Close" or "X" button. The Find window closes. <div class="stepimage">![Two screenshots where the cursor clicks the "X" button and the Find window disappears.](blogpptfindexit.png "Click 'X' ")</div>
 
-Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/17u3pXn9Y4zFL0WkQP0Hf1QBUUh-Ho7D_/view?usp=sharing).
+<h1 id="13">How to Exit the Find Window With Keyboard</h1>
+
+* Step 1: First [open](#2) the Find window. On the keyboard press **Esc**. The Find window closes. <div class="stepimage">![Two screenshots where a graphic of the keyboard "Esc" key appears on the Notepad window, and the Find window disappears.](blogfindesc.png "Press 'Esc' ")</div>
+
+<h1 id="14">How to Use Find and Replace With Menu</h1>
+
+* Step 1: [Edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad window. In the upper left click the "Edit" button. <div class="stepimage">![A screenshot of the cursor clicking the "Edit" button.](blogreplaceclickeditedit.png "Click 'Edit' ")</div>
+* Step 2: In the menu that opens, click "Replace". <div class="stepimage">![A screenshot of the cursor clicking the "Replace" option in the menu.](blogreplaceeditreplaceedit.png "Click 'Replace' ")</div>
+* Step 3: In the Find and Replace window that opens, type any text to search for in the top search bar. Type any text to replace it with in the lower search bar, and click the "Replace" button. Notepad finds and replaces the corresponding text. Keep clicking the "Replace" button to replace multiple instances of text. <div class="stepimage">![Two screenshots where the cursor clicks the "Replace" button and the resulting Notepad window where one instance of text was replaced appears.](blogpptclickreplace.png "Click 'Replace' ")</div>
+* Click "Replace all" to replace all instances of text at one time. <div class="stepimage">![Two screenshots where the cursor clicks the "Replace all" button and the resulting Notepad window where all instances of text were replaced appears.](blogpptclickreplaceall.png "Click 'Replace all' ")</div>
+
+<h1 id="15">How to Use Find and Replace With Click</h1>
+
+* Step 1: First [edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad window and [open](#2) the Find window. On the far left side click the "Open replace options" or down arrow button. <div class="stepimage">![Three screenshots where a graphic of the keyboard keys "Ctrl + F" appears, the cursor clicks the leftmost down arrow button in the Find window, and the resulting Find and Replace window appears.](blogopenfindandreplaceclick.png "Click the down arrow button")</div>
+* Step 2: In the Find and Replace window that opens, type any text to search for in the top search bar. Type any text to replace it with in the lower search bar, and click "Replace" or "Replace all". Notepad finds and replaces the corresponding text. <div class="stepimage">![Two screenshots where the cursor clicks the "Replace all" button and the resulting Notepad window where all instances of text were replaced appears.](blogpptclickreplaceall.png "Click 'Replace' or 'Replace all' ")</div>
+
+<h1 id="16">How to Use Find and Replace With Keyboard Shortcut</h1>
+
+* Step 1: [Edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad window. On the keyboard press **Ctrl + H**. <div class="stepimage">![Two screenshots where a graphic of the keyboard keys "Ctrl + H" appears on the Notepad window, and the resulting Find and Replace window appears.](blogctrlh.png "Press 'Ctrl + H' ")</div> 
+* Step 2: In the Find and Replace window that opens, type any text to search for in the top search bar. Type any text to replace it with in the lower search bar, and click "Replace" or "Replace all". Notepad finds and replaces the corresponding text. <div class="stepimage">![Two screenshots where the cursor clicks the "Replace all" button and the resulting Notepad window where all instances of text were replaced appears.](blogpptclickreplaceall.png "Click 'Replace' or 'Replace all' ")</div>
+
+Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/1YCddPRfRL22p2ObX4tgXWFp3g4ieX6AF/view?usp=sharing).
 
 <br />
 
