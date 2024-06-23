@@ -41,7 +41,7 @@ Follow along with a video tutorial:
 
 <h1 id="3">How to Change the Reading Order</h1>
 
-* Step 1: First [edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad file. Right click anywhere in teh window. <div class="stepimage">![A screenshot of the cursor right clicking the window.](blogrightclickselectall1edit.png "Right click the window ")</div>
+* Step 1: First [edit](https://qhtutorials.github.io/posts/how-to-edit-files-in-notepad/) a Notepad file. Right click anywhere in the window. <div class="stepimage">![A screenshot of the cursor right clicking the window.](blogrightclickselectall1edit.png "Right click the window ")</div>
 * Step 2: In the menu that opens, click "Right-to-left reading order" to toggle this option on or off. With "Right-to-left reading order" on, a check mark appears to the left of this option, and text displays on the right side of the Notepad window. This option is intended for right-to-left languages such as Arabic, Persian, and Hebrew. <div class="stepimage">![A screenshot of the cursor hovering over the enabled "Right-to-left reading order" option, with text appearing on the right side of the Notepad window.](blogreadingorder4edit.png "Click 'Right-to-left reading order' ")</div>
 * With "Right-to-left reading order" off, this option does not display a check mark, and text displays on the left side of the Notepad window. This is the default option. <div class="stepimage">![A screenshot of the cursor hovering over the disabled "Right-to-left reading order" option, with text appearing on the left side of the Notepad window.](blogreadingorder2edit.png "Click 'Right-to-left reading order' ")</div>
 
