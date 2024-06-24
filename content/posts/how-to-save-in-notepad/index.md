@@ -21,12 +21,12 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsWAM95VdRo4pkVmfGuvjJFNebXSNciz0fQwgDGYa2mFdcCARFBpkcuq_iPNOsQKrrvTLr-33HPxAY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30LnJ246sog2PFDj8tfHfkqsbABq46JDWltIWw1-ib3Zpm-YGOeqjLK0XZ5f6hGAQ7pPCYAcFFm16/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="BblKsYzmBqA" width="100%" height="416" src="https://www.youtube.com/embed/BblKsYzmBqA"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qIImZi-rQIc" width="100%" height="416" src="https://www.youtube.com/embed/qIImZi-rQIc"></iframe>
 
 <h1 id="1">How to Save a File With Menu</h1>
 
@@ -61,7 +61,7 @@ Watch a tutorial video:
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-notepad/) a Notepad window with at least two tabs. On the keyboard press **Ctrl + Alt + S**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + Alt + S" on the Notepad window.](blogctrlalts1edit.png "Press 'Ctrl + Alt + S' ")</div>
 * Step 2: A "Save as" windnow opens for each tab. Type any text in the "File name" field and click the "Save" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Save" button in each "Save as" window.](blogctrlaltsresult.png "Click 'Save' ")</div>
  
-Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/1psmsqI5KYCRHJ7VCSvXim30e1FvmLPB8/view?usp=sharing).
+Refer to these instructions later with this free [PDF tutorial](https://drive.google.com/file/d/1uWl3V0gQB2ddSFDwuRfupguQOCiA5_e2/view?usp=sharing).
 
 <br />
 
