@@ -30,3 +30,4 @@ Here is a list of all the PDF tutorials I created.
 5. [How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1d00eJgCUX2nIF9kYVqaPeyvV6aZJsOc9/view?usp=sharing)
 6. [How to Move the Microsoft Sticky Notes App Window (Windows 11)](https://drive.google.com/file/d/1KiYN3vB4PujkZ8o3FFzV5RXHDe6Icedi/view?usp=sharing)
 7. [How to Change the Theme Color of the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1vsRKB87Uj1pmpcZ7MS6ovWZixH8ga6Jz/view?usp=sharing)
+7. [How to Close the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1Ct530t72sPAUoqunMqMh5iq7VHXmzKuh/view?usp=sharing)
