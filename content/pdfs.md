@@ -11,6 +11,7 @@ Here is a list of all the PDF tutorials I created.
 ## Installation Guides
 
 1. [How to Install Inkscape on Windows 11](https://drive.google.com/file/d/1yCABGJc6fdNn2K1rWHdod0kq8jrc8N9d/view?usp=sharing)
+2. [How to Install Scribus on Windows 11](https://drive.google.com/file/d/1CX1-OQDSp5laic6O-abx353lXaP-qB5v/view?usp=sharing)
 
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
