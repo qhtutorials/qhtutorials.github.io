@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 24 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-create-sticky-notes/</link>
+      <pubDate>Wed, 26 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-create-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Create a Sticky Note: With Click With Right Click With Search With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;How to Create a Sticky Note With Click Method 1: First open the Notes List. Go to the upper left corner and click the &amp;ldquo;New note&amp;rdquo; or &amp;ldquo;+&amp;rdquo; button. A new sticky note appears. Method 2: Open a sticky note.</description>
+    </item>
+    <item>
+      <title>How to Install Scribus on Windows 11</title>
+      <link>http://localhost:1313/posts/how-to-install-scribus/</link>
+      <pubDate>Wed, 26 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-scribus/</guid>
+      <description>This tutorial covers:&#xA;What is Scribus? How to Download Scribus With Google Chrome How to Download Scribus With Firefox How to Install Scribus How to Open Scribus With Shortcut How to Open Scribus With Search How to Pin Scribus to the Taskbar With Search How to Pin Scribus to the Taskbar With Right Click How to Pin Scribus to the Taskbar From Start How to Pin Scribus to Start How to Uninstall Scribus No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Close the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-close-sticky-notes/</link>
@@ -99,13 +113,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Print in the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-print-in-notepad/</link>
-      <pubDate>Sat, 02 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-print-in-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Print: With Menu With Keyboard Shortcut How to Exit the Print Window How to Add a Printer How to Change the Number of Copies How to Print to File How to Let Notepad Change Printing Preferences How to Print on Both Sides No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;How to Print With Menu Step 1: First open a Notepad file.</description>
     </item>
   </channel>
 </rss>
