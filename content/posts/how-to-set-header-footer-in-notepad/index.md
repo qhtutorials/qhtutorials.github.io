@@ -17,12 +17,12 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiHKw10NiLPzGWobQ0oF4x-Ed7GV74gHAe7XU8FjGplLFfkw6gDZPfYX3_3HCT16ihHAypwVOsiDvA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDH0rX_9gJpOll9Bkd9fuXJ65Cl08HeRgpMPR--3hap1f7o2GnpHCA4br1SYThNQZVT38DGYOJxzuo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="MVMvbB5qmpg" width="100%" height="416" src="https://www.youtube.com/embed/MVMvbB5qmpg"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="DvXw-sSjKTI" width="100%" height="416" src="https://www.youtube.com/embed/DvXw-sSjKTI"></iframe>
 
 <h1 id="1">How to Remove the Header/Footer</h1>
 
@@ -105,7 +105,7 @@ The following tables list all the possible combinations of alignment and print c
     
     Header: **&cThe Story** prints "The Story" at the top of the Notepad document. <div class="stepimage">![Two screenshots where the "Header" field displays a custom code, and the resulting printed document appears.](blogcustomheader.png "Type 'alignment code + custom word' ")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1NE-bztnSyIR2qxTqOVul4icsVpfuVNTb/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/18r3AOq20KvWgAaVHDUIqKrFOsLzALbMY/view?usp=sharing).
 
 <br />
 
