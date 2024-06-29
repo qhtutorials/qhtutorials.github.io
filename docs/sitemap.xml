@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-04T02:01:58+05:30</lastmod>
+    <lastmod>2024-09-06T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-04T02:01:58+05:30</lastmod>
+    <lastmod>2024-09-06T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/edit-sticky-notes/</loc>
-    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
+    <lastmod>2024-06-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-edit-a-sticky-note/</loc>
+    <lastmod>2024-06-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sticky-notes/</loc>
+    <lastmod>2024-06-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows-11/</loc>
+    <lastmod>2024-06-28T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-create-sticky-notes/</loc>
     <lastmod>2024-06-26T02:01:58+05:30</lastmod>
@@ -18,15 +30,6 @@
     <lastmod>2024-06-26T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/installation-guides/</loc>
-    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sticky-notes/</loc>
-    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-26T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/windows-11/</loc>
     <lastmod>2024-06-26T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/customize-sticky-notes/</loc>
@@ -83,14 +86,14 @@
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</loc>
-    <lastmod>2023-09-06T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/notepad-keyboard-shortcuts/</loc>
+    <lastmod>2023-09-09T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/notepad/</loc>
-    <lastmod>2023-09-06T02:01:58+05:30</lastmod>
+    <lastmod>2023-09-09T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/save/print-notepad/</loc>
-    <lastmod>2023-09-06T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/tags/notepad-keyboard-shortcuts/</loc>
+    <lastmod>2023-09-09T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>

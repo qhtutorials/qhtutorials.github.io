@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notepad on Quickly How Tutorials</title>
-    <link>http://localhost:1313/tags/notepad/</link>
-    <description>Recent content in Notepad on Quickly How Tutorials</description>
+    <title>Notepad Keyboard Shortcuts on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/notepad-keyboard-shortcuts/</link>
+    <description>Recent content in Notepad Keyboard Shortcuts on Quickly How Tutorials</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
     <lastBuildDate>Sat, 09 Sep 2023 02:01:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/notepad-keyboard-shortcuts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Notepad Keyboard Shortcuts (Windows 11)</title>
       <link>http://localhost:1313/posts/notepad-keyboard-shortcuts/</link>

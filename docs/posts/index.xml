@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-a-sticky-note/</link>
+      <pubDate>Fri, 28 Jun 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-a-sticky-note/</guid>
+      <description>This tutorial covers:&#xA;How to Change the Color of a Sticky Note How to Edit Text in a Sticky Note How to Select Text in a Sticky Note: With Double Click With Mouse With Keyboard With Keyboard Shortcut How to Delete Text in a Sticky Note No time to scroll down? Click through this presentation tutorial:&#xA;See a tutorial video:&#xA;How to Change the Color of a Sticky Note Step 1: First open a sticky note.</description>
+    </item>
     <item>
       <title>How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-create-sticky-notes/</link>
@@ -115,11 +122,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Set the Header/Footer in the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</link>
-      <pubDate>Wed, 06 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</guid>
-      <description>This tutorial covers:&#xA;1. How to Remove the Header/Footer 2. How to Add the Header/Footer 3. What are the Header and Footer Codes? 4. How to Add Custom Words to the Header/Footer No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Remove the Header/Footer Step 1: First open a Notepad window. In the lower left click &amp;ldquo;More settings&amp;rdquo;. Step 2: In the menu that opens, click &amp;ldquo;Page setup&amp;rdquo;.</description>
+      <title>Microsoft Notepad Keyboard Shortcuts (Windows 11)</title>
+      <link>http://localhost:1313/posts/notepad-keyboard-shortcuts/</link>
+      <pubDate>Sat, 09 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/notepad-keyboard-shortcuts/</guid>
+      <description>This tutorial covers:&#xA;1. Menu Keyboard Shortcuts 2. File Menu Keyboard Shortcuts 3. Edit Menu Keyboard Shortcuts 4. Find and Replace Keyboard Shortcuts 5. View Menu Keyboard Shortcuts No time to scroll down? Click through these tutorials slides:&#xA;See a video tutorial:&#xA;Menu Keyboard Shortcuts First open a Notepad window. On the keyboard, hold Alt and press one of the corresponding keys to open that menu. For example, press Alt + F to open the File menu.</description>
     </item>
   </channel>
 </rss>
