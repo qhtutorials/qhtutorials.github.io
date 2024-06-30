@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Notepad Keyboard Shortcuts (Windows 11)"
-date: 2023-09-09T02:01:58+05:30
+date: 2024-09-09T02:01:58+05:30
 description: "This post covers the basic keyboard shortcuts of Notepad."
 tags: [Notepad Keyboard Shortcuts, Notepad, Windows 11]
 ---
@@ -57,7 +57,7 @@ See a video tutorial:
 
 <h1 id="3">Edit Menu Keyboard Shortcuts</h1>
 
-* First [open](https://qhtutorials.github.io/posts/how-to-open-notepad/) a Notepad window. On the keyboard, hold **Alt** or **Ctrl** and press one of the corresponding key combinations to perform that action. For example, press **Alt +  E + Alt + T** or **Ctrl + X** to cut text. The Edit menu shortcuts are as follows:
+* First [open](https://qhtutorials.github.io/posts/how-to-open-notepad/) a Notepad window. On the keyboard, hold **Alt** or **Ctrl** and press one of the corresponding key combinations to perform that action. For example, press **Alt +  E + Alt + T** or **Ctrl + X** to cut text. The Edit menu keyboard shortcuts are as follows:
 
 |Alt Shortcut|Ctrl Shortcut|Action|
 |------------|-------------|------|
@@ -76,21 +76,31 @@ See a video tutorial:
 
 <h1 id="4">Find and Replace Keyboard Shortcuts</h1>
 
-* [Open](https://qhtutorials.github.io/posts/how-to-print-in-notepad/) a Notepad window. Hold **Alt** or **Ctrl** and press the corresponding keys to perform that action. For example, press **Alt + E + Alt + F** or **Ctrl + F** to open the "Find" window. The Find and Replace menu Keyboard shortcuts are as follows:
+* [Open](https://qhtutorials.github.io/posts/how-to-print-in-notepad/) a Notepad window. Hold **Alt** or **Ctrl** and press the corresponding keys to perform that action. For example, press **Alt + E + Alt + F** or **Ctrl + F** to open the "Find" window. The Find and Replace menu keyboard shortcuts are as follows:
 
 |Alt Shortcut|Ctrl Shortcut|Action|
 |------------|-------------|------|
-|**Alt + F + Alt + N**|**Ctrl + N**|Opens a new tab|
-|**Alt + F + Alt + W**|**Ctrl + Shift + N**|Opens a new window|
-|**Alt + F + Alt + O**|**Ctrl + O**|Opens a file|
-|**Alt + F + Alt + S**|**Ctrl + S**|Saves a file|
-|**Alt + F + Alt + A**|**Ctrl + Shift + S**|Opens "Save as" window|
-|**Alt + F + Alt + L**|**Ctrl + Alt + S**|Performs "Save all"|
-|**Alt + F + Alt + U**|N/A|Opens "Page Setup"|
-|**Alt + F + Alt + P**|**Ctrl + P**|Opens "Print" window|
-|**Alt + F + Alt + C**|**Ctrl + W**|Closes tab|
-|**Alt + F + Alt + E**|**Ctrl + Shift + W**|Closes window|
-|**Alt + F + Alt + X**|N/A|Closes all windows|
+|**Alt + E + Alt + F**|**Ctrl + F**|Opens the "Find" window|
+|**Alt + E + Alt + F + Alt + D**|**Fn or Fn + F3**|Performs "Find next"|
+|**Alt + E + Alt + F + Alt + U**|**Shift + F3 (or Fn + Shift + F3)**|Performs "Find previous"|
+|**Alt + E + Alt + F + Alt + C**|N/A|Adds/removes Match Case|
+|**Alt + E + Alt + F + Alt + W**|N/A|Adds/removes Wrap Around|
+|**Alt + E + Alt + R**|**Ctrl + H**|Opens the "Find and Replace" window|
+|**Alt + E + Alt + R + Alt + R**|N/A|Performs "Replace"|
+|**Alt + E + Alt + R + Alt + A**|N/A|Performs "Replace all"|
+
+<h1 id="5">View Menu Keyboard Shortcuts</h1>
+
+* First [open](https://qhtutorials.github.io/posts/how-to-print-in-notepad/) a Notepad window. Hold **Alt** or **Ctrl** and press the corresponding keys to perform that action. For example, press **Alt + V + Alt + Z + Alt + I** or **Ctrl + Plus** to zoom in. The Find and View menu keyboard shortcuts are as follows:
+
+|Alt Shortcut|Ctrl Shortcut|Action|
+|------------|-------------|------|
+|**Alt + V + Alt + Z**|N/A|Opens the View menu|
+|**Alt + V + Alt + Z + Alt + I**|**Ctrl + Plus**|Zooms in|
+|**Alt + V + Alt + Z + Alt + O**|**Ctrl + Minus**|Zooms out|
+|**Alt + V + Alt + Z + Alt + R**|**Ctrl + 0**|Restores default zoom|
+|**Alt + V + Alt + S**|N/A|Adds/removes the Status bar|
+|**Alt + V + Alt + W**|N/A|Adds/removes Word Wrap|
 
 Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/18r3AOq20KvWgAaVHDUIqKrFOsLzALbMY/view?usp=sharing).
 
