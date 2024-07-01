@@ -35,3 +35,4 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)*
 1. [How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/7nW3REmZ6nE)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="7nW3REmZ6nE" width="100%" height="416" src="https://www.youtube.com/embed/7nW3REmZ6nE"></iframe></div>
+2. [How to Edit a Sticky Note in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/5qCKiWC0jc8) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="5qCKiWC0jc8" width="100%" height="416" src="https://www.youtube.com/embed/5qCKiWC0jc8"></iframe></div>
