@@ -19,12 +19,12 @@ This tutorial covers:
 <br />
 
 <p>No time to scroll down? Click through these tutorials slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDH0rX_9gJpOll9Bkd9fuXJ65Cl08HeRgpMPR--3hap1f7o2GnpHCA4br1SYThNQZVT38DGYOJxzuo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtihllF7XFfEjDhKP6gm2mwvvMTciluTegxbMgKjG9hyPdydDxxmJHU_hmV7U7R5pZ__gaLQAWZwbX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="DvXw-sSjKTI" width="100%" height="416" src="https://www.youtube.com/embed/DvXw-sSjKTI"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="emlskC42snM" width="100%" height="416" src="https://www.youtube.com/embed/emlskC42snM"></iframe>
 
 <h1 id="1">Menu Keyboard Shortcuts</h1>
 
@@ -83,11 +83,15 @@ See a video tutorial:
 |**Alt + E + Alt + F**|**Ctrl + F**|Opens the "Find" window|
 |**Alt + E + Alt + F + Alt + D**|**Fn or Fn + F3**|Performs "Find next"|
 |**Alt + E + Alt + F + Alt + U**|**Shift + F3 (or Fn + Shift + F3)**|Performs "Find previous"|
-|**Alt + E + Alt + F + Alt + C**|N/A|Adds/removes Match Case|
-|**Alt + E + Alt + F + Alt + W**|N/A|Adds/removes Wrap Around|
+|**Alt + E + Alt + F + Alt + C** \*|N/A|Adds/removes Match Case|
+|**Alt + E + Alt + F + Alt + W** \*|N/A|Adds/removes Wrap Around|
 |**Alt + E + Alt + R**|**Ctrl + H**|Opens the "Find and Replace" window|
 |**Alt + E + Alt + R + Alt + R**|N/A|Performs "Replace"|
 |**Alt + E + Alt + R + Alt + A**|N/A|Performs "Replace all"|
+
+* To add or remove Match Case, first press **Alt + E + Alt + F** to open the "Find" window. Next click the "More options" button, then press **Alt + C**.
+
+* To add or remove Wrap Around, first press **Alt + E + Alt + F** to open the "Find" window. Next click the "More options" button, then press **Alt + W**.
 
 <h1 id="5">View Menu Keyboard Shortcuts</h1>
 
@@ -102,7 +106,7 @@ See a video tutorial:
 |**Alt + V + Alt + S**|N/A|Adds/removes the Status bar|
 |**Alt + V + Alt + W**|N/A|Adds/removes Word Wrap|
 
-Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/18r3AOq20KvWgAaVHDUIqKrFOsLzALbMY/view?usp=sharing).
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1SKJpIB5rShV3s5zY1tGO38yIYLA-2CRV/view?usp=sharing).
 
 <br />
 
