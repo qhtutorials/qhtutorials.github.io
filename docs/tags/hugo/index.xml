@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Quickly How Tutorials</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
+    <lastBuildDate>Wed, 13 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up a Hugo Blog</title>
+      <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog/</link>
+      <pubDate>Wed, 13 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-set-up-a-hugo-blog/</guid>
+      <description>This tutorial covers:&#xA;1. What is Hugo? 2. Installation Requirements 3. How to Set Up a Hugo Blog on GitHub Pages What is Hugo? Hugo is one of the fastest static site generators (SSG) that uses the Go language to create websites. For example, technical writing portfolio blogs made with Hugo can be deployed on GitHub Pages or Netlify. Because the official Hugo documentation is too long and technical for beginners, this post aims to provide a quick start guide on how to set up a Hugo blog using the Archie theme.</description>
+    </item>
+  </channel>
+</rss>
