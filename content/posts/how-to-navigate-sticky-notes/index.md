@@ -1,6 +1,6 @@
 ---
 title: "How to Navigate the Microsoft Sticky Notes App Settings (Windows 11)"
-date: 2024-07-12T02:01:58+05:30
+date: 2024-07-15T02:01:58+05:30
 description: "Need to find a specific sticky note? Search for it, or switch between notes with the keyboard. The keyboard also lets you jump to and delete words in sticky notes. Learn more in this tutorial."
 tags: [Navigate Sticky Notes, Sticky NOtes, Windows 11]
 draft: false

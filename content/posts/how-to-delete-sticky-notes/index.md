@@ -1,6 +1,6 @@
 ---
 title: "How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)"
-date: 2024-07-08T02:01:58+05:30
+date: 2024-07-10T02:01:58+05:30
 description: "Free up your workspace by deleting a few sticky notes. Learn how in this post."
 tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false

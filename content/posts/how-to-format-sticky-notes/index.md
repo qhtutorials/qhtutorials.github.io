@@ -1,6 +1,6 @@
 ---
 title: "How to Format Text in the Microsoft Sticky Notes App (Windows 11)"
-date: 2024-07-01T02:01:58+05:30
+date: 2024-07-03T02:01:58+05:30
 description: "Add some flair to your sticky notes with bold, italic, underlined, strikethrough, and bulleted list text. This tutorial also covers the basic copy, cut, and paste operations."
 tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false

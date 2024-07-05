@@ -11,13 +11,14 @@ This tutorial covers:
 ## [How to Open Microsoft Whiteboard With Search](#2)
 
 ## How to Open a Blank Whiteboard:
-1. [By Default](#3)
+1. [With Click](#3)
 2. [With Close](#4)
+3. [By Default](#5)
 
 ## How to Open a Whiteboard Template:
-1. [With Templates Window](#5)
-2. [With Preview](#6)
-3. [With Menu](#7)
+1. [With the Templates Window](#6)
+2. [With Preview](#7)
+3. [With Menu](#8)
 
 ## [How to Refresh a Whiteboard](#8)
 
@@ -42,9 +43,54 @@ As a cloud-based or online app, Microsoft Whiteboard enables multiple users to c
 * Step 3: On the search results screen, click one of these buttons.<div class="stepimage">![A screenshot where blue rectangles surround the "Microsoft Whiteboard App" and "Open" buttons on the search results screen.](blogwhiteboardsearchresultsedit.png "Click one of these buttons")</div>
 * Microsoft Whiteboard opens. <div class="stepimage">![A screenshot of the open Microsoft Whiteboard window.](blogopenedwhiteboard.png "The open Microsoft Whiteboard window")</div>
 
-<h1 id="3">How to Open a Blank Whiteboard By Default</h1>
+<h1 id="3">How to Open a Blank Whiteboard With Click</h1>
 
-* Step 1: 
+* Step 1: First [open](#2) the Microsoft Whiteboard app. Click the "+ New Whiteboard" button. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Step 2: In the "Templates" window that opens, click the "Start with blank canvas" button. <div class="stepimage">![A screenshot of the cursor clicking the "Start with blank canvas" button.](blogclickblankcanvasedit.png "Click 'Start with blank canvas' ")</div>
+* A blank canvas opens. <div class="stepimage">![A screenshot of a blank canvas in the Microsoft Whiteboard window.](blogopenedblankcanvas.png "A blank canvas")</div>
+
+<h1 id="4">How to Open a Blank Whiteboard With Close</h1>
+
+* Step 1: [Open](#2) the Microsoft Whiteboard app. Click the "+ New Whiteboard" button. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Step 2: In the "Templates" window that opens, click the "Close" or "X" button in the upper right corner. <div class="stepimage">![A screenshot of the cursor clicking the "X" button.](blogclickxtomakeblankcanvasedit.png "Click 'X' ")</div>
+* A blank canvas opens. <div class="stepimage">![A screenshot of a blank canvas in the Microsoft Whiteboard window.](blogopenedblankcanvas.png "A blank canvas")</div>
+
+<h1 id="5">How to Open a Blank Whiteboard By Default</div>
+
+* Step 1: First [open](#2) the Microsoft Whiteboard app. Click the "+ New Whiteboard" button. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Step 2: In the "Templates" window that opens, click to deselect the "Show for new whiteboards" option, then click the "X" or click anywhere outside the window. <div class="stepimage">![A screenshot of the cursor clicking the "Show for new whiteboards" and the "X" button.](blogshowmessageoffedit.png "Click 'Show for new whiteboards' ")</div>
+* Step 3: Click the "My whiteboards" or house button in the upper left. <div class="stepimage">![A screenshot of the cursor clicking the "My whiteboards" button.](blogclickmywhiteboards.png "Click 'My whiteboards' ")</div>
+* Step 4: Click the "+ New Whiteboard" button again. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Microsoft Whiteboard does not display the "Templates" window and instead opens a blank canvas. <div class="stepimage">![A screenshot of a blank canvas in the Microsoft Whiteboard window.](blogopenedblankcanvas.png "A blank canvas")</div>
+
+<h1 id="6">How to Open a Whiteboard Template With the Templates Window</h1>
+
+* Step 1: [Open](#2) the Microsoft Whiteboard app. Click the "+ New Whiteboard" button. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Step 2: In the "Templates" window that opens, hover over any of the templates, then click the "Use this template" button. <div class="stepimage">![A screenshot of the cursor clicking the "Use this template" button.](blogclickplusnewwhiteboardedit.png "Click 'Use this template' ")</div>
+* Step 3: In the canvas that opens, click anywhere to insert the template. <div class="stepimage">![A screenshot of the cursor clicking the canvas.](blogtemplatesclicktoinert.png "Click anywhere on the canvas")</div>
+* The template opens. <div class="stepimage">![A screenshot of a template on the canvas in the Microsoft Whiteboard window.](blogopentemplate.png "An open template")</div>
+
+<h1 id="7">How to Open a Whiteboard Template With Preview</h1>
+
+* Step 1: First [open](#2) the Microsoft Whiteboard app. Click the "+ New Whiteboard" button. <div class="stepimage">![A screenshot of the cursor clicking the "+ New Whiteboard" button.](blogclickplusnewwhiteboardedit.png "Click '+ New Whiteboard' ")</div>
+* Step 2: In the "Templates" window that opens, hover over any of the templates and click the "Preview" button. <div class="stepimage">![A screenshot of the cursor clicking the "Preview" button.](blogtemplatespreviewbuttonedit.png "Click 'Preview' ")</div>
+* Step 3: In the "Preview" window, click the "Use this template" button. <div class="stepimage">![A screenshot of the cursor clicking the "Use this template" button.](blogtemplatespreviewusethisbuttonedit.png "Click 'Use this template' ")</div>
+* Step 4: In the canvas that opens, click anywhere to insert the template. <div class="stepimage">![A screenshot of the cursor clicking the canvas.](blogtemplatesclicktoinert.png "Click anywhere on the canvas")</div>
+* The template opens. <div class="stepimage">![A screenshot of a template on the canvas in the Microsoft Whiteboard window.](blogopentemplate.png "An open template")</div>
+
+<h1 id="8">How to Open a Whiteboard Template With Menu</h1>
+
+* Step 1: [Open](#3) a blank whiteboard. On the lower toolbar click the "Add template" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add template" button.](blogclickaddtemplate.png "Click 'Add template' ")</div>
+* Step 2: In the "Templates" window that opens, hover over any of the templates, then click the "Use this template" button. <div class="stepimage">![A screenshot of the cursor clicking the "Use this template" button.](blogclickplusnewwhiteboardedit.png "Click 'Use this template' ")</div>
+* Step 3: In the canvas that opens, click anywhere to insert the template. <div class="stepimage">![A screenshot of the cursor clicking the canvas.](blogtemplatesclicktoinert.png "Click anywhere on the canvas")</div>
+* The template opens. <div class="stepimage">![A screenshot of a template on the canvas in the Microsoft Whiteboard window.](blogopentemplate.png "An open template")</div>
+
+<h1 id="9">How to Refresh a Whiteboard</h1>
+
+* Step 1: First [open](#6) a whiteboard template. On the keyboard press **Ctrl + R**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + R" on the canvas.](blogctrlr1.png "Press 'Ctrl + R' ")</div>
+* Microsoft Whiteboard reloads the current whiteboard. <div class="stepimage">![A screenshot of the whiteboard canvas reloading.](blogctrlr2.png "The canvas reloads")</div>
+
+Save a copy of these instructions for later with this free [PDF tutorial]().
 
 <br />
 

@@ -1,6 +1,6 @@
 ---
 title: "How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)"
-date: 2024-06-26T02:01:58+05:30
+date: 2024-06-28T02:01:58+05:30
 description: "Sometimes you just need more space to take notes. Choose from one of the four ways to create new sticky notes. Learn more in this post."
 tags: [Edit Sticky Notes, Sticky Notes, Windows 11]
 draft: false
