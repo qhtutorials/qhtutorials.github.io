@@ -23,12 +23,11 @@ This tutorial covers:
 ## [How to Refresh a Whiteboard](#8)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqwi1ywxN7TaYWWhjyGr9D5KzgWtJ133vyJ_rOyKjG_IWemOLTyWGNRDkTy5ffBd-VEihRCUmhcuP8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSA69cjJqBBCB8hPX3TDgzibdshXJUfbeSAkqq8v34AqbK9pCdyQR0dWXrgaMBWQHmCVbRkUm6y5s4G/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="8eC8KD8pAEQ" width="100%" height="416" src="https://www.youtube.com/embed/8eC8KD8pAEQ"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="nCExYPGynm8" width="100%" height="416" src="https://www.youtube.com/embed/nCExYPGynm8"></iframe>
 
 <br />
 
@@ -90,7 +89,7 @@ As a cloud-based or online app, Microsoft Whiteboard enables multiple users to c
 * Step 1: First [open](#6) a whiteboard template. On the keyboard press **Ctrl + R**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + R" on the canvas.](blogctrlr1.png "Press 'Ctrl + R' ")</div>
 * Microsoft Whiteboard reloads the current whiteboard. <div class="stepimage">![A screenshot of the whiteboard canvas reloading.](blogctrlr2.png "The canvas reloads")</div>
 
-Save a copy of these instructions for later with this free [PDF tutorial]().
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1YIXU24WoIMincBUU7BfBdAlMqn4BZ1P2/view?usp=sharing).
 
 <br />
 
