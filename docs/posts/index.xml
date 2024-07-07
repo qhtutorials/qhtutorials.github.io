@@ -7,33 +7,33 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Undo and Redo in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-undo-redo-sticky-notes/</link>
-      <pubDate>Wed, 03 Jul 2024 02:01:58 +0530</pubDate>
+      <pubDate>Fri, 05 Jul 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-undo-redo-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;How to Undo: With Right Click With Keyboard Shortcut How to Redo: With Right Click With Keyboard Shortcut No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Undo With Right Click Step 1: First edit a sticky note. Right click anywhere in the note. Step 2: In the menu that opens, click &amp;ldquo;Undo&amp;rdquo;. The previous action is reversed. How to Undo With Keyboard Shortcut Step 1: Edit a sticky note.</description>
     </item>
     <item>
       <title>How to Format Text in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-format-sticky-notes/</link>
-      <pubDate>Mon, 01 Jul 2024 02:01:58 +0530</pubDate>
+      <pubDate>Wed, 03 Jul 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-format-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;How to Format Text: With Click With Keyboard Shortcut How to Copy Text: With Right Click With Keyboard Shortcut How to Cut Text: With Right Click With Keyboard Shortcut How to Paste Text: With Right Click With Keyboard Shortcut No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a tutorial video:&#xA;How to Format Text With Click Method 1: First edit a sticky note and select any text.</description>
     </item>
     <item>
       <title>How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-a-sticky-note/</link>
-      <pubDate>Fri, 28 Jun 2024 02:01:58 +0530</pubDate>
+      <pubDate>Mon, 01 Jul 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-edit-a-sticky-note/</guid>
       <description>This tutorial covers:&#xA;How to Change the Color of a Sticky Note How to Edit Text in a Sticky Note How to Select Text in a Sticky Note: With Double Click With Mouse With Keyboard With Keyboard Shortcut How to Delete Text in a Sticky Note No time to scroll down? Click through this presentation tutorial:&#xA;See a tutorial video:&#xA;How to Change the Color of a Sticky Note Step 1: First open a sticky note.</description>
     </item>
     <item>
       <title>How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-create-sticky-notes/</link>
-      <pubDate>Wed, 26 Jun 2024 02:01:58 +0530</pubDate>
+      <pubDate>Fri, 28 Jun 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-create-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;How to Create a Sticky Note: With Click With Right Click With Search With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;How to Create a Sticky Note With Click Method 1: First open the Notes List. Go to the upper left corner and click the &amp;ldquo;New note&amp;rdquo; or &amp;ldquo;+&amp;rdquo; button. A new sticky note appears. Method 2: Open a sticky note.</description>
     </item>
@@ -134,6 +134,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Pin the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-pin-whiteboard/</link>
+      <pubDate>Mon, 18 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-pin-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Pin Microsoft Whiteboard To the Taskbar: With Search With Right Click From Start How to Pin Microsoft Whiteboard To Start No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Pin Microsoft Whiteboard to the Taskbar With Search Step 1: Go down to the taskbar and click the Start (four blue squares) button. Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;whiteboard&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
