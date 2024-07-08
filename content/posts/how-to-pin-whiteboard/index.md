@@ -14,12 +14,12 @@ This tutorial covers:
 ## [How to Pin Microsoft Whiteboard To Start](#4)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSA69cjJqBBCB8hPX3TDgzibdshXJUfbeSAkqq8v34AqbK9pCdyQR0dWXrgaMBWQHmCVbRkUm6y5s4G/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTim-YinVcvgp-Gqlb9u0Nb7MukeGggV9_2t8YKhkjJIgbr8A0ctDftbnZlhvJqjOn_g7wTax2e6SLs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="nCExYPGynm8" width="100%" height="416" src="https://www.youtube.com/embed/nCExYPGynm8"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="W7EL6aMfgrM" width="100%" height="416" src="https://www.youtube.com/embed/W7EL6aMfgrM"></iframe>
 
 <br />
 
@@ -53,7 +53,7 @@ Watch a tutorial video:
 * Step 4: Click the Start button twice, and in the Start window that opens, click the pinned Microsoft Whiteboard app icon. <div class="stepimage">![A screenshot of the cursor clicking the Start button twice and the pinned Microsoft Whiteboard app icon in the Start window.](blogstartclickpinnedappedit.png "Click Start twice and click the pinned app icon")</div>
 * Microsoft Whiteboard opens. <div class="stepimage">![A screenshot of the open Microsoft Whiteboard window.](blogopenedwhiteboard.png "The open Microsoft Whiteboard window")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1YIXU24WoIMincBUU7BfBdAlMqn4BZ1P2/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1sN-IvFotZ1yhJyedVa5RSEfsnzC1zXLD/view?usp=sharing).
 
 <br />
 
