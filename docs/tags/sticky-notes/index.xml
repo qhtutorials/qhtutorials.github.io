@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 05 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/sticky-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit Images in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-images-in-sticky-notes/</link>
+      <pubDate>Mon, 08 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-images-in-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Add an Image to a Sticky Note How to View an Image in a Sticky Note: With Double Click With Right Click How to Navigate the Image Viewer Window: How to Resize the Image Viewer Window How to Maximize and Restore the Image Viewer Window How to Close the Image Viewer Window How to Save an Image: With Menu With Right Click How to Open an Image in Photos How to Edit the Description of an Image How to Remove the Description of an Image How to Delete an Image: With Menu With Right Click No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Undo and Redo in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-undo-redo-sticky-notes/</link>
