@@ -1,6 +1,6 @@
 ---
 title: "How to Open Content in Microsoft Whiteboard (Windows 11)"
-date: 2023-09-20T02:01:58+05:30
+date: 2024-09-20T02:01:58+05:30
 description: "Open the built-in Whiteboard features such as the Timer, Ruler, and Find window. And don't forget to open images and PDFs."
 tags: [Microsoft Whiteboard, Open Whiteboard, Windows 11]
 ---
