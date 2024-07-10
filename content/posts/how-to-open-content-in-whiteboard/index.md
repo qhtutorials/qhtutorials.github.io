@@ -21,12 +21,12 @@ This tutorial covers:
 ## [How to Open the "Find" Window](#7)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTim-YinVcvgp-Gqlb9u0Nb7MukeGggV9_2t8YKhkjJIgbr8A0ctDftbnZlhvJqjOn_g7wTax2e6SLs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTIbfgj4yBg_uwY27RKiLnRxtBuyoB8iZ-qGtgFejmVuRpINPCgilBoHVyTnXSSlJ16SrWHuUEGDwF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="W7EL6aMfgrM" width="100%" height="416" src="https://www.youtube.com/embed/W7EL6aMfgrM"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="xt99RAfevIE" width="100%" height="416" src="https://www.youtube.com/embed/xt99RAfevIE"></iframe>
 
 <br />
 
@@ -83,7 +83,7 @@ Follow along with a video tutorial:
 * Step 4: Click the "Close" or "X" button to close the "Find" window. <div class="stepimage">![A screenshot of the cursor clicking the "X" button.](blogctrlfclickx.png "Click 'X' ")</div>
 * Alternatively, on the keyboard press **Esc** to close the "Find" window. <div class="stepimage">![Two screenshots where a graphic of the keyboard "Esc" key appears on the canvas, and the resulting whiteboard without a "Find" window appears.](blogpptctrlfesc.png "Press 'Esc' ")</div>
 
-Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1sN-IvFotZ1yhJyedVa5RSEfsnzC1zXLD/view?usp=sharing).
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1AWcBKM2QlwtiACMOFsoC301ujKYtBgU0/view?usp=sharing).
 
 <br />
 
