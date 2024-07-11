@@ -16,12 +16,12 @@ This tutorial covers:
 5. [With Keyboard Shortcuts](#6)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTIbfgj4yBg_uwY27RKiLnRxtBuyoB8iZ-qGtgFejmVuRpINPCgilBoHVyTnXSSlJ16SrWHuUEGDwF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTS_aqgn8Z7evBoRI39oDuLWD-Lnzno3PLJrHTQx0g15f6hWOVLBeuMSwzWmJ4GiXWjJBa2cnO8pz21/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="xt99RAfevIE" width="100%" height="416" src="https://www.youtube.com/embed/xt99RAfevIE"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="K9PKaFHIHN4" width="100%" height="416" src="https://www.youtube.com/embed/K9PKaFHIHN4"></iframe>
 
 <br />
 
@@ -56,7 +56,7 @@ Watch a tutorial video:
 * Method 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) Microsoft Whiteboard. On the keyboard press **Alt + F4**, or **Fn + Alt + F4**. <div class="stepimage">![Two screenshots where a graphic of the keyboard keys "Alt + F4" appears in the Microsoft Whiteboard window, and the resulting empty Desktop appears as the Microsoft Whiteboard window closes.](blogaltf4.png "Press 'Alt + F4' ")</div>
 * Method 2: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) Microsoft Whiteboard. Press **Tab** to enter keyboard focus, then press **Alt + Enter**. In the menu that appears in the upper left corner, press the **down arrow** key until the cursor is on the "Close" option and press **Enter**. <div class="stepimage">![Three screenshots where a graphic of the "Tab" and "Alt + Enter", and "Enter" keyboard keys appear in the Microsoft Whiteboard window, and the resulting empty Desktop appears as the Microsoft Whiteboard window closes.](blogaltenter.png "Press 'Tab', then 'Alt + Enter', and on the 'Close' option press 'Enter' ")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1AWcBKM2QlwtiACMOFsoC301ujKYtBgU0/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/19VEIO1hmmQnYJtdC8-74nN0zfSVo5NLv/view?usp=sharing).
 
 <br />
 
