@@ -73,7 +73,7 @@ Follow along with a video tutorial:
 
 <h1 id="7">How to Open the "Find" Window</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/)) a whiteboard. On the keyboard press **Ctrl + F**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + F" on the canvas.](blogctrlf1.png "Press 'Ctrl + F' ")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the keyboard press **Ctrl + F**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + F" on the canvas.](blogctrlf1.png "Press 'Ctrl + F' ")</div>
 * Step 2: In the "Find" window that opens, type any text and press **Enter** to search for it. Click the "Previous result" or up arrow button to find the previous instance of that text. Click the "Next result" or down arrow button to find the next instance of that text. <div class="stepimage">![Four screenshots highlighting the "Find" window, where the cursor clicks the up and down arrow to find text.](blogctrlf2.png "Type text and click the up or down arrow' ")</div>
 * Alternatively, press **Shift + Ctrl + G** to find the previous instance of text, and **Ctrl + G** to find the next instance of text. 
 

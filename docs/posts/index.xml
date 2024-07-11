@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-delete-sticky-notes/</link>
+      <pubDate>Wed, 10 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-delete-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Delete a Sticky Note: With Menu With Click From the Notes List With Right Click With Keyboard Shortcut No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Delete a Sticky Note With Menu Step 1: First open a sticky note. Go to the upper right and click the &amp;ldquo;Menu&amp;rdquo; or &amp;ldquo;&amp;hellip;&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Delete note&amp;rdquo;.</description>
+    </item>
     <item>
       <title>How to Edit Images in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-images-in-sticky-notes/</link>
@@ -141,13 +148,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Open Content in Microsoft Whiteboard (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-open-content-in-whiteboard/</link>
-      <pubDate>Wed, 20 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-open-content-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Open Images How to Open PDFs How to Open the Timer How to Open the Ruler: With Menu With Keyboard Shortcut How to Open the Source Code How to Open the &amp;ldquo;Find&amp;rdquo; Window No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Open Images Step 1: First open a whiteboard. On the bottom toolbar click the &amp;ldquo;More options&amp;rdquo; or &amp;ldquo;&amp;hellip;&amp;rdquo; button.</description>
     </item>
   </channel>
 </rss>
