@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to Set Up a Hugo Blog Post - Quickly How Tutorials</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Learn how to create a new blog post and embed media into it, using Hugo" />
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/">
+  <meta property="og:site_name" content="Quickly How Tutorials">
+  <meta property="og:title" content="How to Set Up a Hugo Blog Post">
+  <meta property="og:description" content="Learn how to create a new blog post and embed media into it, using Hugo">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-09-25T02:01:58+05:30">
+    <meta property="article:modified_time" content="2023-09-25T02:01:58+05:30">
+    <meta property="article:tag" content="Hugo">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="How to Set Up a Hugo Blog Post">
+<meta name="twitter:description" content="Learn how to create a new blog post and embed media into it, using Hugo">
+<script src="http://localhost:1313/js/feather.min.js"></script>
+	
+	
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+
+	
+	
+
+	
+	
+	
+	
+		
+		
+		<link rel="stylesheet" type="text/css" href="http://localhost:1313/css/first.6f2d06807d19cdfc1602d099ac91f32b76d9911350e087ea0212e734167fbab2.css">
+		
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">Quickly How Tutorials</a>
+	</div>
+	<nav>
+		
+		<a href="/posts">Blog</a>
+		
+		<a href="/videos">Videos</a>
+		
+		<a href="/slides">Slides</a>
+		
+		<a href="/pdfs">PDFs</a>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">How to Set Up a Hugo Blog Post</h1>
+			<div class="meta">Posted on Sep 25, 2023 
+				<div class="post-tags">
+					
+					
+					
+					
+				</div>
+				<div class="tagbox">
+					<h5>Tags:</h5>
+					<nav class="nav tags">
+						<ul class="tags">
+							
+							<li><a href="/tags/hugo">Hugo</a></li>
+							
+						</ul>
+					</nav>
+					</div>
+			</div>
+			
+		</div>
+		
+        
+		<section class="body">
+			<p>This tutorial covers:</p>
+<h2 id="1-how-to-create-a-new-blog-post1">1. <a href="#1">How to Create a New Blog Post</a></h2>
+<h2 id="2-how-to-add-images-to-the-blog-post2">2. <a href="#2">How to Add Images to the Blog Post</a></h2>
+<h2 id="3-how-to-add-other-media-to-the-blog-post3">3. <a href="#3">How to Add Other Media to the Blog Post</a></h2>
+<br />
+<h1 id="1">How to Create a New Blog Post</h1>
+<ul>
+<li>Step 1: With PowerShell, navigate to the root of your Hugo website folder, then run the following command:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>hugo new content posts/nameofyourpost/index.md
+</span></span></code></pre></div><br />
+<ul>
+<li>Step 2: Open the <strong>content/posts/nameofyourpost/index.md</strong> file in your favorite code editor. Go to the front matter, or section in between the &ldquo;&mdash;&rdquo; triple hyphens, and edit the following:</li>
+</ul>
+<ul>
+<li>For <strong>title:</strong>, type the title of the blog post.</li>
+<li>For <strong>date:</strong>, type the date of the blog post. The Hugo date format is <strong>YYYY-MM-DD</strong>.</li>
+<li>For <strong>description:</strong>, type a preview or teaser of what the post is about. This description will appear in the blog feed (if using the Archie theme).</li>
+<li>For <strong>tags:</strong>, type <strong>[nameoftag]</strong> or <strong>[tag1, tag2]</strong>. Make sure to capitalize and alphabetize these, as Hugo does not do this automatically.</li>
+</ul>
+<ul>
+<li>Step 3: Edit your blog post however you like, using Markdown.</li>
+</ul>
+<h1 id="2">How to Add Images to the Blog Post</h1>
+<p>Step 1: Copy and paste the desired image file(s) into your <strong>content/posts/nameofyourpost/</strong> directory.</p>
+<p>Step 2: In your index.md file, add the following Markdown:</p>
+<pre tabindex="0"><code>![Alt text](image_path &#34;title text&#34;)
+</code></pre><br />
+<p>For example, if I have an image called &ldquo;broccoli.png&rdquo;, then I would add it to my blog post with:</p>
+<pre tabindex="0"><code>![A picture of broccoli](broccoli.png &#34;A picture of broccoli&#34;)
+</code></pre><br />
+<p>If you want more control over the CSS styling of the image, please see the next section.</p>
+<h1 id="3">How to Add Other Media to the Blog Post</h1>
+<ul>
+<li>Step 1: In order to embed media with &lt;iframe&gt; tags, we need to specify that Hugo uses the Goldmark flavor of Markdown. First open the hugo.toml file in the root of your Hugo blog directory.</li>
+</ul>
+<br />
+<ul>
+<li>Step 2: In the hugo.toml file, go below the <strong>publishDir = &ldquo;docs&rdquo;</strong> and above the <strong>[params]</strong> table, and paste this code:</li>
+</ul>
+<pre tabindex="0"><code>[markup]
+   [markup.goldmark]
+      [markup.goldmark.renderer]
+         unsafe = true
+</code></pre><br />
+<ul>
+<li>Step 3: Open your <strong>content/posts/nameofyourpost/index.md</strong> file and paste the desired media tags. For example, to paste a Youtube video, add:</li>
+</ul>
+<pre tabindex="0"><code>&lt;iframe class=&#34;BLOG_video_class&#34; allowfullscreen=&#34;&#34; youtube-src-id=&#34;K9PKaFHIHN4&#34; width=&#34;100%&#34; height=&#34;416&#34; src=&#34;https://www.youtube.com/embed/K9PKaFHIHN4&#34;&gt;&lt;/iframe&gt;
+</code></pre><br />
+<p>With Goldmark, you can embed html tags. Thus, you can embed your images, video, and other media inside &lt;div&gt; tags for more fine-grained control over their CSS styling.</p>
+<br />
+<p>Note: Hugo uses shortcodes to embed images and video, but the CSS of these shortcodes cannot be easily edited.</p>
+<br />
+<p>Now you know how to create Hugo blog posts. The next tutorial will cover how to edit the CSS of an Archie theme Hugo blog.</p>
+<br />
+
+		</section>
+		<div class="backtolink">
+        <a href="https://qhtutorials.github.io/posts/">Back to Blog</a>
+	 </div>
+	</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/qhtutorials/qhtutorials.github.io" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2024  © Quickly How Tutorials  
+  </div>
+</footer>
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

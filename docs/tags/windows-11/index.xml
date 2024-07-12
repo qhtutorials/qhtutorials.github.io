@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 10 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Sticky Notes App Settings (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-sticky-notes-settings/</link>
+      <pubDate>Fri, 12 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-sticky-notes-settings/</guid>
+      <description>This tutorial covers:&#xA;How to Enable Insights in a Sticky Note How to Turn &amp;ldquo;Confirm Before Deleting&amp;rdquo; Off: With Settings With Click No time to scroll down? Click through this presentation tutorial: See it in action with this video:&#xA;How to Enable Insights in a Sticky Note Step 1: First open the Notes List. Go to the upper right and click the &amp;ldquo;Settings&amp;rdquo; or gear button. Step 2: In the Settings window that opens, click under the &amp;ldquo;Enable Insights&amp;rdquo; section to toggle this option on.</description>
+    </item>
     <item>
       <title>How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-delete-sticky-notes/</link>
@@ -134,13 +141,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Close the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-close-whiteboard/</link>
-      <pubDate>Sat, 23 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-close-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Delete a Whiteboard How to Close Microsoft Whiteboard: With Click With Right Click With Hover Witih Hover and Right Click With Keyboard Shortcuts No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Delete a Whiteboard Step 1: First open a whiteboard. In the upper left click the &amp;ldquo;My whiteboards&amp;rdquo; or house button. Step 2: Hover over a whiteboard and click the &amp;ldquo;More options&amp;rdquo; or &amp;ldquo;&amp;hellip;&amp;rdquo; button.</description>
     </item>
   </channel>
 </rss>

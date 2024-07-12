@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 10 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Sticky Notes App Settings (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-sticky-notes-settings/</link>
+      <pubDate>Fri, 12 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-sticky-notes-settings/</guid>
+      <description>This tutorial covers:&#xA;How to Enable Insights in a Sticky Note How to Turn &amp;ldquo;Confirm Before Deleting&amp;rdquo; Off: With Settings With Click No time to scroll down? Click through this presentation tutorial: See it in action with this video:&#xA;How to Enable Insights in a Sticky Note Step 1: First open the Notes List. Go to the upper right and click the &amp;ldquo;Settings&amp;rdquo; or gear button. Step 2: In the Settings window that opens, click under the &amp;ldquo;Enable Insights&amp;rdquo; section to toggle this option on.</description>
+    </item>
     <item>
       <title>How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-delete-sticky-notes/</link>
@@ -148,6 +155,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Set Up a Hugo Blog Post</title>
+      <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</link>
+      <pubDate>Mon, 25 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</guid>
+      <description>This tutorial covers:&#xA;1. How to Create a New Blog Post 2. How to Add Images to the Blog Post 3. How to Add Other Media to the Blog Post How to Create a New Blog Post Step 1: With PowerShell, navigate to the root of your Hugo website folder, then run the following command: hugo new content posts/nameofyourpost/index.md Step 2: Open the content/posts/nameofyourpost/index.md file in your favorite code editor. Go to the front matter, or section in between the &amp;ldquo;&amp;mdash;&amp;rdquo; triple hyphens, and edit the following: For title:, type the title of the blog post.</description>
     </item>
   </channel>
 </rss>
