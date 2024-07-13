@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)"
-date: 2023-09-27T02:01:58+05:30
+date: 2024-09-27T02:01:58+05:30
 description: "This post covers how to rename, export, and report a whiteboard. Read on to learn more."
 tags: [Manage Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
@@ -39,7 +39,7 @@ See it in action with a video tutorial:
 <h1 id="1">How to Rename a Whiteboard With Menu</h1>
 
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. In the upper left click the "Untitled whiteboard" drop-down menu. <div class="stepimage">![A screenshot of the cursor clicking the "Untitled whiteboard" drop-down menu.](blogclickrenamedropdown.png "Click the 'Untitled whiteboard' drop-down menu")</div>
-* Step 2: Type any text to rename the whiteboard, and click the "Rename" or check mark button. <div class="stepimage">![A screenshot of the cursor clicking the check mark button to the right of the text field that displays "Example 1".](blogdelete3dotsedit.png "Click the check mark button")</div>
+* Step 2: Type any text to rename the whiteboard, and click the "Rename" or check mark button. <div class="stepimage">![A screenshot of the cursor clicking the check mark button to the right of the text field that displays "Example 1".](blogclickrenamedropdown2.png "Click the check mark button ")</div>
 
 <h1 id="2">How to Rename a Whiteboard With "More Options"</h1>
 

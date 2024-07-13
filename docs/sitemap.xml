@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-23T02:01:58+05:30</lastmod>
+    <lastmod>2024-09-25T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-23T02:01:58+05:30</lastmod>
+    <lastmod>2024-09-25T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/edit-sticky-notes/</loc>
     <lastmod>2024-07-12T02:01:58+05:30</lastmod>
@@ -101,11 +101,14 @@
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</loc>
-    <lastmod>2023-09-25T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/how-to-manage-whiteboards/</loc>
+    <lastmod>2023-09-27T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-09-25T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/tags/manage-whiteboard/</loc>
+    <lastmod>2023-09-27T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft-whiteboard/</loc>
+    <lastmod>2023-09-27T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
