@@ -27,12 +27,12 @@ This tutorial covers:
 ## [How to Report a Whiteboard](#12)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTS_aqgn8Z7evBoRI39oDuLWD-Lnzno3PLJrHTQx0g15f6hWOVLBeuMSwzWmJ4GiXWjJBa2cnO8pz21/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbsKvcDMAuzs2UWzRmobBNdfNyMsLyIR8XJMEAE7s-lQg7yyF15Cs759_aI_4B6_ChgAZus9AXuJnU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See it in action with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="K9PKaFHIHN4" width="100%" height="416" src="https://www.youtube.com/embed/K9PKaFHIHN4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="h5npr6wIjZk" width="100%" height="416" src="https://www.youtube.com/embed/h5npr6wIjZk"></iframe>
 
 <br />
 
@@ -102,7 +102,7 @@ See it in action with a video tutorial:
 * Step 2: In the menu that opens, click "Report". <div class="stepimage">![A screenshot of the cursor clicking the "Report" option.](blogclickreport.png "Click 'Report' ")</div>
 * Step 3: In the window that opens, click the drop-down menu to select a concern. Optionally type any text about the offensive content and click the "Report anonymously" option. Click the "Send report" button. <div class="stepimage">![Two screenshots where the cursor clicks the drop-down menu, clicks "Report anonymously", and clicks the "Send report" button.](blogreportresult.png "Select a concern in the drop-down menu and click 'Send report' ")</div>
 
-Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/19VEIO1hmmQnYJtdC8-74nN0zfSVo5NLv/view?usp=sharing).
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1jOaHcZ_yX-eI8tBt0szE46Ed61fPLEdT/view?usp=sharing).
 
 <br />
 
