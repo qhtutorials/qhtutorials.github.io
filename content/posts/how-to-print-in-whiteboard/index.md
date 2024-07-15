@@ -1,6 +1,6 @@
 ---
 title: "How to Print in the Microsoft Whiteboard App (Windows 11)"
-date: 2023-09-30T02:01:58+05:30
+date: 2024-09-30T02:01:58+05:30
 description: "Learn about the basic print functions in Microsoft Whiteboard."
 tags: [Manage Whiteboard, Microsoft Whiteboard, Windows 11]
 ---

@@ -41,3 +41,6 @@ Here is a list of all the PDF tutorials I created.
 5. [How to Edit Images in the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1ryPh-6gcZKUQDmmbdo81KCrw0Iu1V_rI/view?usp=sharing)
 6. [How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1f_ddkuNn-fqZlZEa8vW_XKXIyp684Mp1/view?usp=sharing)
 6. [How to Edit the Settings of the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1xyR-4vUb4pxCzX0beYEWQ2a4sdOCnd6W/view?usp=sharing)
+
+#### *How to Navigate the Microsoft Sticky Notes App (Windows 11)* 
+1. [How to Navigate the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1GLw16W73tdn5hKlQUR6tIXZj4XhUkIJu/view?usp=sharing)
