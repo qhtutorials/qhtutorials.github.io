@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 27 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/microsoft-whiteboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-manage-whiteboards/</link>
-      <pubDate>Wed, 27 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-manage-whiteboards/</guid>
-      <description>This tutorial covers:&#xA;How to Rename a Whiteboard: With Menu With &amp;ldquo;More Options&amp;rdquo; How to Share a Whiteboard How to Export a Whiteboard: As an Image As a PDF As a Zip File How to Navigate the Whiteboard Downloads Window: How to Open the Downloads Window How to Close the Downloads Window How to Search the Downloads Window How to Clear All History in the Downloads Window How to Open the Computer Downloads Folder How to Report a Whiteboard No time to scroll down?</description>
+      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
+      <pubDate>Sat, 30 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
     </item>
   </channel>
 </rss>

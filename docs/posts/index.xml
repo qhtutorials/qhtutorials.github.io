@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 12 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Navigate the Microsoft Sticky Notes App Settings (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-navigate-sticky-notes/</link>
+      <pubDate>Mon, 15 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-navigate-sticky-notes/</guid>
+      <description>This tutorial covers:&#xA;How to Switch Between Windows How to Cycle Forward Through All Windows How to Cycle Backwards Through All Windows How to Search For Sticky Notes How to Search for a Sticky Note Witih Click How to Clear the Search Bar How to Exit the Search Bar With Click How to Search for a Sticky Note With Keyboard Shortcut How to Clear the Search Bar With Keyboard Shortcut How to Move to a Word How to Move One Word to the Left How to Move One Word to the Right How to Move to the Start of a Line How to Move to the End of a Line How to Move to the Start of a Sticky Note How to Move to the End of a Sticky Note How to Move and Delete Words How to Delete the Previous Word How to Delete the Next Word No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Edit the Microsoft Sticky Notes App Settings (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-sticky-notes-settings/</link>
@@ -157,11 +164,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-manage-whiteboards/</link>
-      <pubDate>Wed, 27 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-manage-whiteboards/</guid>
-      <description>This tutorial covers:&#xA;How to Rename a Whiteboard: With Menu With &amp;ldquo;More Options&amp;rdquo; How to Share a Whiteboard How to Export a Whiteboard: As an Image As a PDF As a Zip File How to Navigate the Whiteboard Downloads Window: How to Open the Downloads Window How to Close the Downloads Window How to Search the Downloads Window How to Clear All History in the Downloads Window How to Open the Computer Downloads Folder How to Report a Whiteboard No time to scroll down?</description>
+      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
+      <pubDate>Sat, 30 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
     </item>
   </channel>
 </rss>
