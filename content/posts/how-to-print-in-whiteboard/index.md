@@ -34,12 +34,12 @@ This tutorial covers:
 ## [How to Let Whiteboard Change Printing Preferences](#14) 
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbsKvcDMAuzs2UWzRmobBNdfNyMsLyIR8XJMEAE7s-lQg7yyF15Cs759_aI_4B6_ChgAZus9AXuJnU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK_qkjsPVOnjn__IuIPIe6Ng07v2ECFpMuE-IezRjCN1_62KSHDdF3-8eQZsuf2E7wVoUgLsGikiVn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="h5npr6wIjZk" width="100%" height="416" src="https://www.youtube.com/embed/h5npr6wIjZk"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_5SsD1bEilI" width="100%" height="416" src="https://www.youtube.com/embed/_5SsD1bEilI"></iframe>
 
 <br />
 
@@ -105,7 +105,7 @@ Follow along with a tutorial video:
 
 * Step 1: First [open](#2) the System  Dialog window. In the lower left, click to toggle the "Let the app change my printing preferences" option on or off. <div class="stepimage">![One screenshot where the "Let the app change my printing preferences" option is turned on, and another screenshot where the option is turned off.](blogctrlshiftpchangeprinter.png "Click 'Let the app change my printing preferences' ")</div> 
 
-Refer these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1jOaHcZ_yX-eI8tBt0szE46Ed61fPLEdT/view?usp=sharing).
+Refer these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1q_5EjaHZSoCqIPPEf919F8XrddGWj0fz/view?usp=sharing).
 
 <br />
 
