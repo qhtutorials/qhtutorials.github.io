@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/installation-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install GIMP on Windows 11</title>
+      <link>http://localhost:1313/posts/how-to-install-gimp/</link>
+      <pubDate>Wed, 17 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-gimp/</guid>
+      <description>This tutorial covers:&#xA;What is GIMP? How to Download GIMP With Google Chrome How to Download GIMP With Firefox How to Install GIMP With Shortcut How to Install GIMP Without Shortcut How to Install GIMP From the Microsoft Store With Browser How to Install GIMP From the Microsoft Store How to Open GIMP With Shortcut How to Open GIMP Without Shortcut How to Pin GIMP to the Taskbar With Search How to Pin GIMP to the Taskbar With Right Click How to Pin GIMP to the Taskbar From Start How to Pin GIMP to Start How to Uninstall GIMP No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Install Scribus on Windows 11</title>
       <link>http://localhost:1313/posts/how-to-install-scribus/</link>

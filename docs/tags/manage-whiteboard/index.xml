@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Sat, 30 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/manage-whiteboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
-      <pubDate>Sat, 30 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
+      <title>How to Edit the Print Settings in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</link>
+      <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Change Printing Orientation: With Print Window With System Dialog With Printing Preferences How to Change Color Settings: With Print Window With System Dialog With Printing Preferences How to Change Paper Size How to Change Printing Scale How to Change Pages per Sheet How to Change Margins How to Add or Remove the Header and Footer How to Add or Remove Background Graphics How to Change Page Order How to Change Paper Source How to Change Media No time to scroll down?</description>
     </item>
   </channel>
 </rss>

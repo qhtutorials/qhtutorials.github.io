@@ -46,7 +46,7 @@ Follow along with a tutorial video:
 <h1 id="1">How to Print With Print Window</h1>
 
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the keyboard press **Ctrl + P**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + P" on the whiteboard canvas.](blogctrlp.png "Press 'Ctrl + P' ")</div>
-* Step 2: In the Print window that opens, lick the "Print" button. <div class="stepimage">![A screenshot of the cursor clicking the "Print" button.](blogctrlp2.png "Click 'Print' ")</div>
+* Step 2: In the Print window that opens, click the "Print" button. <div class="stepimage">![A screenshot of the cursor clicking the "Print" button.](blogctrlp2.png "Click 'Print' ")</div>
 
 <h1 id="2">How to Print With System Dialog</h1>
 
@@ -105,7 +105,7 @@ Follow along with a tutorial video:
 
 * Step 1: First [open](#2) the System  Dialog window. In the lower left, click to toggle the "Let the app change my printing preferences" option on or off. <div class="stepimage">![One screenshot where the "Let the app change my printing preferences" option is turned on, and another screenshot where the option is turned off.](blogctrlshiftpchangeprinter.png "Click 'Let the app change my printing preferences' ")</div> 
 
-Refer these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1q_5EjaHZSoCqIPPEf919F8XrddGWj0fz/view?usp=sharing).
+Refer to these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1q_5EjaHZSoCqIPPEf919F8XrddGWj0fz/view?usp=sharing).
 
 <br />
 

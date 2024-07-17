@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install GIMP on Windows 11</title>
+      <link>http://localhost:1313/posts/how-to-install-gimp/</link>
+      <pubDate>Wed, 17 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-install-gimp/</guid>
+      <description>This tutorial covers:&#xA;What is GIMP? How to Download GIMP With Google Chrome How to Download GIMP With Firefox How to Install GIMP With Shortcut How to Install GIMP Without Shortcut How to Install GIMP From the Microsoft Store With Browser How to Install GIMP From the Microsoft Store How to Open GIMP With Shortcut How to Open GIMP Without Shortcut How to Pin GIMP to the Taskbar With Search How to Pin GIMP to the Taskbar With Right Click How to Pin GIMP to the Taskbar From Start How to Pin GIMP to Start How to Uninstall GIMP No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Navigate the Microsoft Sticky Notes App Settings (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-navigate-sticky-notes/</link>
@@ -162,13 +169,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
-      <pubDate>Sat, 30 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
     </item>
   </channel>
 </rss>
