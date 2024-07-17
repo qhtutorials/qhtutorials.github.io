@@ -23,6 +23,7 @@ Press **Esc** to exit full screen mode.
 ## Installation Guides
 1. How to Install Inkscape on Windows 11 <div class="slidesitem"><iframe allowfullscreen="true" frameborder="0" height="299" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vSYrcn96fodjHMwin3XF5ec_6KrCh2JAYlzYmEM16NOTQS_H86yYZBbjcWoAvSA9jjP4crJxybMgwBL/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe></div>
 2. How to Install Scribus on Windows 11 <div class=”slidesitem”><iframe allowfullscreen="true" frameborder="0" height="299" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vRIkOmwHZ_l3R0osupt7cZ7DsDzxbLWPp3BfNtL7Ja_En9cpw-OG06ghXDL2rJMpWfobjzWGK5_rQwU/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe></div>
+3. How to Install GIMP on Windows 11 <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTE1dOfLHBhr2iHvqQaE4IjugheeIti5Mz-Zk4W6KozizWxtWgF7fIjpuiHGOpjuflU1vHqNCd9Kmp5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
