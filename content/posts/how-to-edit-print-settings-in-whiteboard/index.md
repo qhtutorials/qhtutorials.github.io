@@ -35,12 +35,12 @@ This tutorial covers:
 ## [How to Change Media](#15)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK_qkjsPVOnjn__IuIPIe6Ng07v2ECFpMuE-IezRjCN1_62KSHDdF3-8eQZsuf2E7wVoUgLsGikiVn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaBQst7uar9fq1xmohFf9haOfQ7SZ4yS5oGrit68i8okWJ0Maxb8g0j-cgOlZz79IBcZxFzYT5kiFd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_5SsD1bEilI" width="100%" height="416" src="https://www.youtube.com/embed/_5SsD1bEilI"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="PacF4oACc-M" width="100%" height="416" src="https://www.youtube.com/embed/PacF4oACc-M"></iframe>
 
 <br />
 
@@ -133,7 +133,7 @@ Watch a tutorial video:
 * Step 3: At the top of the Printing Preferences window that opens, click the "Paper/Quality" tab. <div class="stepimage">![A screenshot of the cursor clicking the "Paper/Quality" tab.](blogclickpaperquality.png "Click 'Paper/Quality' ")</div>
 * Step 4: Click the "Media" drop-down menu to select one of the options ("Plain Paper", "Heavyweight paper", "Lightweight paper", "Glossy Paper", "Photo paper", "Label", or "Envelope (plain)"), and click the "OK" button. <div class="stepimage">![A screenshot of the cursor clicking the "Media" drop-down menu.](blogprintingprefmedia.png "Select an option")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1q_5EjaHZSoCqIPPEf919F8XrddGWj0fz/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1gnZp6KpihRYnwfB_z-kZQQk4OkmbIhMJ/view?usp=sharing).
 
 <br />
 
