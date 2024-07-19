@@ -1,7 +1,7 @@
 ---
 title: "How to Set Up a Hugo Blog Post"
 date: 2024-09-25T02:01:58+05:30
-description: "Learn how to create a new blog post and embed media into it, using Hugo"
+description: "Learn how to create a new blog post and embed media into it, using Hugo."
 tags: [Hugo]
 ---
 This tutorial covers:

@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 17 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notepad</title>
+      <link>http://localhost:1313/tags/notepad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notepad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Notepad</title>
+      <link>http://localhost:1313/tags/open-notepad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-notepad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 11</title>
+      <link>http://localhost:1313/tags/windows-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/windows-11/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Installation Guides</title>
       <link>http://localhost:1313/tags/installation-guides/</link>
@@ -28,13 +49,6 @@
       <link>http://localhost:1313/tags/sticky-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sticky-notes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows 11</title>
-      <link>http://localhost:1313/tags/windows-11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/windows-11/</guid>
       <description></description>
     </item>
     <item>
@@ -59,17 +73,17 @@
       <description></description>
     </item>
     <item>
-      <title>Manage Whiteboard</title>
-      <link>http://localhost:1313/tags/manage-whiteboard/</link>
+      <title>CSS</title>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/manage-whiteboard/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
-      <title>Microsoft Whiteboard</title>
-      <link>http://localhost:1313/tags/microsoft-whiteboard/</link>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft-whiteboard/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>

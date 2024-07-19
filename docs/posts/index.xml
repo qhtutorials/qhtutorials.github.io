@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 17 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Open the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-open-notepad/</link>
+      <pubDate>Fri, 19 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-open-notepad/</guid>
+      <description>This tutorial covers:&#xA;What is Notepad? How to Open Notepad With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a video tutorial:&#xA;What is Notepad? Notepad is a basic text editor that comes with Windows 11. This app creates text files for various applications, such as editing code or writing stories. Notepad can save files with UTF-8 encoding, and customize document headers and footers with special codes.</description>
+    </item>
     <item>
       <title>How to Install GIMP on Windows 11</title>
       <link>http://localhost:1313/posts/how-to-install-gimp/</link>
@@ -169,6 +176,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Edit CSS in the Archie Theme</title>
+      <link>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</link>
+      <pubDate>Wed, 04 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</guid>
+      <description>This tutorial covers:&#xA;1. How to Add Custom CSS to the Archie Theme 2. How to Edit the CSS of the Archie Theme 3. How to Change the Font of the Archie Theme How to Add Custom CSS to the Archie Theme Step 1: In the root directory of your Hugo blog, open the hugo.toml file, and add this line: [params] customcss = [&amp;#34;css/first.css&amp;#34;] Step 2: Use Visual Studio Code or your favorite editor to create the assets/css/first.</description>
     </item>
   </channel>
 </rss>

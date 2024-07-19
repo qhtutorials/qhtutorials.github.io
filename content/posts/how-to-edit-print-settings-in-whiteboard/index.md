@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Print Settings in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-10-03T02:01:58+05:30
+date: 2024-10-02T02:01:58+05:30
 description: "With Microsoft Whiteboard, you can adjust the header and footer, color settings, and paper size. You can even remove background graphics. See how in this post."
 tags: [Manage Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
