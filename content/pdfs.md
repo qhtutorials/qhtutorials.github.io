@@ -45,3 +45,8 @@ Here is a list of all the PDF tutorials I created.
 
 #### *How to Navigate the Microsoft Sticky Notes App (Windows 11)* 
 1. [How to Navigate the Microsoft Sticky Notes App (Windows 11)](https://drive.google.com/file/d/1GLw16W73tdn5hKlQUR6tIXZj4XhUkIJu/view?usp=sharing)
+
+## Microsoft Notepad App (Windows 11) Tutorials
+
+#### *How to Open the Microsoft Notepad App (Windows 11)*
+1. [How to Open the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/18A7BYVxKN-ObG1dL-5B6VXMhzz55bGjZ/view?usp=sharing)

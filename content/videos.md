@@ -45,3 +45,8 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Navigate the Microsoft Sticky Notes App (Windows 11)*
 1. [How to Navigate the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/_BKsSMEEt0w) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_BKsSMEEt0w" width="100%" height="416" src="https://www.youtube.com/embed/_BKsSMEEt0w"></iframe></div>
+
+## Microsoft Notepad App (Windows 11) Tutorials
+
+#### *How to Open the Microsoft Notepad App (Windows 11)*
+1. [How to Open the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/G4JF7cjnOWQ) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="G4JF7cjnOWQ" width="100%" height="416" src="https://www.youtube.com/embed/G4JF7cjnOWQ"></iframe></div>
