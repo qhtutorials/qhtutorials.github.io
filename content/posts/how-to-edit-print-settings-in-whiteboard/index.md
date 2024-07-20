@@ -62,7 +62,7 @@ Watch a tutorial video:
 
 <h1 id="4">How to Change Color Settings With Print Window</h1>
 
-* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/). On the keyboard press **Ctrl + P**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + Shift + P" on the whiteboard canvas.](blogctrlshiftp.png "Press 'Ctrl + Shift + P' ")</div>
+* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the keyboard press **Ctrl + P**. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Ctrl + Shift + P" on the whiteboard canvas.](blogctrlshiftp.png "Press 'Ctrl + Shift + P' ")</div>
 * Step 2: Scroll down and click the "Color" drop-down menu to select "Black and white" or "Color". <div class="stepimage">![A screenshot of the cursor clicking the "Color" drop-down menu.](blogctrlpcolor.png "Select an option")</div>
 
 <h1 id="5">How to Change Color Settings With System Dialog</h1>
