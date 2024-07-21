@@ -34,7 +34,7 @@ This tutorial covers:
 3. [With Keyboard](#17)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaBQst7uar9fq1xmohFf9haOfQ7SZ4yS5oGrit68i8okWJ0Maxb8g0j-cgOlZz79IBcZxFzYT5kiFd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk9XSk6yq0rfNLHWHGrA_QndIgkm14C7usJ80KJcJfxOZKkRSOZdwN4Z__3yZcPLMtlkWzGvIvZTxx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
@@ -136,7 +136,7 @@ See a tutorial video:
 * Step 3: In the menu that opens, press the **down arrow** key and on the "Move" option press **Enter**. <div class="stepimage">![A screenshot of the cursor clicking the "Move" option in the menu.](blogtabaltentermoveedit.png "Click 'Move' ")</div>
 * Step 4: At the top of the window, click, hold, and drag the mouse to move the window. Release the mouse to stop moving the window. <div class="stepimage">![Two screenshots where the cursor drags the Whiteboard window upwards.](bloghoverrightclickmoveup.png "Click and drag the window")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1gnZp6KpihRYnwfB_z-kZQQk4OkmbIhMJ/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/14zb-6e0SF5tQil4v0Fk6UZhchipkrZpp/view?usp=sharing).
 
 <br />
 
