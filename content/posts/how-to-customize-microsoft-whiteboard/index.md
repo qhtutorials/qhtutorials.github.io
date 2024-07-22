@@ -39,7 +39,7 @@ This tutorial covers:
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="PacF4oACc-M" width="100%" height="416" src="https://www.youtube.com/embed/PacF4oACc-M"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aUoGbOoYoWM" width="100%" height="416" src="https://www.youtube.com/embed/aUoGbOoYoWM"></iframe>
 
 <br />
 
