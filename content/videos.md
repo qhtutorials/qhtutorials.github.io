@@ -50,3 +50,4 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Open the Microsoft Notepad App (Windows 11)*
 1. [How to Open the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/G4JF7cjnOWQ) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="G4JF7cjnOWQ" width="100%" height="416" src="https://www.youtube.com/embed/G4JF7cjnOWQ"></iframe></div>
+2. [How to Pin the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/HfzirKF1hrU) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="HfzirKF1hrU" width="100%" height="416" src="https://www.youtube.com/embed/HfzirKF1hrU"></iframe></div>

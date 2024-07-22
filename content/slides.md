@@ -59,3 +59,4 @@ Press **Esc** to exit full screen mode.
 
 #### *How to Open the Microsoft Notepad App (Windows 11)*
 1. How to Open the Microsoft Notepad App (Windows 11). <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHwm9CmrN-m0TEycUm9dmX62swABYlHb-2Gr1iApp4ssz2bzh97S9RQOThgbgGjI0QnHEKvoI-QhmT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. How to Pin the Microsoft Notepad App (Windows 11). <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs5lUCO5sUvdFvv_AejCYJw5ZqacdbV8u8lfdcyaSxIjW8YKTeaWWj8qs4io8qZz-BdwLiJfjnicH7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
