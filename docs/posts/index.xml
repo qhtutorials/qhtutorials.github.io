@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 19 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Pin the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-pin-notepad/</link>
+      <pubDate>Mon, 22 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-pin-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Pin Notepad to the Taskbar: With Search With Right Click From Start How to Pin Notepad to Start No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Pin Notepad to the Taskbar With Search Step 1: Go down to the taskbar and click the Start (four blue squares) button. Step 2: In the Start window that opens, click the top search bar and type &amp;ldquo;notepad&amp;rdquo;.</description>
+    </item>
     <item>
       <title>How to Open the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-open-notepad/</link>
@@ -176,13 +183,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Edit CSS in the Archie Theme</title>
-      <link>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</link>
-      <pubDate>Wed, 04 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</guid>
-      <description>This tutorial covers:&#xA;1. How to Add Custom CSS to the Archie Theme 2. How to Edit the CSS of the Archie Theme 3. How to Change the Font of the Archie Theme How to Add Custom CSS to the Archie Theme Step 1: In the root directory of your Hugo blog, open the hugo.toml file, and add this line: [params] customcss = [&amp;#34;css/first.css&amp;#34;] Step 2: Use Visual Studio Code or your favorite editor to create the assets/css/first.</description>
     </item>
   </channel>
 </rss>

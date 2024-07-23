@@ -75,7 +75,7 @@ See a tutorial video:
 
 <h1 id="7">How to Maximize Whiteboard With Keyboard</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard). a whiteboard, and on the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" keyboard key on the whiteboard canvas.](blogpresstabedit.png "Press 'Tab' ")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard) a whiteboard, and on the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" keyboard key on the whiteboard canvas.](blogpresstabedit.png "Press 'Tab' ")</div>
 * Step 2: Press the **Alt** key, then press the **Enter** key. <div class="stepimage">![A screenshot of a graphic of the keyboard keys "Alt" and "Enter" on the whiteboard canvas.](blogpressaltenteredit.png "Press 'Alt', then 'Enter' ")</div>
 * Step 3: In the menu that opens, press the **down arrow** key and on the "Maximize" option press **Enter**. <div class="stepimage">![Two screenshots where the "Maximize" option is highlighted, a graphic of the "Enter" key appears on the canvas, and the resulting maximized Whiteboard window appears.](blogtabaltentermax.png "Press 'Enter' on the 'Maximize' option")</div>
 
