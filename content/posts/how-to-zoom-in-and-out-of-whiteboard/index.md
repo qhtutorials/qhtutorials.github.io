@@ -21,12 +21,12 @@ This tutorial covers:
 4. [With Fit to Screen](#11)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk9XSk6yq0rfNLHWHGrA_QndIgkm14C7usJ80KJcJfxOZKkRSOZdwN4Z__3yZcPLMtlkWzGvIvZTxx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0WN9x7lwRqJWA1ko5gGdMYsdloIB6yHAPr30E9vQV2_ATpkgwu3GbZwVzTvUrqSctR2utaULdqavf/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aUoGbOoYoWM" width="100%" height="416" src="https://www.youtube.com/embed/aUoGbOoYoWM"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="LRjlx4phRU4" width="100%" height="416" src="https://www.youtube.com/embed/LRjlx4phRU4"></iframe>
 
 <br />
 
@@ -73,7 +73,7 @@ Watch a tutorial video:
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard) a whiteboard template, then [resize](https://qhtutorials.github.io/posts/how-to-customize-microsoft-whiteboard/) the app window to a smaller size. Double click the top of the window. <div class="stepimage">![A screenshot of the smaller, resized Microsoft Whiteboard app window.](blogfittoscreensmaller0.png "Resize the whiteboard app window")</div>
 * Step 2: In the lower left click the "Fit to Screen" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Fit to Screen" button and the resulting whiteboard canvas appears smaller.](blogfittoscreensmaller.png "Click 'Fit to Screen' ")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/14zb-6e0SF5tQil4v0Fk6UZhchipkrZpp/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1W5IsxrC9pf6BE90QBpSj8WM5f13SkLCa/view?usp=sharing).
 
 <br />
 
