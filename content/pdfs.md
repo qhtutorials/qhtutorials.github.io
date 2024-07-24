@@ -51,3 +51,4 @@ Here is a list of all the PDF tutorials I created.
 #### *How to Open the Microsoft Notepad App (Windows 11)*
 1. [How to Open the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/18A7BYVxKN-ObG1dL-5B6VXMhzz55bGjZ/view?usp=sharing)
 2. [How to Pin the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1AuQUPrD2lzUOk1SdJB3dA-uLsEIZLUtG/view?usp=sharing)
+3. [How to Open Files in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1ebogW52rZPUh5NlZ7fUEDofbyOpzWgOf/view?usp=sharing)
