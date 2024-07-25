@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-07T02:01:58+05:30</lastmod>
+    <lastmod>2024-10-09T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-07T02:01:58+05:30</lastmod>
+    <lastmod>2024-10-09T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-pin-notepad/</loc>
-    <lastmod>2024-07-22T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/how-to-open-files-in-notepad/</loc>
+    <lastmod>2024-07-24T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/notepad/</loc>
-    <lastmod>2024-07-22T02:01:58+05:30</lastmod>
+    <lastmod>2024-07-24T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/open-notepad/</loc>
-    <lastmod>2024-07-22T02:01:58+05:30</lastmod>
+    <lastmod>2024-07-24T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-22T02:01:58+05:30</lastmod>
+    <lastmod>2024-07-24T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/windows-11/</loc>
+    <lastmod>2024-07-24T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-pin-notepad/</loc>
     <lastmod>2024-07-22T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-open-notepad/</loc>
@@ -123,13 +126,13 @@
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/customize-whiteboard/</loc>
-    <lastmod>2023-10-09T02:01:58+05:30</lastmod>
+    <lastmod>2023-10-11T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-zoom-in-and-out-of-whiteboard/</loc>
-    <lastmod>2023-10-09T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/how-to-edit-the-whiteboard-display/</loc>
+    <lastmod>2023-10-11T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/microsoft-whiteboard/</loc>
-    <lastmod>2023-10-09T02:01:58+05:30</lastmod>
+    <lastmod>2023-10-11T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
