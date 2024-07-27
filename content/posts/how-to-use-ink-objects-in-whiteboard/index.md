@@ -40,7 +40,7 @@ This tutorial covers:
 2. [To Custom Colors](#21)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNp47Y50OoL8luIsr4eJ6TaJ6FvnnNRPofqDmYBTn9YBS640RK2WLr9lFvriwx1qm_XovNS3HM_cHk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZNEeWxSEDC0qyapM9PRyZrtpE8AWmdEtyRd_xRkE25vbuf2tHdHw0Iq9lygYwGgTDp9NK9-akIr5D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
@@ -145,7 +145,7 @@ Watch a tutorial video:
 * Step 3: In the window that opens, under "Spectrum" click and drag the first slider to browse the different colors, and click inside the square to select a color. Alternatively, type a value in the "Hex" field. <div class="stepimage">![Three screenshots where the cursor drags the slider and clicks a color under the "Spectrum" menu, a value is typed into the "Hex" field, and the canvas displays a drawn blue line.](blogmoreoptionscustomcolor.png "Drag the slider or type a value in the 'Hex' field")</div>
 * Alternatively, click the "Grid" button, then click to select a color swatch. <div class="stepimage">![Three screenshots where the cursor clicks the "Grid" button, the cursor clicks an orange swatch, and the canvas displays a drawn orange line.](bloggridswatchcustomcolor.png "Click 'Grid' and select a color swatch")</div>
 
-Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1cj_BBdshwwPUOhHTtt3w_sozsDti7mXc/view?usp=sharing).
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1sCSr9tpQj9E1kQIocw1ssQed7NIQoz3d/view?usp=sharing).
 
 <br />
 
