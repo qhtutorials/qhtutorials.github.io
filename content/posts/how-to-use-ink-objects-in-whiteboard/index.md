@@ -45,7 +45,7 @@ This tutorial covers:
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="e6S67M4-_ow" width="100%" height="416" src="https://www.youtube.com/embed/e6S67M4-_ow"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="3bSeJ0m7SvI" width="100%" height="416" src="https://www.youtube.com/embed/3bSeJ0m7SvI"></iframe>
 
 <br />
 
