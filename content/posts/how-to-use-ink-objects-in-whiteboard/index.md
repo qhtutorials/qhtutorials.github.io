@@ -61,7 +61,7 @@ Watch a tutorial video:
 
 * Step 1: First [switch](#1) to Inking mode. Click and drag the mouse to draw an Ink object on the canvas. <div class="stepimage">![A screenshot of the cursor drawing a line towards the right side of the canvas.](bloginkobject.png "Draw with the mouse")</div>
 
-<h1 id="4">How to Switch to the First Pen With Click"</h1>
+<h1 id="4">How to Switch to the First Pen With Click</h1>
 
 * Step 1: [Switch](#1) to Inking mode. In the menu that opens, click the first pen button. <div class="stepimage">![A screenshot of the cursor clicking the first pen button.](blogfirstpen.png "Click the first pen")</div>
 
