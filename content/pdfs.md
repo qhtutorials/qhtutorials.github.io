@@ -53,3 +53,6 @@ Here is a list of all the PDF tutorials I created.
 2. [How to Pin the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1AuQUPrD2lzUOk1SdJB3dA-uLsEIZLUtG/view?usp=sharing)
 3. [How to Open Files in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1ebogW52rZPUh5NlZ7fUEDofbyOpzWgOf/view?usp=sharing)
 4. [How to Close the Microsoft Notepad App (Windows 11)] (https://drive.google.com/file/d/19O3cn_Zsxu-DWfEBYs4AdUmDFf8K6QSJ/view?usp=sharing)
+
+#### *How to Customize the Microsoft Notepad App (Windows 11)*
+1. [How to Resize the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1COPDgkPo29yXyyNun6GftzHt8EhVi691/view?usp=sharing)
