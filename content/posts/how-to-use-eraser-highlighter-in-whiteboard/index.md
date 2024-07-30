@@ -27,12 +27,12 @@ This tutorial covers:
 2. [To Custom Colors](#8)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZNEeWxSEDC0qyapM9PRyZrtpE8AWmdEtyRd_xRkE25vbuf2tHdHw0Iq9lygYwGgTDp9NK9-akIr5D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWlZQwoiSDs7b0uzcX-_G32OuxOUk8zUB2RnhtRNbCKIb-IM-yKNJwowVsAysEla2yLtldPXAyDUeV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="3bSeJ0m7SvI" width="100%" height="416" src="https://www.youtube.com/embed/3bSeJ0m7SvI"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="4YYVFrxWl8E" width="100%" height="416" src="https://www.youtube.com/embed/4YYVFrxWl8E"></iframe>
 
 <br />
 
@@ -83,7 +83,7 @@ See a video tutorial:
 * Step 3: In the window that opens, under "Spectrum" click and drag the slider to browse different colors, then click inside the square to select a color. Alternatively, type a value in the "Hex" field. <div class="stepimage">![Three screenshots where the cursor clicks a color under the "Spectrum" section, the "Hex" field displays a value, and the canvas displays an orange highlighter Ink object.](blogcustomhighlighter1.png "Select a color")</div>
 * Alternatively, click the "Grid" button and click to select a color swatch. <div class="stepimage">![Three screenshots where the cursor clicks the "Grid" button, the cursor clicks a blue color swatch, and the canvas displays a blue highlighter Ink object.](blogcustomhighlighter2.png "Select a color")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1sCSr9tpQj9E1kQIocw1ssQed7NIQoz3d/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1S6jYsRUb5XnzErUhEey097z33ATuuiVZ/view?usp=sharing).
 
 <br />
 
