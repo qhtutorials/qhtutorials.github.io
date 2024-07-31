@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Resize the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-resize-notepad/</link>
+      <pubDate>Mon, 29 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-resize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Resize Notepad: With Mouse With Right Click With Menu No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video:&#xA;How to Resize Notepad With Mouse Step 1: First open Notepad. Hover the mouse over any edge or corner of the window, until the cursor becomes a double sided arrow. Step 2: Click, hold, and drag the mouse to resize the window. Release the mouse to stop resizing the window.</description>
+    </item>
     <item>
       <title>How to Close the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-close-notepad/</link>
@@ -199,11 +206,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Use the Eraser and Highlighter in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-use-eraser-highlighter-in-whiteboard/</link>
-      <pubDate>Mon, 16 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-use-eraser-highlighter-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Select the Eraser: With Click With Keyboard How to Change Eraser Width How to Change Eraser Stroke: How to Erase Entire Stroke How to Erase Partial Stroke How to Select the Highlighter: With Click With Keyboard How to Change Highlighter Width How to Change Highlighter Color: To Default Colors To Custom Colors No time to scroll down? Click through this presentation tutorial:&#xA;See a video tutorial:</description>
+      <title>How to Insert Objects in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-insert-objects-in-whiteboard/</link>
+      <pubDate>Wed, 18 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-insert-objects-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Change an Ink Object to a Shape: With Click With Keyboard How to Insert a Sticky Note: With Click With Right Click From a Note Grid How to Insert a Note Grid How to Insert a Reaction: With Click Into a Sticky Note How to Insert Text: With Click With Right Click How to Insert Shapes How to Undo: With Click With Keyboard How to Redo: With Click With Keyboard No time to scroll down?</description>
     </item>
   </channel>
 </rss>

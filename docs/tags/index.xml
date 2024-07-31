@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customize Notepad</title>
+      <link>http://localhost:1313/tags/customize-notepad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/customize-notepad/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Notepad</title>
       <link>http://localhost:1313/tags/notepad/</link>
@@ -17,17 +24,17 @@
       <description></description>
     </item>
     <item>
-      <title>Open Notepad</title>
-      <link>http://localhost:1313/tags/open-notepad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-notepad/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Windows 11</title>
       <link>http://localhost:1313/tags/windows-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/windows-11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Notepad</title>
+      <link>http://localhost:1313/tags/open-notepad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-notepad/</guid>
       <description></description>
     </item>
     <item>
