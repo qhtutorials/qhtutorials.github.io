@@ -56,3 +56,4 @@ Here is a list of all the PDF tutorials I created.
 
 #### *How to Customize the Microsoft Notepad App (Windows 11)*
 1. [How to Resize the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1COPDgkPo29yXyyNun6GftzHt8EhVi691/view?usp=sharing)
+2. [How to Minimize the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1rjGFdndbdyE8gDHRadlGtsxTmRJ_6VTC/view?usp=sharing)

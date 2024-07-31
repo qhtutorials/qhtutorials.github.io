@@ -65,3 +65,4 @@ Press **Esc** to exit full screen mode.
 
 #### *How to Customize the Microsoft Notepad App (Windows 11)*
 1. How to Resize the Microsoft Notepad App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSX4cP_MiEggICt85Z9nm_jTW9kpFyIakqTA3qNkNfp773_BKIIc0t4sxsGwNLoKBdPf7XJQpbsiif-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. How to Minimize the Microsoft Notepad App (Windows 11). <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4v4TIw27JyQDYm8WRRz4kYlajasoKmYfsBNSTsXR8JUdXA-_5PraV7vw5q2KQ0RvZdal6euHo_ZD_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
