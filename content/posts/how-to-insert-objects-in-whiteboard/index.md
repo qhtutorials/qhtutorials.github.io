@@ -36,12 +36,12 @@ This tutorial covers:
 2. [With Keyboard](#15)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWlZQwoiSDs7b0uzcX-_G32OuxOUk8zUB2RnhtRNbCKIb-IM-yKNJwowVsAysEla2yLtldPXAyDUeV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTU2BQ9r_YSkM3oc-hr3JQLtWhSevl3xEBYmy3GjbgXKCHNX-WCbWMYw40g0n4MbTncAK366vzPFP_X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="4YYVFrxWl8E" width="100%" height="416" src="https://www.youtube.com/embed/4YYVFrxWl8E"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="fW5yoKp41MM" width="100%" height="416" src="https://www.youtube.com/embed/fW5yoKp41MM"></iframe>
 
 <br />
 
@@ -122,7 +122,7 @@ Follow along with a video tutorial:
 
 * Step 1: First [Undo](#13) an object. On the keyboard press **Ctrl + Y**. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl + Y" keyboard keys appear on the canvas, and the green check mark reaction reappears.](blogredokey.png "Press 'Ctrl + Y' ")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1S6jYsRUb5XnzErUhEey097z33ATuuiVZ/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1WAR1UybMXI8aiT34G9cYi9cvkh3w_2do/view?usp=sharing).
 
 <br />
 
