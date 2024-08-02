@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to Edit Tags in a Hugo Blog - Quickly How Tutorials</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Learn how to add and edit Hugo blog tags." />
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://localhost:1313/posts/how-to-edit-hugo-tags/">
+  <meta property="og:site_name" content="Quickly How Tutorials">
+  <meta property="og:title" content="How to Edit Tags in a Hugo Blog">
+  <meta property="og:description" content="Learn how to add and edit Hugo blog tags.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-10-21T02:01:58+05:30">
+    <meta property="article:modified_time" content="2023-10-21T02:01:58+05:30">
+    <meta property="article:tag" content="Hugo">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="How to Edit Tags in a Hugo Blog">
+<meta name="twitter:description" content="Learn how to add and edit Hugo blog tags.">
+<script src="http://localhost:1313/js/feather.min.js"></script>
+	
+	
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+
+	
+	
+
+	
+	
+	
+	
+		
+		
+		<link rel="stylesheet" type="text/css" href="http://localhost:1313/css/first.6f2d06807d19cdfc1602d099ac91f32b76d9911350e087ea0212e734167fbab2.css">
+		
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">Quickly How Tutorials</a>
+	</div>
+	<nav>
+		
+		<a href="/posts">Blog</a>
+		
+		<a href="/videos">Videos</a>
+		
+		<a href="/slides">Slides</a>
+		
+		<a href="/pdfs">PDFs</a>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">How to Edit Tags in a Hugo Blog</h1>
+			<div class="meta">Posted on Oct 21, 2023 
+				<div class="post-tags">
+					
+					
+					
+					
+				</div>
+				<div class="tagbox">
+					<h5>Tags:</h5>
+					<nav class="nav tags">
+						<ul class="tags">
+							
+							<li><a href="/tags/hugo">Hugo</a></li>
+							
+						</ul>
+					</nav>
+					</div>
+			</div>
+			
+		</div>
+		
+        
+		<section class="body">
+			<p>This tutorial covers:</p>
+<h2 id="1-how-to-add-tags-to-a-hugo-blog-post1">1. <a href="#1">How to Add Tags to a Hugo Blog Post</a></h2>
+<h2 id="2-how-to-edit-the-tags-page-in-the-archie-theme2">2. <a href="#2">How to Edit the Tags Page in the Archie Theme</a></h2>
+<h2 id="3-how-to-edit-tags-on-a-blog-page3">3. <a href="#3">How to Edit Tags on a Blog Page</a></h2>
+<br />
+<h1 id="1">How to Add Tags to a Hugo Blog Post</h1>
+<ul>
+<li>Step 1: Open one of your Hugo blog post index.md files, and in the front matter insert the following:</li>
+</ul>
+<pre tabindex="0"><code>tags: [tag1, tag2]
+</code></pre><p>Make sure to capitalize and alphabetize the tags, as Hugo does not do this automatically.</p>
+<br />
+<h1 id="2">How to Edit the Tags Page in the Archie Theme</h1>
+<ul>
+<li>Step 1: In the root directory of your Hugo blog, navigate to the layouts/_default/term.html and edit this file however you like. For example, you can change the <code>All Entries Tagged:</code> to <code>Entries Tagged:</code>.</li>
+</ul>
+<p>Or you can add another section to the Tags page, by inserting your desired code before the closing <code>{{end}}</code> tag, like so:</p>
+<pre tabindex="0"><code>All Articles
+
+{{end}}
+    {{-range.Data.Pages-}}{{- if (not(in (.Site.Params.excludedTypes | default (slice &#34;page&#34;)) .Type)) -}}
+    {{.Title}} {{dateFormat &#34;Jan 2, 2006&#34; .Date}}{{ if .Draft}} DRAFT {{end}}
+    {{-end -}}{{- end -}}
+
+Place your content here
+
+{{end}}
+</code></pre><p>You can add a section such as &ldquo;All Tags&rdquo;, or a link back to the main blog page. The sky is the limit!</p>
+<br />
+<h1 id="3">How to Edit Tags on a Blog Page</h1>
+<ul>
+<li>Step 1: Open the layouts/_default/single.html file and edit this section however you like:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;post-tags&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>			{{ if ne .Type &#34;page&#34; }}
+</span></span><span style="display:flex;"><span>			{{ if gt .Params.tags 0 }}
+</span></span><span style="display:flex;"><span>			&lt;<span style="color:#f92672">nav</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;nav tags&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>				&lt;<span style="color:#f92672">ul</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tags&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>					{{ range .Params.tags }}
+</span></span><span style="display:flex;"><span>					&lt;<span style="color:#f92672">li</span>&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ &#34;</span><span style="color:#960050;background-color:#1e0010">/</span><span style="color:#a6e22e">tags</span><span style="color:#960050;background-color:#1e0010">/&#34;</span> <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#a6e22e">relLangURL</span> <span style="color:#960050;background-color:#1e0010">}}{{</span> <span style="color:#960050;background-color:#1e0010">.</span> <span style="color:#960050;background-color:#1e0010">|</span> <span style="color:#a6e22e">urlize</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;{{ . }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">li</span>&gt;
+</span></span><span style="display:flex;"><span>					{{ end }}
+</span></span><span style="display:flex;"><span>				&lt;/<span style="color:#f92672">ul</span>&gt;
+</span></span><span style="display:flex;"><span>			&lt;/<span style="color:#f92672">nav</span>&gt;
+</span></span><span style="display:flex;"><span>			{{ end }}
+</span></span><span style="display:flex;"><span>			{{ end }}
+</span></span><span style="display:flex;"><span>		&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span></code></pre></div><p>For example, you can wrap this code in another <code>&lt;div&gt;</code> with a custom class, and then customize the CSS of the tags with that class.</p>
+<br />
+
+		</section>
+		<div class="backtolink">
+        <a href="https://qhtutorials.github.io/posts/">Back to Blog</a>
+	 </div>
+	</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/qhtutorials/qhtutorials.github.io" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2024  © Quickly How Tutorials  
+  </div>
+</footer>
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

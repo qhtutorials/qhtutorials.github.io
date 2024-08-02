@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Minimize the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-minimize-notepad/</link>
+      <pubDate>Wed, 31 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-minimize-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Minimize Notepad: With Click With Right Click With Menu No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Minimize Notepad With Click Step 1: First open Notepad. Go to the upper right and click the &amp;ldquo;Minimize&amp;rdquo; or &amp;ldquo;-&amp;rdquo; button. The Notepad window minimizes. How to Minimize Notepad With Right Click Step 1: Open Notepad. Right click either the top or the upper left corner of the window.</description>
+    </item>
     <item>
       <title>How to Resize the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-resize-notepad/</link>

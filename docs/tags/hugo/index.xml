@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Edit CSS in the Archie Theme</title>
-      <link>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</link>
-      <pubDate>Wed, 04 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</guid>
-      <description>This tutorial covers:&#xA;1. How to Add Custom CSS to the Archie Theme 2. How to Edit the CSS of the Archie Theme 3. How to Change the Font of the Archie Theme How to Add Custom CSS to the Archie Theme Step 1: In the root directory of your Hugo blog, open the hugo.toml file, and add this line: [params] customcss = [&amp;#34;css/first.css&amp;#34;] Step 2: Use Visual Studio Code or your favorite editor to create the assets/css/first.</description>
+      <title>How to Edit Tags in a Hugo Blog</title>
+      <link>http://localhost:1313/posts/how-to-edit-hugo-tags/</link>
+      <pubDate>Sat, 21 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-hugo-tags/</guid>
+      <description>This tutorial covers:&#xA;1. How to Add Tags to a Hugo Blog Post 2. How to Edit the Tags Page in the Archie Theme 3. How to Edit Tags on a Blog Page How to Add Tags to a Hugo Blog Post Step 1: Open one of your Hugo blog post index.md files, and in the front matter insert the following: tags: [tag1, tag2] Make sure to capitalize and alphabetize the tags, as Hugo does not do this automatically.</description>
     </item>
   </channel>
 </rss>
