@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edit Objects in Whiteboard on Quickly How Tutorials</title>
+    <link>http://localhost:1313/tags/edit-objects-in-whiteboard/</link>
+    <description>Recent content in Edit Objects in Whiteboard on Quickly How Tutorials</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Quickly How Tutorials</copyright>
+    <lastBuildDate>Mon, 23 Oct 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/edit-objects-in-whiteboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit Objects in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-objects-in-whiteboard/</link>
+      <pubDate>Mon, 23 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-objects-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Switch to Select Mode: With Click With Keyboard How to Select an Object: With Click With Keyboard How to Select Multiple Objects: With Shift With Lasso and Click With Lasso and Keyboard With Keyboard Shortcut How to Add an Object to a Multi Selection: With Click With Keyboard How to Deselect an Object With Click With Keyboard How to Remove an Object from a Multi Selection: With Click With Keyboard No time to scroll down?</description>
+    </item>
+  </channel>
+</rss>

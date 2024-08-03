@@ -42,82 +42,67 @@ Watch a tutorial video:
 
 <br />
 
-<h1 id="1">How to Change an Ink Object to a Shape With Click</h1>
+<h1 id="1">How to Switch to Select Mode With Click</h1>
 
-* Step 1: First [switch](https://qhtutorials.github.io/posts/how-to-use-ink-objects-in-whiteboard/) to Inking mode, then click and drag the mouse to draw an Ink object. <div class="stepimage">![A screenshot of a square Ink object on the canvas.](blogdrawshape1.png "Draw an Ink object")</div>
-* Step 2: On the bottom toolbar click the "Select" or arrow button, then click to select the Ink object. <div class="stepimage">![Two screenshots where the cursor clicks the "Select" button and clicks to select the square Ink object.](blogclickselectshape.png "Click the arrow, then select the Ink object")</div>
-* Step 3: In the menu that opens, click the "Convert to shapes" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Convert to shapes" button in the menu, and the Ink object becomes a square shape on the canvas.](blogclickconverttoshapes.png "Click 'Convert to shapes' ")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar click the "Select" or arrow button. <div class="stepimage">![Two screenshots where the cursor clicks the "Select" button and the cursor becomes a hand.](blogclickselectarrow.png "Click 'Select' ")</div>
 
-<h1 id="2">How to Change an Ink Object to a Shape With Keyboard</h1>
+<h1 id="2">How to Switch to Select Mode With Keyboard</h1>
 
-* Step 1: [Switch](https://qhtutorials.github.io/posts/how-to-use-ink-objects-in-whiteboard/) to Inking mode and draw an Ink object. <div class="stepimage">![A screenshot of a circle Ink object on the canvas.](blogdrawkeyshape.png "Draw an Ink object")</div>
-* Step 2: On the bottom toolbar click the "Select" or arrow button. <div class="stepimage">![Two screenshots where the cursor clicks the "Select" button, then hovers over the Ink object.](blogpptclicktoselectkeyshape.png "Click 'Select' ")</div>
-* Step 3: Click to select the Ink object, and on the keyboard press **Alt + B**. <div class="stepimage">![Two screenshots where a graphic of the "Alt + B" keyboard keys appears on the canvas, and a circle shape appears on the canvas.](blogpptaltb.png "Select the Ink object and press 'Alt + B' ")</div>
+* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the keyboard press **Alt + S**. <div class="stepimage">![Two screenshots where a graphic of the "Alt + S" keyboard keys appear on the canvas, and the cursor becomes a hand.](blogalts.png "Press 'Alt + S' ")</div>
 
-<h1 id="3">How to Insert a Sticky Note With Click</h1>
+<h1 id="3">How to Select an Object With Click</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar, click the "Add note or note grid" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add a note or note grid" button.](blogclicknotebutton.png "Click 'Add a note or note grid' ")</div>
-* Step 2: In the menu that opens, click to select a sticky note. <div class="stepimage">![A screenshot of the cursor clicking the "Add a yellow note" button.](blogclicknotebutton2.png "Select a sticky note")</div>
-* Step 3: Click anywhere in the canvas to insert the sticky note. <div class="stepimage">![Two screenshots where the cursor clicks the canvas, and the yellow sticky note appears on the canvas.](bloginsertnote.png "Click to insert the sticky note")</div>
+* Step 1: First [switch](#1) to Select mode. Click an object on the canvas. <div class="stepimage">![Two screenshots where the cursor clicks a triangle object on the canvas, and the selected triangle is surrounded by a grey square.](blogselectshape.png "Click an object")</div>
 
-<h1 id="4">How to Insert a Sticky Note With Right Click</h1>
+<h1 id="4">How to Select an Object With Keyboard</h1>
 
-* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. Right click anywhere on the canvas. <div class="stepimage">![A screenshot of the cursor right clicking the canvas.](blogrightclicknote.png "Right click the canvas")</div>
-* Step 2: In the menu that opens, click the "Note" option. <div class="stepimage">![Two screenshots where the cursor clicks the "Note" option in the menu, and the canvas displays a yellow sticky note.](blogrightclicknote2.png "Click 'Note' ")</div>
+* Step 1: On the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" key on the canvas.](blogpresstabtoselect1.png "Press 'Tab' ")</div>
+* Step 2: Continue pressing **Tab** until the keyboard focus is on the desired object. Press **Enter** or **Spacebar** to select the object. <div class="stepimage">![Two screenshots a graphic of the "Enter" and "Spacebar" keys appear on the canvas, and an orange sticky note is selected.](blogpresstabtoselect.png "Press 'Enter' or 'Spacebar' ")</div>
 
-<h1 id="5">How to Insert a Sticky Note From a Note Grid</h1>
+<h1 id="5">How to Select Multiple Objects With Shift</h1>
 
-* Step 1: First [insert](#6) a note grid. In the upper right of the note grid, click the "Add note" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Add note" button, and another sticky note appears in the note grid.](blognotegridaddnote.png "Click 'Add note' ")</div>
+* Step 1: First [switch](#1) to Select mode. Hold the **Shift** key, then click and drag with the mouse until the blue selection field covers the objects. <div class="stepimage">![Two screenshots where a graphic of the "Shift" key appears on the canvas, the blue selection field covers four objects, and a grey rectangle surrounds the selected objects.](blogshiftselectmultiple.png "Hold the 'Shift' key and drag the mouse")</div>
 
-<h1 id="6">How to Insert a Note Grid</h1>
+<h1 id="6">How to Select Multiple Objects With Lasso and Click</h1>
 
-* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar, click the "Add note or note grid" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add note or note grid" button.](blogclicknotebutton.png "Click 'Add note or note grid' ")</div>
-* Step 2: In the menu that opens, click the "Note grid" button. <div class="stepimage">![A screenshot of the cursor clicking the "Note grid" button.](blogclicknotegrid.png "Click 'Note grid' ")</div>
-* Step 3: Click to select a note grid. <div class="stepimage">![A screenshot of the cursor clicking the "Add soft cyan note grid" button.](blogclicknotegrid.png "Select a note grid")</div>
-* Step 4: Click anywhere in the canvas to insert the note grid. <div class="stepimage">![Two screenshots where the cursor clicks the canvas, and a green note grid appears.](blogpptinsertnotegrid2.png "Click anywhere on the canvas")</div>
+* Step 1: On the bottom toolbar click the "Inking" button. <div class="stepimage">![A screenshot of the cursor clicking the "Inking" button.](blogclickinking.png "Click 'Inking' ")</div>
+* Step 2: In the menu that opens, click the "Lasso select" button. <div class="stepimage">![A screenshot of the cursor clicking the "Lasso select" button.](blogclicklasso.png "Click 'Lasso select' ")</div>
+* Step 3: Click and drag the mouse in a clockwise or counterclockwise direction, until the blue selection field covers the objects. <div class="stepimage">![Two screenshots where the blue selection field covers four objects, and a grey rectangle surrounds the selected objects.](bloglassoclick.png "Drag the mouse clockwise or counterclockwise")</div>
 
-<h1 id="7">How to Insert a Reaction With Click</h1>
+<h1 id="7">How to Select Multiple Objects With Lasso and Keyboard</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar click the "Add reaction" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add reaction" button.](blogclickreaction.png "Click 'Add reaction' ")</div>
-* Step 2: In the menu that opens, click to select a reaction. <div class="stepimage">![A screenshot of the cursor clicking the "Smile" reaction.](blogclickreaction2.png "Select a reaction")</div>
-* Step 3: Click anywhere in the canvas to insert the reaction. <div class="stepimage">![Two screenshots where the cursor clicks the canvas, and a smile reaction appears.](bloginsertreaction.png "Click anywhere on the canvas")</div>
+* Step 1: On the keyboard, press **Alt + Q** to select the Lasso tool. <div class="stepimage">![Two screenshots where a graphic of the "Alt + Q" keyboard keys appears on the canvas, and the Lasso tool is selected.](blogaltq.png "Press 'Alt + Q' ")</div>
+* Step 2: Click and drag the mouse in a clockwise or counterclockwise direction, until the blue selection field covers the objects. <div class="stepimage">![Two screenshots where the blue selection field covers four objects, and a grey rectangle surrounds the selected objects.](blogaltqlasso.png "Drag the mouse clockwise or counterclockwise")</div>
 
-<h1 id="8">How to Insert a Reaction into a Sticky Note</h1>
+<h1 id="8">How to Select Multiple Objects With Keyboard Shortcut</h1>
 
-* Step 1: [Insert](#3) a sticky note into the canvas. Hover the mouse over the lower left corner of the sticky note. <div class="stepimage">![A screenshot of the cursor hovering over the lower left corner of the sticky note.](blognotehoverreaction.png "Hover over the lower left corner")</div>
-* Step 2: In the menu that opens, click to select a reaction. <div class="stepimage">![Two screenshots where the cursor clicks the "Heart" reaction, and a heart reaction appears on the sticky note.](blognotereaction.png "Select a reaction")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard template. On the keyboard press **Ctrl + A**. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl + A" keyboard keys appear on the canvas, and a grey rectangle surrounds all the selected objects.](blogctrla.png "Press 'Ctrl + A' ")</div>
 
-<h1 id="9">How to Insert Text With Click</h1>
+<h1 id="9">How to Add an Object to a Multi Selection With Click</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar click the "Add text" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add text" button.](blogclicktext.png "Click 'Add text' ")</div>
-* Step 2: Click anywhere in the canvas, then type any text. <div class="stepimage">![Two screenshots where the cursor clicks the canvas, and the canvas displays typed text.](blogclicktext2.png "Click in the canvas and type text")</div>
+* Step 1: [Select](#5) multiple objects. Hold the **Ctrl** key and click an object. Microsoft Whiteboard adds the clicked object to the multi selection. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl" key appears on the canvas, the cursor clicks a text object, and a grey rectangle surrounds all the selected objects.](blogctrlclickaddmulti.png "Hold 'Ctrl' and click an object")</div>
 
-<h1 id="10">How to Insert Text With Right Click</h1>
+<h1 id="10">How to Add an Object to a Multi Selection With Keyboard</h1>
 
-* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. Right click anywhere on the canvas. <div class="stepimage">![A screenshot of the cursor right clicking the canvas.](blogrightclicknote.png "Right click the canvas")</div>
-* Step 2: In the menu that opens, click "Text" and type any text. <div class="stepimage">![Two screenshots of the cursor clicks the "Text" option in the menu, and the canvas displays typed text.](blogrightclicktext.png "Click 'Text' and type anything")</div>
+* Step 1: First [select](#5) multiple objects. On the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" key on the canvas.](blogpresstabaddmulti1.png "Press 'Tab' ")</div>
+* Step 2: Continue pressing **Tab** until the keyboard focus is on the desired object. Hold **Ctrl**, then press **Enter** or **Spacebar** to add that object to the multi selection. <div class="stepimage">![Two screenshots a graphic of the "Enter" and "Spacebar" keys appear on the canvas, and a grey rectangle surrounds the selected objects.](blogpresstabaddmulti.png "Hold 'Ctrl ' then press 'Enter' or 'Spacebar' ")</div>
 
-<h1 id="11">How to Insert Shapes</h1>
+<h1 id="11">How to Deselect an Object With Click</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) a whiteboard. On the bottom toolbar click the "Add shape or line" button. <div class="stepimage">![A screenshot of the cursor clicking the "Add shape or line" button.](blogclickshapes.png "Click 'Add shape or line' ")</div>
-* Step 2: In the menu that opens, click to select a shape or line. <div class="stepimage">![Two screenshots of the cursor clicking the circle option and the line option in the menu.](blogclickshapeline.png "Select a shape or line")</div>
-* Step 3: Click anywhere in the canvas to insert that shape, or click and drag to insert a line. <div class="stepimage">![Two screenshots of the cursor clicking the canvas to insert a circle shape, or dragging to insert a line.](blogclickshapeline2.png "Click or drag in the canvas")</div>
+* Step 1: [Select](#3) an object. Click anywhere on the canvas. <div class="stepimage">![Two screenshots where the cursor clicks on the canvas, and the triangle object is no longer selected.](blogclickoutdeselect.png "Click anywhere on the canvas")</div>
 
-<h1 id="12">How to Undo With Click</h1>
+<h1 id="12">How to Deselect an Object With Keyboard</h1>
 
-* Step 1: Insert an object ([Ink object](https://qhtutorials.github.io/posts/how-to-use-ink-objects-in-whiteboard/), [sticky note](#3), [reaction](#7), [text](#9), [shape](#11)) onto the canvas. In the lower left click the "Undo" button. <div class="stepimage">![Two screenshots of the cursor clicking the "Undo" button, and the orange sticky note disappears.](blogclickshapeline2.png "Click 'Undo' ")</div>
+* Step 1: First [select](#3) an object. On the keyboard press the **Esc** key. <div class="stepimage">![Two screenshots where a graphic of the "Esc" key appears on the canvas, and the sticky note is no longer selected.](blogescdeselect.png "Press 'Esc' ")</div>
 
-<h1 id="13">How to Undo With Keyboard</h1>
+<h1 id="13">How to Remove an Object from a Multi Selection With Click</h1>
 
-* Step 1: First insert an object ([Ink object](https://qhtutorials.github.io/posts/how-to-use-ink-objects-in-whiteboard/), [sticky note](#3), [reaction](#7), [text](#9), [shape](#11)) onto the canvas. On the keyboard press **Ctrl + Z**. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl + Z" keyboard keys appear on the canvas, and the green check mark reaction disappears.](blogctrlz.png "Press 'Ctrl + Z' ")</div>
+* Step 1: [Select](#5) multiple objects. Hold down the **Ctrl** key, then click the object to remove from the multi selection. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl" key appears on the canvas, and the green check mark reaction is removed from the multi selection.](blogclicksubtractmulti.png "Hold 'Ctrl' and click the object")</div>
 
-<h1 id="14">How to Redo With Click</h1>
+<h1 id="14">How to Remove an Object from a Multi Selection With Keyboard</h1>
 
-* Step 1: [Undo](#12) an action. In the lower left click the "Redo" button. <div class="stepimage">![Two screenshots of the cursor clicking the "Redo" button, and the orange sticky note reappears.](blogclickredo.png "Click 'Redo' ")</div>
-
-<h1 id="15">How to Redo With Keyboard</h1>
-
-* Step 1: First [Undo](#13) an object. On the keyboard press **Ctrl + Y**. <div class="stepimage">![Two screenshots where a graphic of the "Ctrl + Y" keyboard keys appear on the canvas, and the green check mark reaction reappears.](blogredokey.png "Press 'Ctrl + Y' ")</div>
+* Step 1: First [select](#5) multiple objects. On the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" key on the canvas.](blogtabsubtractmulti1.png "Press 'Tab' ")</div>
+* Step 2: Continue pressing **Tab** until the keyboard focus is on the desired object. Hold the **Ctrl** key, then press **Enter** or **Spacebar** to remove the object from the multi selection. <div class="stepimage">![A screenshot where a graphic of the "Enter" and "Spacebar" keys appear on the canvas, and the triangle is removed from the multi selection.](blogtabsubtractmulti.png "Hold 'Ctrl' and press 'Enter' or 'Spacebar' ")</div>
 
 Refer to these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1WAR1UybMXI8aiT34G9cYi9cvkh3w_2do/view?usp=sharing).
 

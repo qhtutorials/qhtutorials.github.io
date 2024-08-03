@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-23T02:01:58+05:30</lastmod>
+    <lastmod>2024-10-21T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-23T02:01:58+05:30</lastmod>
+    <lastmod>2024-10-21T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/customize-notepad/</loc>
-    <lastmod>2024-07-31T02:01:58+05:30</lastmod>
+    <lastmod>2024-08-02T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-minimize-notepad/</loc>
-    <lastmod>2024-07-31T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/how-to-maximize-notepad/</loc>
+    <lastmod>2024-08-02T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/notepad/</loc>
-    <lastmod>2024-07-31T02:01:58+05:30</lastmod>
+    <lastmod>2024-08-02T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-31T02:01:58+05:30</lastmod>
+    <lastmod>2024-08-02T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/windows-11/</loc>
+    <lastmod>2024-08-02T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-minimize-notepad/</loc>
     <lastmod>2024-07-31T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-resize-notepad/</loc>
@@ -137,11 +140,14 @@
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-edit-hugo-tags/</loc>
-    <lastmod>2023-10-21T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/tags/edit-objects-in-whiteboard/</loc>
+    <lastmod>2023-10-23T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-10-21T02:01:58+05:30</lastmod>
+    <loc>http://localhost:1313/posts/how-to-edit-objects-in-whiteboard/</loc>
+    <lastmod>2023-10-23T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft-whiteboard/</loc>
+    <lastmod>2023-10-23T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
