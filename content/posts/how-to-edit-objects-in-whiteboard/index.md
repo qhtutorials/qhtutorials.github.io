@@ -33,12 +33,12 @@ This tutorial covers:
 2. [With Keyboard](#14)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTU2BQ9r_YSkM3oc-hr3JQLtWhSevl3xEBYmy3GjbgXKCHNX-WCbWMYw40g0n4MbTncAK366vzPFP_X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_byV3dAj-orN1uVVixdGgod54OXe8mgQoAhgOOwSNpwzhQz0hBggRCwohDe7zFu6WJY2QVpeG1jEU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="fW5yoKp41MM" width="100%" height="416" src="https://www.youtube.com/embed/fW5yoKp41MM"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="anaNWyZqIFk" width="100%" height="416" src="https://www.youtube.com/embed/anaNWyZqIFk"></iframe>
 
 <br />
 
@@ -104,7 +104,7 @@ Watch a tutorial video:
 * Step 1: First [select](#5) multiple objects. On the keyboard press the **Tab** key. <div class="stepimage">![A screenshot of a graphic of the "Tab" key on the canvas.](blogtabsubtractmulti1.png "Press 'Tab' ")</div>
 * Step 2: Continue pressing **Tab** until the keyboard focus is on the desired object. Hold the **Ctrl** key, then press **Enter** or **Spacebar** to remove the object from the multi selection. <div class="stepimage">![A screenshot where a graphic of the "Enter" and "Spacebar" keys appear on the canvas, and the triangle is removed from the multi selection.](blogtabsubtractmulti.png "Hold 'Ctrl' and press 'Enter' or 'Spacebar' ")</div>
 
-Refer to these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1WAR1UybMXI8aiT34G9cYi9cvkh3w_2do/view?usp=sharing).
+Refer to these instructions later with this free [tutorial PDF](https://drive.google.com/file/d/1Gxwr4XSi66NYIiu6q9Yu4OxnSuHVfe2o/view?usp=sharing).
 
 <br />
 
