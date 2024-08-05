@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 23 Oct 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/edit-objects-in-whiteboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Edit Objects in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-edit-objects-in-whiteboard/</link>
-      <pubDate>Mon, 23 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-edit-objects-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Switch to Select Mode: With Click With Keyboard How to Select an Object: With Click With Keyboard How to Select Multiple Objects: With Shift With Lasso and Click With Lasso and Keyboard With Keyboard Shortcut How to Add an Object to a Multi Selection: With Click With Keyboard How to Deselect an Object With Click With Keyboard How to Remove an Object from a Multi Selection: With Click With Keyboard No time to scroll down?</description>
+      <title>How to Resize Objects in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-resize-objects-in-whiteboard/</link>
+      <pubDate>Wed, 25 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-resize-objects-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Resize Objects: With Mouse With Keyboard Proportionally How to Decrease the Size of an Inserted Shape How to Insert an Unproportional Shape No time to scroll down? Click through this presentation tutorial:&#xA;See a video tutorial:&#xA;How to Resize Objects With Mouse Step 1: First select an object. Hover the mouse over one corner, or sizing handle, of the object until the cursor becomes a double sided arrow.</description>
     </item>
   </channel>
 </rss>
