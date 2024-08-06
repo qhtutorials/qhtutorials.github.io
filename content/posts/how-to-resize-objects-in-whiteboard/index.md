@@ -17,12 +17,12 @@ This tutorial covers:
 
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_byV3dAj-orN1uVVixdGgod54OXe8mgQoAhgOOwSNpwzhQz0hBggRCwohDe7zFu6WJY2QVpeG1jEU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX9-iXexDegJZx6pe5_Cnfm-4dN4gp9Gbx8R1QuJBStNdSljZOcS4EZcrKIliLEX7_O4sZI1_wMdNl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="anaNWyZqIFk" width="100%" height="416" src="https://www.youtube.com/embed/anaNWyZqIFk"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="zK3HrndjFN4" width="100%" height="416" src="https://www.youtube.com/embed/zK3HrndjFN4"></iframe>
 
 <br />
 
@@ -52,7 +52,7 @@ See a video tutorial:
 * Step 2: In the menu that opens, click to select a shape. <div class="stepimage">![A screenshot of the cursor selecting the tube shape.](bloginsertirregularshape1.png "Select a shape")</div>
 * Step 3: Hold **Ctrl**, then click and drag to resize the shape while inserting it. <div class="stepimage">![A screenshot of a graphic of the "Ctrl" keyboard key on the canvas, and a wider tube shape appears.](bloginsertirregularshape2.png "Hold 'Ctrl' and drag the mouse")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1Gxwr4XSi66NYIiu6q9Yu4OxnSuHVfe2o/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1_GQn6vuIkg6MxFSIPyffvuN7Ad86H5Gj/view?usp=sharing).
 
 <br />
 
