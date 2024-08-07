@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Restore the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-restore-notepad/</link>
+      <pubDate>Mon, 05 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-restore-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Restore Notepad: With Click With Double Click With Right Click With Menu No time to scroll down? Click through these presentation slides:&#xA;Watch a video tutorial:&#xA;How to Restore Notepad With Click Step 1: First maximize Notepad. Go to the upper right and click the &amp;ldquo;Maximize&amp;rdquo; button. The Notepad window is restored to its original size. How to Restore Notepad With Double Click Step 1: Maximize Notepad.</description>
+    </item>
     <item>
       <title>How to Maximize the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-maximize-notepad/</link>

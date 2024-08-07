@@ -10,11 +10,11 @@
     <lastBuildDate>Wed, 25 Oct 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/edit-objects-in-whiteboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Resize Objects in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-resize-objects-in-whiteboard/</link>
+      <title>How to Position Objects in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-position-objects-in-whiteboard/</link>
       <pubDate>Wed, 25 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-resize-objects-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Resize Objects: With Mouse With Keyboard Proportionally How to Decrease the Size of an Inserted Shape How to Insert an Unproportional Shape No time to scroll down? Click through this presentation tutorial:&#xA;See a video tutorial:&#xA;How to Resize Objects With Mouse Step 1: First select an object. Hover the mouse over one corner, or sizing handle, of the object until the cursor becomes a double sided arrow.</description>
+      <guid>http://localhost:1313/posts/how-to-position-objects-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Rotate an Object: With Mouse With Keyboard How to Bring an Object Forward: With Click With Keyboard How to Send an Object Backward: With Click With Keyboard How to Lock an Object How to Unlock an Object: With Click With Right Click With Keyboard No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Rotate an Object With Mouse Step 1: First select an object.</description>
     </item>
   </channel>
 </rss>
