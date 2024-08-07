@@ -26,12 +26,12 @@ This tutorial covers:
 3. [With Keyboard](#10)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX9-iXexDegJZx6pe5_Cnfm-4dN4gp9Gbx8R1QuJBStNdSljZOcS4EZcrKIliLEX7_O4sZI1_wMdNl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT55nYcS4nT9BleZWOuuw2ikHATKD4v73_jX_M6xoi8LaYViQkoVQejJIvTVemHemJUrJMgg0SRIJ1h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="zK3HrndjFN4" width="100%" height="416" src="https://www.youtube.com/embed/zK3HrndjFN4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_sSTqGVVXXE" width="100%" height="416" src="https://www.youtube.com/embed/_sSTqGVVXXE"></iframe>
 
 <br />
 
@@ -81,7 +81,7 @@ Follow along with a video tutorial:
 * Step 1: Press the **Tab** key until the keyboard focus is on the [locked](#7) object. <div class="stepimage">![A screenshot of a graphic of the "Tab" key on the canvas, and the blue triangle shape is selected.](blogtabunlock1.png "Press 'Tab' ")</div>
 * Step 2: Press the **Enter** or **Spacebar** key, and in the menu that opens, click the "Unlock" option. <div class="stepimage">![Two screenshots where a grahpic of the "Enter" and "Spacebar" keys appear on the canvas, and the blue triangle shape is unlocked.](blogtabunlock.png "Press 'Enter' or 'Spacebar' and click 'Unlock' ")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1_GQn6vuIkg6MxFSIPyffvuN7Ad86H5Gj/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1DaT9yh_lo8QnEsDj1_LXuUKGV8ITWxbQ/view?usp=sharing).
 
 <br />
 

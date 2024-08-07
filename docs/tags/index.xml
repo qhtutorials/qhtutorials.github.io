@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 05 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customize Notepad</title>
@@ -77,20 +77,6 @@
       <link>http://localhost:1313/tags/open-sticky-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/open-sticky-notes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Edit Objects in Whiteboard</title>
-      <link>http://localhost:1313/tags/edit-objects-in-whiteboard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/edit-objects-in-whiteboard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microsoft Whiteboard</title>
-      <link>http://localhost:1313/tags/microsoft-whiteboard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft-whiteboard/</guid>
       <description></description>
     </item>
   </channel>
