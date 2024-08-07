@@ -59,3 +59,4 @@ Here is a list of all the PDF tutorials I created.
 2. [How to Minimize the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1rjGFdndbdyE8gDHRadlGtsxTmRJ_6VTC/view?usp=sharing)
 3. [How to Maximize the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1UuDFsS5T0srMAcj9dIqZea5Ceoz_1o0T/view?usp=sharing)
 4. [How to Restore the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1tBTfrzklGTwsCFFX4fg_PzDp_aDtBkH4/view?usp=sharing)
+5. [How to Move the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1GPt1-CnivjO7Ue-6vF1C0RldQHbEY_G4/view?usp=sharing)
