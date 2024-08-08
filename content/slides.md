@@ -45,11 +45,17 @@ Press **Esc** to exit full screen mode.
 
 #### *How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)*
 1. How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4riK9rb25KZo9gU6OnfNKB5_LugJ897VZf9Ct_QR-jbQJogycdj-luoQjJTaZ6SE4beNGFf8Zp4Y7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 2. How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTa-yqIxQLdLVBg0yFe7Krjr_WUe4qqaNgj4e9nrOrJrZfYnmtJOPyIK3mbopt98WEDBa4B1bjO0-_O/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 3. How to Format Text in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDFOyInWFYbWXIrn_5Lw54jZO0AAyDWEuuxToGmkRLBT2RTVqU6wjC3TY3uQZsEC00--AsQQa2qi6v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 4. How to Undo and Redo in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQs3geSJ6BPP_jlCwD6OX8Dj7tvShwxr0doiUFeoqCuRfJhQ1wK7LA8N4yjyDydEPvRxwAlBg6qJrbC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 5. How to Edit Images in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg-UTUGuHC3SuuMLq8-Mtq6tlsLXEepkVfvCvchsKwt-o2R2L_HfzplBUXqhRxbZXdZMQBFMAc57am/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 6. How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNEfroYRWUVSLXeN9H0kWkjMYg2YOrlLAD3KQQBziwwXFuaJ1zMtNcGXWp-TDeCHKpGCg6oOV0MItZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 7. How to Edit the Settings of the Microsoft Sticky Notes App (Windows 11). <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV2880s9vdyUb_OD1ivhqEV97x0aiCAbUpFBvxriSV6JKyDp68CTCVEcouok86Bgt4QMAmSQNF9fG5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 #### *How to Navigate the Microsoft Sticky Notes App (Windows 11)*
