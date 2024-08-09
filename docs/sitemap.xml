@@ -146,6 +146,15 @@
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/edit-objects-in-whiteboard/</loc>
+    <lastmod>2023-10-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-edit-text-in-whiteboard/</loc>
+    <lastmod>2023-10-28T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft-whiteboard/</loc>
+    <lastmod>2023-10-28T02:01:58+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>

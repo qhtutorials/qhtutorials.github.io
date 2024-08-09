@@ -79,5 +79,19 @@
       <guid>http://localhost:1313/tags/open-sticky-notes/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Edit Objects in Whiteboard</title>
+      <link>http://localhost:1313/tags/edit-objects-in-whiteboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/edit-objects-in-whiteboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft Whiteboard</title>
+      <link>http://localhost:1313/tags/microsoft-whiteboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft-whiteboard/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

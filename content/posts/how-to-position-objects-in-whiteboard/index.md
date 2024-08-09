@@ -54,7 +54,7 @@ Follow along with a video tutorial:
 
 <h1 id="5">How to Send an Object Backward With Click</h1>
 
-* Step 1: First [select](https://qhtutorials.github.io/posts/how-to-open-microsoft-whiteboard/) an object, and in the menu that opens click the "More" or "..." button. <div class="stepimage">![A screenshot of the cursor clicking the "..." option after selecting the blue tube shape.](blogclicksendtobackmore.png "Click '...' ")</div>
+* Step 1: First [select](https://qhtutorials.github.io/posts/how-to-edit-objects-in-whiteboard/) an object, and in the menu that opens click the "More" or "..." button. <div class="stepimage">![A screenshot of the cursor clicking the "..." option after selecting the blue tube shape.](blogclicksendtobackmore.png "Click '...' ")</div>
 * Step 2: In the menu that opens, click "Send to Back". <div class="stepimage">![Two screenshots where the cursor clicks the "Send to Back" option in the menu, and the blue tube shape appears behind the red square shape.](blogclicksendtoback.png "Click 'Send to Back' ")</div>
 
 <h1 id="6">How to Send an Object Backward With Keyboard</h1>
