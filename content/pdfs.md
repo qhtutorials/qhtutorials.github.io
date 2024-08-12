@@ -61,3 +61,4 @@ Here is a list of all the PDF tutorials I created.
 4. [How to Restore the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1tBTfrzklGTwsCFFX4fg_PzDp_aDtBkH4/view?usp=sharing)
 5. [How to Move the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1GPt1-CnivjO7Ue-6vF1C0RldQHbEY_G4/view?usp=sharing)
 6. [How to Use Zoom in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1C-5wekQK96qUu72Z_eMPy8N3Bpe0NmOk/view?usp=sharing)
+7. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1psmsqI5KYCRHJ7VCSvXim30e1FvmLPB8/view?usp=sharing)
