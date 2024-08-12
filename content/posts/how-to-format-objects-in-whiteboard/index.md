@@ -22,12 +22,12 @@ This tutorial covers:
 ## [How to Change the Color of a Sticky Note](#8)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9fvbFYnyhyAv2sLZ8md7aG73qwzKZLcoTTq_2MPQqDbAXvRYAlkNSYANhpoipn5y6x1w-uTVuXYSx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVrX4iRw1gqSIhlm2A8qvlr_XqlYas6nh_xo4KpCkm2anriJ8StpTeE6u5-hrn30VNB35PfCqa-Ryg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="3_pSq-yZTqQ" width="100%" height="416" src="https://www.youtube.com/embed/3_pSq-yZTqQ"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="YK6gQOkqOeU" width="100%" height="416" src="https://www.youtube.com/embed/YK6gQOkqOeU"></iframe>
 
 <br />
 
@@ -68,7 +68,7 @@ See a video tutorial:
 * Step 1: [Select](https://qhtutorials.github.io/posts/how-to-edit-objects-in-whiteboard/) a sticky note, and in the menu that opens, click the "Background color picker" button. <div class="stepimage">![A screenshot of the cursor clicking the "Background color picker" button.](blogclicknotecolor1.png "Click 'Background color picker' ")</div>
 * Step 2: In the menu that opens, click to select a color. <div class="stepimage">![Two screenshots where the cursor clicks the grey option, and a grey sticky note appears on the canvas.](blogclicknotecolor.png "Select a color")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1m6RpL1ayEqv0krYoTaSgKPtzvtOR8oJ0/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1hJLEt-sRH0s-hc2Oxgj28b2QsOSjP4ET/view?usp=sharing).
 
 <br />
 
