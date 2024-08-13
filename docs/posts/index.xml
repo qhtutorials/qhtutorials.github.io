@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Notepad App Display (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-the-notepad-display/</link>
+      <pubDate>Mon, 12 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-the-notepad-display/</guid>
+      <description>This tutorial covers:&#xA;How to Add/Remove the Status Bar How to Add/Remove Word Wrap With Menu With Settings How to Change the Notepad App Theme Color No time to scroll down? Click through these presentation slides:&#xA;Watch a tutorial video:&#xA;How to Add/Remove the Status Bar Step 1: First open Notepad. In the upper left click the &amp;ldquo;View&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Status bar&amp;rdquo; to toggle this option on or off.</description>
+    </item>
     <item>
       <title>How to Use Zoom in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-use-zoom-in-notepad/</link>
@@ -239,13 +246,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Format Objects in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-format-objects-in-whiteboard/</link>
-      <pubDate>Sat, 28 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-format-objects-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Copy an Object: With Click With Keyboard Shortcut With Menu How to Paste an Object: With Right Click With Keyboard Shortcut How to Change the Color of a Shape How to Change the Border Color of a Shape How to Change the Color of a Sticky Note No time to scroll down? Click through this tutorial presentation:&#xA;See a video tutorial:&#xA;How to Copy an Object With Click Step 1: First select an object.</description>
     </item>
   </channel>
 </rss>

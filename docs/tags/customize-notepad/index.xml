@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/customize-notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Notepad App Display (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-the-notepad-display/</link>
+      <pubDate>Mon, 12 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-the-notepad-display/</guid>
+      <description>This tutorial covers:&#xA;How to Add/Remove the Status Bar How to Add/Remove Word Wrap With Menu With Settings How to Change the Notepad App Theme Color No time to scroll down? Click through these presentation slides:&#xA;Watch a tutorial video:&#xA;How to Add/Remove the Status Bar Step 1: First open Notepad. In the upper left click the &amp;ldquo;View&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Status bar&amp;rdquo; to toggle this option on or off.</description>
+    </item>
     <item>
       <title>How to Use Zoom in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-use-zoom-in-notepad/</link>

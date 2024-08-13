@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Notepad App Display (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-the-notepad-display/</link>
+      <pubDate>Mon, 12 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-the-notepad-display/</guid>
+      <description>This tutorial covers:&#xA;How to Add/Remove the Status Bar How to Add/Remove Word Wrap With Menu With Settings How to Change the Notepad App Theme Color No time to scroll down? Click through these presentation slides:&#xA;Watch a tutorial video:&#xA;How to Add/Remove the Status Bar Step 1: First open Notepad. In the upper left click the &amp;ldquo;View&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Status bar&amp;rdquo; to toggle this option on or off.</description>
+    </item>
     <item>
       <title>How to Use Zoom in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-use-zoom-in-notepad/</link>
@@ -260,13 +267,6 @@
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/videos/</guid>
       <description>Here is a list of all my YouTube video tutorials, created with kdenlive.&#xA;Installation Guides How to Install Inkscape on Windows 11 How to Install Scribus on Windows 11 How to Install GIMP on Windows 11 Microsoft Sticky Notes App (Windows 11) Tutorials How to Open the Microsoft Sticky Notes App (Windows 11) How to Open the Microsoft Sticky Notes App (Windows 11) How to Pin the Microsoft Sticky Notes App (Windows 11) How to Open a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Open the Notes List in the Microsoft Sticky Notes App (Windows 11) How to Customize the Microsoft Sticky Notes App (Windows 11) How to Resize the Microsoft Sticky Notes App (Windows 11) How to Minimize the Microsoft Sticky Notes App (Windows 11) How to Maximize the Microsoft Sticky Notes App (Windows 11) How to Restore the Microsoft Sticky Notes App (Windows 11) How to Show All Notes in the Microsoft Sticky Notes App (Windows 11) How to Move the Microsoft Sticky Note App Window (Windows 11) How to Change the Theme Color of the Microsoft Sticky Notes App (Windows 11) How to Close the Microsoft Sticky Notes App (Windows 11) How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11) How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11) How to Edit a Sticky Note in the Microsoft Sticky Notes App (Windows 11) How to Format Text in the Microsoft Sticky Notes App (Windows 11) How to Undo and Redo in the Microsoft Sticky Notes App (Windows 11) How to Edit Images in the Microsoft Sticky Notes App (Windows 11) How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11) How to Edit the Settings of the Microsoft Sticky Notes App (Windows 11) How to Navigate the Microsoft Sticky Notes App (Windows 11) How to Navigate the Microsoft Sticky Notes App (Windows 11) Microsoft Notepad App (Windows 11) Tutorials How to Open the Microsoft Notepad App (Windows 11) How to Open the Microsoft Notepad App (Windows 11) How to Pin the Microsoft Notepad App (Windows 11) How to Open Files in the Microsoft Notepad App (Windows 11) How to Close the Microsoft Notepad App (Windows 11).</description>
-    </item>
-    <item>
-      <title>How to Format Objects in the Microsoft Whiteboard App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-format-objects-in-whiteboard/</link>
-      <pubDate>Sat, 28 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-format-objects-in-whiteboard/</guid>
-      <description>This tutorial covers:&#xA;How to Copy an Object: With Click With Keyboard Shortcut With Menu How to Paste an Object: With Right Click With Keyboard Shortcut How to Change the Color of a Shape How to Change the Border Color of a Shape How to Change the Color of a Sticky Note No time to scroll down? Click through this tutorial presentation:&#xA;See a video tutorial:&#xA;How to Copy an Object With Click Step 1: First select an object.</description>
     </item>
     <item>
       <title></title>
