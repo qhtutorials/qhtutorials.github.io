@@ -10,17 +10,17 @@ This tutorial covers:
 1. [With Click](#1)
 2. [With Keyboard Shortcut](#2)
 
-## How to Delete All Object:
+## How to Delete All Objects:
 1. [With Right Click](#3)
 2. [With Keyboard Shortcut](#4)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVrX4iRw1gqSIhlm2A8qvlr_XqlYas6nh_xo4KpCkm2anriJ8StpTeE6u5-hrn30VNB35PfCqa-Ryg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1Gll25rMk11HfZHe3OszYiqxz152r7XyaG8u_nAwW_iw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="YK6gQOkqOeU" width="100%" height="416" src="https://www.youtube.com/embed/YK6gQOkqOeU"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="KryhNAhSYOQ" width="100%" height="416" src="https://www.youtube.com/embed/KryhNAhSYOQ"></iframe>
 
 <br />
 
@@ -42,7 +42,7 @@ Watch a tutorial video:
 
 * Step 1: On the keyboard press **Ctrl + A** to select all objects. Then press **Delete**. <div class="stepimage">![Two screenshots where a graphic of the "Delete" key appears on the canvas, and an empty canvas appears.](blogselectalldelete.png "Press 'Ctrl + A' and 'Delete' ")</div>
 
-Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1hJLEt-sRH0s-hc2Oxgj28b2QsOSjP4ET/view?usp=sharing).
+Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1zle_KRT5dkLyj68ntaPFbjoB9dowOFRS/view?usp=sharing).
 
 <br />
 
