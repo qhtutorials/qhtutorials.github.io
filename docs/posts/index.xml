@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Microsoft Notepad App Settings (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-notepad-settings/</link>
+      <pubDate>Wed, 14 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-notepad-settings/</guid>
+      <description>This tutorial covers:&#xA;How to Choose How Files Are Opened How to Adjust When Notepad Starts No time to scroll down? Click through this presentation tutorial:&#xA;Watch a video tutorial:&#xA;How to Choose How Files Are Opened Step 1: First open Notepad. In the upper right click the &amp;ldquo;Settings&amp;rdquo; or gear button. Step 2: In the Settings window that opens, click the &amp;ldquo;Opening files&amp;rdquo; drop-down menu and select either &amp;ldquo;Open in a new tab&amp;rdquo; or &amp;ldquo;Open in a new window&amp;rdquo;.</description>
+    </item>
     <item>
       <title>How to Edit the Microsoft Notepad App Display (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-the-notepad-display/</link>
