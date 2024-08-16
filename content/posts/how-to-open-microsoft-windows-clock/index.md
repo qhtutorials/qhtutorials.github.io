@@ -23,7 +23,7 @@ This tutorial covers:
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="KryhNAhSYOQ" width="100%" height="416" src="https://www.youtube.com/embed/KryhNAhSYOQ"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="AoUtHesmpm4" width="100%" height="416" src="https://www.youtube.com/embed/AoUtHesmpm4"></iframe>
 
 <br />
 
