@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-30T02:01:58+05:30</lastmod>
+    <lastmod>2024-11-06T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-30T02:01:58+05:30</lastmod>
+    <lastmod>2024-11-06T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-install-live-home-3d-house-design/</loc>
+    <lastmod>2024-08-16T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/installation-guides/</loc>
+    <lastmod>2024-08-16T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-16T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/customize-notepad/</loc>
     <lastmod>2024-08-14T02:01:58+05:30</lastmod>
@@ -15,9 +24,6 @@
     <lastmod>2024-08-14T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/notepad/</loc>
-    <lastmod>2024-08-14T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-14T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/windows-11/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2024-07-19T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-install-gimp/</loc>
-    <lastmod>2024-07-17T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/installation-guides/</loc>
     <lastmod>2024-07-17T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-navigate-sticky-notes/</loc>
@@ -154,12 +157,6 @@
   </url><url>
     <loc>http://localhost:1313/videos/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-to-open-microsoft-windows-clock/</loc>
-    <lastmod>2023-11-04T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/microsoft-windows-clock/</loc>
-    <lastmod>2023-11-04T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>

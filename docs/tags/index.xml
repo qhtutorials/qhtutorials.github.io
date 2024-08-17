@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 14 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation Guides</title>
+      <link>http://localhost:1313/tags/installation-guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/installation-guides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Customize Notepad</title>
       <link>http://localhost:1313/tags/customize-notepad/</link>
@@ -35,13 +42,6 @@
       <link>http://localhost:1313/tags/open-notepad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/open-notepad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Installation Guides</title>
-      <link>http://localhost:1313/tags/installation-guides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/installation-guides/</guid>
       <description></description>
     </item>
     <item>
@@ -77,13 +77,6 @@
       <link>http://localhost:1313/tags/open-sticky-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/open-sticky-notes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microsoft Windows Clock</title>
-      <link>http://localhost:1313/tags/microsoft-windows-clock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft-windows-clock/</guid>
       <description></description>
     </item>
   </channel>
