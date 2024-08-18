@@ -19,7 +19,7 @@ This tutorial covers:
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="AoUtHesmpm4" width="100%" height="416" src="https://www.youtube.com/embed/AoUtHesmpm4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="pGn0MPo3f1U" width="100%" height="416" src="https://www.youtube.com/embed/pGn0MPo3f1U"></iframe>
 
 <br />
 
@@ -52,7 +52,7 @@ Watch a tutorial video:
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. On the keyboard press **Alt + F4** (some computers accept this shortcut as **Fn + Alt + F4**). <div class="stepimage">![A screenshot of a graphic of the "Alt _ F4" keys on the canvas.](blogaltf4.png "Press 'Alt + F4' ")</div>
 * The Windows Clock app closes. <div class="stepimage">![A screenshot of the empty Desktop as the Windows Clock app closes.](blogcloseclockedit.png "The app closes")</div>
 
-Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1GdcziAlbasAc5jn_g1OZgqEK4ahJ4AOM/view?usp=sharing).
+Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1EYmzLwrXSjfVwZDsIB_kZMDPy31qn-h8/view?usp=sharing).
 
 <br />
 
