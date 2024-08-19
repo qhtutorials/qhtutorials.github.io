@@ -37,7 +37,7 @@ Watch a tutorial video:
 <h1 id="3">How to Close the Microsoft Windows Clock With Menu</h1>
 
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. Go down to the taskbar and hover the mouse over the Windows Clock app icon. <div class="stepimage">![A screenshot of the cursor hovering over the app icon on the taskbar.](bloghoveroverappicon.png "Hover over the app icon")</div>
-* Step 2: Right click the small window that apepars. <div class="stepimage">![A screenshot of the cursor right clicking the small window.](bloghoverrightclick1.png "Right click the small window")</div>
+* Step 2: Right click the small window that appears. <div class="stepimage">![A screenshot of the cursor right clicking the small window.](bloghoverrightclick1.png "Right click the small window")</div>
 * Step 3: In the menu that opens, click "Close". <div class="stepimage">![A screenshot of the cursor clicking the "Close" option in the menu.](bloghoverrightclick2.png "Click 'Close' ")</div>
 * The Windows Clock app closes. <div class="stepimage">![A screenshot of the empty Desktop as the Windows Clock app closes.](blogcloseclockedit.png "The app closes")</div>
 
