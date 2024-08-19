@@ -64,3 +64,6 @@ Here is a list of all the PDF tutorials I created.
 6. [How to Use Zoom in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1C-5wekQK96qUu72Z_eMPy8N3Bpe0NmOk/view?usp=sharing)
 7. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1psmsqI5KYCRHJ7VCSvXim30e1FvmLPB8/view?usp=sharing)
 8. [How to Edit the Microsoft Notepad App Settings (Windows 11)](https://drive.google.com/file/d/1vvrFiyV7GvDaNgCmAWWXbWa8HUNhPkil/view?usp=sharing)
+
+#### *How to Edit the Microsoft Notepad App (Windows 11)*
+1. [How to Edit Files in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1A1zKX1kPmJuxfCQr0LFDYFvNgs-8LgLs/view?usp=sharing)
