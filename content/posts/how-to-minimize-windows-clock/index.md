@@ -12,12 +12,12 @@ This tutorial covers:
 3. [With Right Click](#3)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/1SYz1ip0HcDwZ5wj_qVPDyv3QLKZr_hePhlfJDilb5Tg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1pvB-OGy86_k8fSAOqClPBNmnM4HyB7bhY7lDI6mgrF8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="pGn0MPo3f1U" width="100%" height="416" src="https://www.youtube.com/embed/pGn0MPo3f1U"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qpcwS6A9v5I" width="320" height="266" src="https://www.youtube.com/embed/qpcwS6A9v5I"></iframe>
 
 <br />
 
@@ -36,7 +36,7 @@ See a tutorial video:
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. Right click the top of the window. <div class="stepimage">![A screenshot of the cursor right clicking the top of the Windows Clock app.](blogrightclicktopminimize1edit.png "Right click the top of the window")</div>
 * Step 2: In the menu that opens, click "Minimize". <div class="stepimage">![Two screenshots where the cursor clicks the "Minimize" option in the menu, and the empty Desktop appears as the Windows Clock minimizes.](blogrightclickminimize.png "Click 'Minimize' ")</div>
 
-Keep these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1EYmzLwrXSjfVwZDsIB_kZMDPy31qn-h8/view?usp=sharing).
+Keep these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1BITqmTaMlu3tTVtu6H9wqJy0gYjdADfq/view?usp=sharing).
 
 <br />
 
