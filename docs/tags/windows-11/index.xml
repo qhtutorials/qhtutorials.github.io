@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 14 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit Files in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-files-in-notepad/</link>
+      <pubDate>Mon, 19 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-files-in-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Edit Text in Notepad How to Select Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Copy Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Cut Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Paste Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Delete Text in Notepad: With Menu With Right Click With Keyboard No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Edit the Microsoft Notepad App Settings (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-notepad-settings/</link>
@@ -234,11 +241,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Minimize the Microsoft Windows Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-minimize-windows-clock/</link>
-      <pubDate>Wed, 08 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-minimize-windows-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Minimize the Microsoft Windows Clock: With Click With Menu With Right Click No time to scroll down? Click through this presentation tutorial:&#xA;See a tutorial video:&#xA;How to Minimize the Microsoft Windows Clock With Click Step 1: First open Windows Clock. In the upper right corner, click the &amp;ldquo;Minimize&amp;rdquo; or &amp;ldquo;-&amp;rdquo; button. How to Minimize the Microsoft Windows Clock With Menu Step 1: Open Windows Clock.</description>
+      <title>How to Maximize the Microsoft Windows Clock (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-maximize-windows-clock/</link>
+      <pubDate>Sat, 11 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-maximize-windows-clock/</guid>
+      <description>This tutorial covers:&#xA;How to Maximize the Microsoft Windows Clock: With Click With Double Click With Menu With Right Click No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Maximize the Microsoft Windows Clock With Click Step 1: First open Windows Clock. In the upper right corner, click the &amp;ldquo;Maximize&amp;rdquo; button. How to Maximize the Microsoft Windows Clock With Double Click Step 1: Open Windows Clock.</description>
     </item>
   </channel>
 </rss>

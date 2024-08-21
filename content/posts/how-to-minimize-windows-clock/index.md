@@ -17,7 +17,7 @@ This tutorial covers:
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qpcwS6A9v5I" width="320" height="266" src="https://www.youtube.com/embed/qpcwS6A9v5I"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qpcwS6A9v5I" width="100%" height="416" src="https://www.youtube.com/embed/qpcwS6A9v5I"></iframe>
 
 <br />
 

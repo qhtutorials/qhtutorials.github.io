@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 14 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit Files in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-files-in-notepad/</link>
+      <pubDate>Mon, 19 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-files-in-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Edit Text in Notepad How to Select Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Copy Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Cut Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Paste Text in Notepad: With Menu With Right Click With Keyboard Shortcut How to Delete Text in Notepad: With Menu With Right Click With Keyboard No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Edit the Microsoft Notepad App Settings (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-notepad-settings/</link>
