@@ -82,3 +82,4 @@ Press **Esc** to exit full screen mode.
 
 #### *How to Edit the Microsoft Notepad App (Windows 11)*
 1. How to Edit Files in the Microsoft Notepad App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXrHM_w8wy6BSBpaxoqMaR81pAEGO5wMf8t_eOCO65ey71C6zVWd5DAvtw5YzuQrnyzyNNMz33ry3B/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. How to Undo and Redo in the Microsoft Notepad App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqYF7nsUjIgVZaILK47SD3QnOZ4xoOLREQiEYuDAdiLIUPn-6WNQNTu8YkNQVWuzkTCi-WelypvjEG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
