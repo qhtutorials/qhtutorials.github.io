@@ -13,12 +13,12 @@ This tutorial covers:
 3. [With Right Click](#4)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1pvB-OGy86_k8fSAOqClPBNmnM4HyB7bhY7lDI6mgrF8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1QwJxMRUW81ZqqtbxyLwHUdhs27aTIMl20m5URaLFzew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qpcwS6A9v5I" width="320" height="266" src="https://www.youtube.com/embed/qpcwS6A9v5I"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="2LmjQBMF3uk" width="100%" height="416" src="https://www.youtube.com/embed/2LmjQBMF3uk"></iframe>
 
 <br />
 
@@ -41,7 +41,7 @@ Watch a video tutorial:
 * Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. Right click the top of the window. <div class="stepimage">![A screenshot of the cursor right clicking the top of the Windows Clock app window.](blogrightclicktopmaximizeedit.png "Right click the top of the window")</div>
 * Step 2: In the menu that opens, click "Maximize". <div class="stepimage">![Two screenshots where the cursor clicks the "Maximize" option in the menu, and the maximized Windows Clock app appears.](blogrightclickmax.png "Click 'Maximize' ")</div>
 
-Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1BITqmTaMlu3tTVtu6H9wqJy0gYjdADfq/view?usp=sharing).
+Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1LxwbY3TzgEVklotyOKfvcW44KVYdJ5PG/view?usp=sharing).
 
 <br />
 
