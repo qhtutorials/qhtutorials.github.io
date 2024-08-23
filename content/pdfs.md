@@ -68,3 +68,4 @@ Here is a list of all the PDF tutorials I created.
 #### *How to Edit the Microsoft Notepad App (Windows 11)*
 1. [How to Edit Files in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1A1zKX1kPmJuxfCQr0LFDYFvNgs-8LgLs/view?usp=sharing)
 2. [How to Undo and Redo in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/17u3pXn9Y4zFL0WkQP0Hf1QBUUh-Ho7D_/view?usp=sharing)
+3. [How to Find Text in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1YCddPRfRL22p2ObX4tgXWFp3g4ieX6AF/view?usp=sharing)
