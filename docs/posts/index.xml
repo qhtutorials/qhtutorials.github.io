@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 19 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Undo and Redo in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-undo-redo-notepad/</link>
+      <pubDate>Wed, 21 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-undo-redo-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Undo: With Menu With Right Click With Keyboard Shortcut How to Redo With Keyboard Shortcut No time to scroll down? Click through this presentation tutorial:&#xA;Follow along with a tutorial video:&#xA;How to Undo With Menu Step 1: First edit a Notepad file. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Undo&amp;rdquo;. Notepad reverses the last action. How to Undo With Right Click Step 1: Edit a Notepad file.</description>
+    </item>
     <item>
       <title>How to Edit Files in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-files-in-notepad/</link>
@@ -269,11 +276,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Maximize the Microsoft Windows Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-maximize-windows-clock/</link>
-      <pubDate>Sat, 11 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-maximize-windows-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Maximize the Microsoft Windows Clock: With Click With Double Click With Menu With Right Click No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Maximize the Microsoft Windows Clock With Click Step 1: First open Windows Clock. In the upper right corner, click the &amp;ldquo;Maximize&amp;rdquo; button. How to Maximize the Microsoft Windows Clock With Double Click Step 1: Open Windows Clock.</description>
+      <title>How to Restore the Microsoft Windows Clock (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-restore-windows-clock/</link>
+      <pubDate>Mon, 13 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-restore-windows-clock/</guid>
+      <description>This tutorial covers:&#xA;How to Restore the Microsoft Windows Clock: With Click With Double Click With Menu With Right Click No time to scroll down? Click through this presentation tutorial:&#xA;See a tutorial video:&#xA;How to Restore the Microsoft Windows Clock With Click Step 1: First maximize Windows Clock. In the upper right corner, click the &amp;ldquo;Maximize&amp;rdquo; button. How to Restore the Microsoft Windows Clock With Double Click Step 1: Maximize Windows Clock.</description>
     </item>
   </channel>
 </rss>

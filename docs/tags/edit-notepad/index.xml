@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 19 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/edit-notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Undo and Redo in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-undo-redo-notepad/</link>
+      <pubDate>Wed, 21 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-undo-redo-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Undo: With Menu With Right Click With Keyboard Shortcut How to Redo With Keyboard Shortcut No time to scroll down? Click through this presentation tutorial:&#xA;Follow along with a tutorial video:&#xA;How to Undo With Menu Step 1: First edit a Notepad file. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Undo&amp;rdquo;. Notepad reverses the last action. How to Undo With Right Click Step 1: Edit a Notepad file.</description>
+    </item>
     <item>
       <title>How to Edit Files in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-files-in-notepad/</link>
