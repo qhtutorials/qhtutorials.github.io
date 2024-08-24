@@ -13,12 +13,12 @@ This tutorial covers:
 3. [With Right Click](#4)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/1QwJxMRUW81ZqqtbxyLwHUdhs27aTIMl20m5URaLFzew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1uYhGo_1kr60Ohq_zNJE6jszlw4RF8RVPtb0B8n3LvdQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="2LmjQBMF3uk" width="100%" height="416" src="https://www.youtube.com/embed/2LmjQBMF3uk"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="4lVbyBaIYSc" width="100%" height="416" src="https://www.youtube.com/embed/4lVbyBaIYSc"></iframe>
 
 <br />
 
@@ -41,7 +41,7 @@ See a tutorial video:
 * Step 1: [Maximize](https://qhtutorials.github.io/posts/how-to-maximize-windows-clock/) Windows Clock. Right click the top of the window. <div class="stepimage">![A screenshot of the cursor right clicking the top of the Windows Clock app window.](blogrightclicktoprestore.png "Right click the top of the window")</div>
 * Step 2: In the menu that opens, click "Restore". <div class="stepimage">![Two screenshots where the cursor clicks the "Restore" option in the menu, and the restored Windows Clock app appears.](blogrightclickrestore.png "Click 'Restore' ")</div>
 
-Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1LxwbY3TzgEVklotyOKfvcW44KVYdJ5PG/view?usp=sharing).
+Keep a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/17JbZqFAvPaHJAQ57JD2ZVVLTJ3Ykkdjj/view?usp=sharing).
 
 <br />
 
