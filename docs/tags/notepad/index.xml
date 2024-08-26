@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 23 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Navigate the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-navigate-notepad/</link>
+      <pubDate>Mon, 26 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-navigate-notepad/</guid>
+      <description>This tutorial covers:&#xA;How to Use &amp;ldquo;Go To&amp;rdquo;: With Menu With Keyboard Shortcut How to Clear the &amp;ldquo;Go To&amp;rdquo; Window How to Exit the &amp;ldquo;Go To&amp;rdquo; Window: With Click With Keyboard No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Use &#34;Go To&#34; With Menu Step 1: First edit a Notepad file. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Go to&amp;rdquo;.</description>
+    </item>
     <item>
       <title>How to Search for Text in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-search-text-in-notepad/</link>

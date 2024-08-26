@@ -35,7 +35,7 @@ Watch a video tutorial:
 
 <h1 id="3">How to Resize the Microsoft Windows Clock With Right Click</h1>
 
-* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-maximize-windows-clock/) Windows Clock. Right click the top of the window. <div class="stepimage">![A screenshot of the cursor right clicking the top of the Windows Clock window.](blogrightclicktopsizeedit.png "Right click the top of the window")</div>
+* Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. Right click the top of the window. <div class="stepimage">![A screenshot of the cursor right clicking the top of the Windows Clock window.](blogrightclicktopsizeedit.png "Right click the top of the window")</div>
 * Step 2: In the menu that opens, click "Size". <div class="stepimage">![A screenshot of the cursor clicking the "Size" option in the menu.](blogrightclicktopsize2edit.png "Click 'Size' ")</div>
 * Step 3: Click, hold, and drag the four arrows cursor to resize the window. Release the mouse to stop resizing the window. <div class="stepimage">![Two screenshots where the cursor drags upwards, resulting in a taller Windows Clock window.](bloghoverrightclickresize.png "Drag the mouse")</div>
 
