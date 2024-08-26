@@ -8,16 +8,16 @@ This tutorial covers:
 
 ## How to Resize the Microsoft Windows Clock:
 1. [With Mouse](#1)
-2. [With Hover](#2)
+2. [With Menu](#2)
 3. [With Right Click](#3)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/1uYhGo_1kr60Ohq_zNJE6jszlw4RF8RVPtb0B8n3LvdQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1pPXMEIrOCo1B-BdDWNjpuVH12xwE4apDE74oGPlf8Fk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="4lVbyBaIYSc" width="100%" height="416" src="https://www.youtube.com/embed/4lVbyBaIYSc"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="TBQarqGJtkY" width="100%" height="416" src="https://www.youtube.com/embed/TBQarqGJtkY"></iframe>
 
 <br />
 
@@ -39,7 +39,7 @@ Watch a video tutorial:
 * Step 2: In the menu that opens, click "Size". <div class="stepimage">![A screenshot of the cursor clicking the "Size" option in the menu.](blogrightclicktopsize2edit.png "Click 'Size' ")</div>
 * Step 3: Click, hold, and drag the four arrows cursor to resize the window. Release the mouse to stop resizing the window. <div class="stepimage">![Two screenshots where the cursor drags upwards, resulting in a taller Windows Clock window.](bloghoverrightclickresize.png "Drag the mouse")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/17JbZqFAvPaHJAQ57JD2ZVVLTJ3Ykkdjj/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/17Jn6OrLw5wYdfwRuAs9SREFSmFKweli2/view?usp=sharing).
 
 <br />
 
