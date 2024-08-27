@@ -12,7 +12,7 @@ This tutorial covers:
 3. [With Right Click](#3)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1pPXMEIrOCo1B-BdDWNjpuVH12xwE4apDE74oGPlf8Fk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1mT9DipkSG7JA8_E5W98Eh66qu9nM8Q-Z19fCCFctydQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
