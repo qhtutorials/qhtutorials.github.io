@@ -1,6 +1,6 @@
 ---
 title: "How to Move the Microsoft Windows Clock (Windows 11)"
-date: 2023-11-18T02:01:58+05:30
+date: 2024-11-18T02:01:58+05:30
 description: "This post covers three ways to move the Windows Clock app."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
