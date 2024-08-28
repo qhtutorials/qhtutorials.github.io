@@ -17,7 +17,7 @@ This tutorial covers:
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="TBQarqGJtkY" width="100%" height="416" src="https://www.youtube.com/embed/TBQarqGJtkY"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="y_DAqxJADCM" width="100%" height="416" src="https://www.youtube.com/embed/y_DAqxJADCM"></iframe>
 
 <br />
 
@@ -38,7 +38,7 @@ Follow along with a video tutorial:
 * Step 2: In the menu that opens, click "Move". <div class="stepimage">![A screenshot of the cursor clicking the "Move" option in the menu.](blogrightclicktopmove2edit.png "Click 'Move' ")</div>
 * Step 3: Click, hold, and drag the four arrows cursor at the top of the window to move it. Release the mouse to stop moving the window. <div class="stepimage">![Two screenshots where the cursor drags and moves the window to the lower left.](bloghoverrightclickmove.png "Drag the mouse")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/17Jn6OrLw5wYdfwRuAs9SREFSmFKweli2/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/16MLnFPDQdCbe5gOo03crpvluzH-Jvr6n/view?usp=sharing).
 
 <br />
 
