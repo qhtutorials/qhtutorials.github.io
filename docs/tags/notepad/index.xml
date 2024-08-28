@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 26 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Display of the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-notepad-display/</link>
+      <pubDate>Wed, 28 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-notepad-display/</guid>
+      <description>This tutorial covers:&#xA;How to Change the Font: With Menu With Settings How to Change the Reading Order How to Insert Unicode Control Characters How to Show Unicode Control Characters How to Apply Reconversion No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Change the Font With Menu Step 1: First edit a Notepad file. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button.</description>
+    </item>
     <item>
       <title>How to Navigate the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-navigate-notepad/</link>

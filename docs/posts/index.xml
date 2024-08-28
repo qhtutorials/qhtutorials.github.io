@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 26 Aug 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Display of the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-notepad-display/</link>
+      <pubDate>Wed, 28 Aug 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-notepad-display/</guid>
+      <description>This tutorial covers:&#xA;How to Change the Font: With Menu With Settings How to Change the Reading Order How to Insert Unicode Control Characters How to Show Unicode Control Characters How to Apply Reconversion No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Change the Font With Menu Step 1: First edit a Notepad file. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button.</description>
+    </item>
     <item>
       <title>How to Navigate the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-navigate-notepad/</link>
@@ -288,13 +295,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Move the Microsoft Windows Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-move-windows-clock/</link>
-      <pubDate>Sat, 18 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-move-windows-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Move the Microsoft Windows Clock: With Mouse With Menu With Right Click No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Move the Microsoft Windows Clock With Mouse Step 1: First open Windows Clock. Click, hold, and drag the top of the window to move it. Release the mouse to stop moving the window. How to Move the Microsoft Windows Clock With Menu Step 1: Open Windows Clock.</description>
     </item>
   </channel>
 </rss>
