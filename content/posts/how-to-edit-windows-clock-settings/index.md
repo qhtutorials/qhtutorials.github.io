@@ -10,7 +10,7 @@ This tutorial covers:
 
 ## How to Switch Between Clock Modes:
 1. [With Click](#2)
-2. [With Keyboard](#3)
+2. [With Keyboard Shortcuts](#3)
 
 ## [How to Keep Windows Clock on Top](#4)
 
@@ -23,12 +23,12 @@ This tutorial covers:
 ## [How to Customize Notification Settings](#8)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/1mT9DipkSG7JA8_E5W98Eh66qu9nM8Q-Z19fCCFctydQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/10N-vU1mYL0ag-dlYpp2Op2fvaKj5nBUfy1LHXe2z0tg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="y_DAqxJADCM" width="100%" height="416" src="https://www.youtube.com/embed/y_DAqxJADCM"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="CjopvrAw5IY" width="100%" height="416" src="https://www.youtube.com/embed/CjopvrAw5IY"></iframe>
 
 <br />
 
@@ -84,7 +84,7 @@ _ Press **Alt + 3** to switch to the Alarm mode. <div class="stepimage">![A grap
 * Click to toggle "Turn on do not distrub" on or off. <div class="stepimage">![Two screenshots where the cursor clicks to enable of disable the "Turn on do not disturb" option.](pptlastclickfourthoption.png "Click 'Turn on do not disturb")</div>
 
 
-Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/16MLnFPDQdCbe5gOo03crpvluzH-Jvr6n/view?usp=sharing).
+Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1T8wb28c1i0vb1ZqRCiR4Y5O2HlzVTlZH/view?usp=sharing).
 
 <br />
 
