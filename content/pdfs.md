@@ -71,3 +71,5 @@ Here is a list of all the PDF tutorials I created.
 3. [How to Find Text in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1YCddPRfRL22p2ObX4tgXWFp3g4ieX6AF/view?usp=sharing)
 4. [How to Navigate the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1z_euoRzkKXEj1jFr2Nh5ewYe-Ied-9g4/view?usp=sharing)
 5. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1psmsqI5KYCRHJ7VCSvXim30e1FvmLPB8/view?usp=sharing)
+
+#### [*How to Save in the Microsoft Notepad App (Windows 11)*](https://drive.google.com/file/d/1uWl3V0gQB2ddSFDwuRfupguQOCiA5_e2/view?usp=sharing) 
