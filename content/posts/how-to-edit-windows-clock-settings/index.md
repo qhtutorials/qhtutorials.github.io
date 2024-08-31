@@ -42,7 +42,7 @@ Watch a tutorial video:
 <h1 id="2">How to Switch Between Clock Modes With Click</h1>
 
 Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. Go to the left menu, and click one of the buttons to switch to the corresponding clock mode: 
-- Click the "Focus sessions" button to switch to the Focus sessions mode. <div class="stepimage">![Two screenshots where the cursor clicks the "Focus sessions" button and the Focus sessions mode appears.](blogpptclickfocussessions.png "Click 'Focus sessions' ")</div>
+- Click the "Focus sessions" button to switch to the Focus Sessions mode. <div class="stepimage">![Two screenshots where the cursor clicks the "Focus sessions" button and the Focus Sessions mode appears.](blogpptclickfocussessions.png "Click 'Focus sessions' ")</div>
 - Click the "Timer" button to switch to the Timer mode. <div class="stepimage">![Two screenshots where the cursor clicks the "Timer" button and the Timer mode appears.](blogpptclicktimer.png "Click 'Timer' ")</div>
 - Click the "Alarm" button to switch to the Alarm mode. <div class="stepimage">![Two screenshots where the cursor clicks the "Alarm" button and the Alarm mode appears.](blogpptclickalarm.png "Click 'Alarm' ")</div>
 - Click the "Stopwatch" button to switch to the Stopwatch mode. <div class="stepimage">![Two screenshots where the cursor clicks the "Stopwatch" button and the Stopwatch mode appears.](blogpptclickstopwatch.png "Click 'Stopwatch' ")</div> 
@@ -51,15 +51,15 @@ Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows
 <h1 id="3">How to Switch Between Clock Modes With Keyboard Shortcuts</h1>
 
 Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. On the keyboard: 
-- Press **Alt +1** to switch to the Focus sessions mode. <div class="stepimage">![A graphic of the "Alt + 1" keys appears above the Windows Clock app which displays the Focus sessions mode.](blogpptalt1.png "Press 'Alt + 1' ")</div> 
-- Press **Alt + 2** to switch to the Timer mode. <div class="stepimage">![A graphic of the "Alt + 2" keys appears above the Windows Clock app which displays the Focus sessions mode.](blogpptalt2.png "Press 'Alt + 2' ")</div> 
-_ Press **Alt + 3** to switch to the Alarm mode. <div class="stepimage">![A graphic of the "Alt + 3" keys appears above the Windows Clock app which displays the Focus sessions mode.](blogpptalt3.png "Press 'Alt + 3' ")</div> 
-- Press **Alt + 4** to switch to the Stopwatch  mode. <div class="stepimage">![A graphic of the "Alt + 4" keys appears above the Windows Clock app which displays the Focus sessions mode.](blogpptalt4.png "Press 'Alt + 4' ")</div> 
-- Press **Alt + 5** to switch to the World clock mode. <div class="stepimage">![A graphic of the "Alt + 5" keys appears above the Windows Clock app which displays the Focus sessions mode.](blogpptalt5.png "Press 'Alt + 5' ")</div> 
+- Press **Alt +1** to switch to the Focus Sessions mode. <div class="stepimage">![A graphic of the "Alt + 1" keys appears above the Windows Clock app which displays the Focus Sessions mode.](blogpptalt1.png "Press 'Alt + 1' ")</div> 
+- Press **Alt + 2** to switch to the Timer mode. <div class="stepimage">![A graphic of the "Alt + 2" keys appears above the Windows Clock app which displays the Timer mode.](blogpptalt2.png "Press 'Alt + 2' ")</div> 
+- Press **Alt + 3** to switch to the Alarm mode. <div class="stepimage">![A graphic of the "Alt + 3" keys appears above the Windows Clock app which displays the Alarm mode.](blogpptalt3.png "Press 'Alt + 3' ")</div> 
+- Press **Alt + 4** to switch to the Stopwatch  mode. <div class="stepimage">![A graphic of the "Alt + 4" keys appears above the Windows Clock app which displays the Stopwatch mode.](blogpptalt4.png "Press 'Alt + 4' ")</div> 
+- Press **Alt + 5** to switch to the World clock mode. <div class="stepimage">![A graphic of the "Alt + 5" keys appears above the Windows Clock app which displays the World Clock mode.](blogpptalt5.png "Press 'Alt + 5' ")</div> 
 
 <h1 id="4">How to Keep the Windows Clock on Top</h1>
 
-* Step 1: [Switch](#2) to the Focus sessions, Timer, or Stopwatch modes. Click the "Keep on top" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Keep on top" button and the small Windows Clock app is pinned to the upper right corner of the Desktop.](blogkeepontop.png "Click 'Keep on top' ")</div>  
+* Step 1: [Switch](#2) to the Focus Sessions, Timer, or Stopwatch modes. Click the "Keep on top" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Keep on top" button and the small Windows Clock app is pinned to the upper right corner of the Desktop.](blogkeepontop.png "Click 'Keep on top' ")</div>  
 
 <h1 id="5">How to Return Windows Clock Back to Full View</h1>
 
