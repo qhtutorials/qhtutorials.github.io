@@ -25,12 +25,12 @@ This tutorial covers:
 ## [How to Integrate Focus Sessions With Spotify](#11)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/10N-vU1mYL0ag-dlYpp2Op2fvaKj5nBUfy1LHXe2z0tg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1i50ROaexZ8pTHceLMmXRIoxXVz2xc1TKZ2M1LmPBsbU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="CjopvrAw5IY" width="100%" height="416" src="https://www.youtube.com/embed/CjopvrAw5IY"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="7WaMAGIkE1I" width="100%" height="416" src="https://www.youtube.com/embed/7WaMAGIkE1I"></iframe>
 
 <br />
 
@@ -116,7 +116,7 @@ Step 1: First [switch](https://qhtutorials.github.io/posts/how-to-edit-windows-c
 * Step 1: First [open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) Windows Clock. In the lower left the "Settings" or gear button. <div class="stepimage">![A screenshot of the cursor clicking the "Settings" button.](blogclicksettingsdown.png "Click 'Settings' ")</div>
 * Step 2: Scroll down and on the far right side of the "Spotify" section, click to turn Spotify integration on or off. <div class="stepimage">![Two screenshots where the cursor toggles the "Spotify" option on or off.](blogclickspotify.png "Click 'Spotify' ")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1T8wb28c1i0vb1ZqRCiR4Y5O2HlzVTlZH/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1qET8OWVlLrNgVdJG_jrAgv_2uuBL9mZc/view?usp=sharing).
 
 <br />
 
