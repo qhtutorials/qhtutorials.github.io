@@ -73,3 +73,5 @@ Here is a list of all the PDF tutorials I created.
 5. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1psmsqI5KYCRHJ7VCSvXim30e1FvmLPB8/view?usp=sharing)
 
 #### [*How to Save in the Microsoft Notepad App (Windows 11)*](https://drive.google.com/file/d/1uWl3V0gQB2ddSFDwuRfupguQOCiA5_e2/view?usp=sharing) 
+
+#### [*How to Print in the Microsoft Notepad App (Windows 11)*](https://drive.google.com/file/d/1E9jHxwl1CXBPGVy3NbQUdQgowNzEJFTt/view?usp=sharing)
