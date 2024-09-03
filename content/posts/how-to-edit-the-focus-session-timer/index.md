@@ -19,12 +19,12 @@ This tutorial covers:
 ## [How to Show Time Remaining](#5)
 
 <p>No time to scroll down? Click through these presentation slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1i50ROaexZ8pTHceLMmXRIoxXVz2xc1TKZ2M1LmPBsbU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/19oEDEH8RNSRqGAyJUNlxm3uXtoB8-l9gN-BOcLg_Zxc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="7WaMAGIkE1I" width="100%" height="416" src="https://www.youtube.com/embed/7WaMAGIkE1I"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="ePuYl14m6Sc" width="100%" height="416" src="https://www.youtube.com/embed/ePuYl14m6Sc"></iframe>
 
 <br />
 
@@ -59,7 +59,7 @@ Step 1: First [start](#1) a Focus Session. Click the "Pause" button. <div class=
 - "Show time remaining" on <div class="stepimage">![A screenshot of the cursor clicking the "Show time remaining" option and the Focus Session timer displaying a time of "10 minutes".](blogclickshowremainingon.png "Select 'Show time remaining' ")</div>
 - "Show time remaining" off <div class="stepimage">![A screenshot of the cursor clicking the "Show time remaining" option and the Focus Session timer displaying a graphic of a tree.](blogclickshowremainingoff.png "Deselect 'Show time remaining' ")</div>
 
-Refer to these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1qET8OWVlLrNgVdJG_jrAgv_2uuBL9mZc/view?usp=sharing).
+Refer to these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1y1XOd0CHuScKqC3YqBj5HTDvX6FAtH9a/view?usp=sharing).
 
 <br />
 
