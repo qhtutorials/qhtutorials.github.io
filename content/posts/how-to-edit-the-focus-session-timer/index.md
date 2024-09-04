@@ -34,14 +34,14 @@ Watch a tutorial video:
 
 <h1 id="2">How to Start a Focus Session With Windows 11 Settings</h1>
 
-Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock-/) the Windows Clock. In the lower left, click the "Settings" or gear button. <div class="stepimage">![A screenshot where the cursor clicks the "Settings" button.](blogclicksettingsdown.png "Click 'Settings' ")</div>
+* Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock-/) the Windows Clock. In the lower left, click the "Settings" or gear button. <div class="stepimage">![A screenshot where the cursor clicks the "Settings" button.](blogclicksettingsdown.png "Click 'Settings' ")</div>
 * Step 2: Scroll down and on the right side of the "Notifications" section, click the "Change notification settings" option. <div class="stepimage">![A screenshot where the cursor clicks the "Change notification settings" button.](blogclicknotifications.png "Click 'Change notification settings' ")</div>
 * Step 3: In the Windows 11 Settings window that opens, on the far right side of the "Focus" section click the drop-down menu arrow. <div class="stepimage">![A screenshot where the cursor clicks the "Focus" drop-down menu arrow.](blogsettingsclickfocus.png "Click the 'Focus' drop-down menu arrow")</div>
 * Step 4: Click the "Start focus session" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Start focus session" button, and the Focus Session timer starts.](blogsettingsclickstartsession.png "Click the 'Start focus session' ")</div>
 
 <h1 id="3">How to Pause a Focus Session</h1>
 
-Step 1: First [start](#1) a Focus Session. Click the "Pause" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Pause" button and the Focus Session timer pauses.](blogclickpause.png "Click 'Pause' ")</div> 
+* Step 1: First [start](#1) a Focus Session. Click the "Pause" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Pause" button and the Focus Session timer pauses.](blogclickpause.png "Click 'Pause' ")</div> 
 
 <h1 id="4">How to Resume a Focus Session</h1>
 

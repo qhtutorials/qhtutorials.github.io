@@ -93,5 +93,12 @@
       <guid>http://localhost:1313/tags/open-sticky-notes/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Microsoft Windows Clock</title>
+      <link>http://localhost:1313/tags/microsoft-windows-clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft-windows-clock/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
