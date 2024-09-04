@@ -75,4 +75,7 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### [*How to Save in the Microsoft Notepad App (Windows 11)*](https://www.youtube.com/embed/qIImZi-rQIc) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qIImZi-rQIc" width="100%" height="416" src="https://www.youtube.com/embed/qIImZi-rQIc"></iframe></div>
 
-#### [*How to Print in the Microsoft Notepad App (Windows 11)*] (https://www.youtube.com/embed/sLuHpEsYZ8o) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="sLuHpEsYZ8o" width="100%" height="416" src="https://www.youtube.com/embed/sLuHpEsYZ8o"></iframe></div>
+#### *How to Print in the Microsoft Notepad App (Windows 11)* 
+
+1. [How to Print in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/sLuHpEsYZ8o) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="sLuHpEsYZ8o" width="100%" height="416" src="https://www.youtube.com/embed/sLuHpEsYZ8o"></iframe></div>
+2. [How to Edit the Print Settings in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/MVMvbB5qmpg) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="MVMvbB5qmpg" width="100%" height="416" src="https://www.youtube.com/embed/MVMvbB5qmpg"></iframe></div>

@@ -74,4 +74,6 @@ Here is a list of all the PDF tutorials I created.
 
 #### [*How to Save in the Microsoft Notepad App (Windows 11)*](https://drive.google.com/file/d/1uWl3V0gQB2ddSFDwuRfupguQOCiA5_e2/view?usp=sharing) 
 
-#### [*How to Print in the Microsoft Notepad App (Windows 11)*](https://drive.google.com/file/d/1E9jHxwl1CXBPGVy3NbQUdQgowNzEJFTt/view?usp=sharing)
+#### *How to Print in the Microsoft Notepad App (Windows 11)*
+1. [How to Print in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1E9jHxwl1CXBPGVy3NbQUdQgowNzEJFTt/view?usp=sharing)
+2. [How to Edit the Print Settings in the Microsoft  Notepad App (Windows 11)](https://drive.google.com/file/d/1NE-bztnSyIR2qxTqOVul4icsVpfuVNTb/view?usp=sharing)
