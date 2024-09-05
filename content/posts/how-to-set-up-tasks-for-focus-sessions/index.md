@@ -16,7 +16,7 @@ This tutorial covers:
 1. [With Click](#4)
 2. [With Right Click](#5)
 
-## How to Mark a Task as Not Complete:
+## How to Mark a Task as Complete:
 1. [With Click](#6)
 2. [With Right Click](#7)
 
@@ -25,18 +25,18 @@ This tutorial covers:
 2. [With Right Click](#9)
 
 ## How to Rename a Task:
-1. [With Click](#10)
+1. [With Right Click](#10)
 2. [With Double Click](#11)
 
 ## [How to Delete a Task](#12)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/19oEDEH8RNSRqGAyJUNlxm3uXtoB8-l9gN-BOcLg_Zxc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/16IHNiHtwi9e29SS1BarXRH7YSkDDH6c-A9lqeMJOTwc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="ePuYl14m6Sc" width="100%" height="416" src="https://www.youtube.com/embed/ePuYl14m6Sc"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aT3xrx-WPmE" width="100%" height="416" src="https://www.youtube.com/embed/aT3xrx-WPmE"></iframe>
 
 <br />
 
@@ -97,7 +97,7 @@ Step 1: [Add](#1) a task. On the right side of the task, click "Select for sessi
 * Step 1: [Add](#1) a task. Right click the task. <div class="stepimage">![A screenshot of the cursor right clicking the selected task.](blogrightclickdeselect0.png "Right click the task")</div> 
 * Step 2: In the menu that opens, click "Delete task". <div class="stepimage">![Two screenshots where the cursor clicks the "Delete task" option in the menu, and the task is deleted.](blogrightclickdeletetask.png "Click 'Delete task' ")</div> 
 
-Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1y1XOd0CHuScKqC3YqBj5HTDvX6FAtH9a/view?usp=sharing).
+Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1qJdTnQMWYKWxfqDVcOuFuQbsbQG20N_3/view?usp=sharing).
 
 <br />
 
