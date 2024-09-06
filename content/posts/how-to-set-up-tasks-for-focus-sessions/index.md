@@ -47,7 +47,7 @@ See a tutorial video:
 
 <h1 id="2">How to Select a Task</h1>
 
-Step 1: [Add](#1) a task. On the right side of the task, click "Select for session". <div class="stepimage">![Two screenshots where the cursor clicks the "Select for session" option, and the task is selected.](blogselectforfocus.png "Click 'Select for session' ")</div>
+* Step 1: [Add](#1) a task. On the right side of the task, click "Select for session". <div class="stepimage">![Two screenshots where the cursor clicks the "Select for session" option, and the task is selected.](blogselectforfocus.png "Click 'Select for session' ")</div>
 
 <h1 id="3">How to Select a Task With Right Click</h1>
 
