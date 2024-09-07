@@ -17,12 +17,12 @@ This tutorial covers:
 ## [How to Expand the Task List](#5)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/16IHNiHtwi9e29SS1BarXRH7YSkDDH6c-A9lqeMJOTwc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1OGeHP5qs9pRhDasuE-bGFH_vqayM7NPbV1i-Z25Dmg4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aT3xrx-WPmE" width="100%" height="416" src="https://www.youtube.com/embed/aT3xrx-WPmE"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="6zky9-yunyQ" width="100%" height="416" src="https://www.youtube.com/embed/6zky9-yunyQ"></iframe>
 
 <br />
 
@@ -51,7 +51,7 @@ Step 1: [Add](https://qhtutorials.github.io/posts/how-to-set-up-tasks-for-focus-
 * Step 1: First [collapse](#4) the task list. Click the "See more" or "..." button. <div class="stepimage">![A screenshot of the cursor clicking the "..." button.](blogexpandclickseemore.png "Click '...' ")</div> 
 * Step 2: In the menu that opens, click "Expand task list". <div class="stepimage">![Two screenshots where the cursor clicks the "Expand task list" menu option, and the task list appears.](blogexpandtasklist.png "Click 'Expand task list' ")</div> 
 
-Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1qJdTnQMWYKWxfqDVcOuFuQbsbQG20N_3/view?usp=sharing).
+Save a copy of these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1SWgGc_L_iy4rIIdIQhnpbdxLbTixdDTq/view?usp=sharing).
 
 <br />
 
