@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set the Header/Footer in the Microsoft Notepad App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</link>
+      <pubDate>Fri, 06 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</guid>
+      <description>This tutorial covers:&#xA;1. How to Remove the Header/Footer 2. How to Add the Header/Footer 3. What are the Header and Footer Codes? 4. How to Add Custom Words to the Header/Footer No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Remove the Header/Footer Step 1: First open a Notepad window. In the lower left click &amp;ldquo;More settings&amp;rdquo;. Step 2: In the menu that opens, click &amp;ldquo;Page setup&amp;rdquo;.</description>
+    </item>
     <item>
       <title>How to Edit the Print Settings in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-edit-print-settings-in-notepad/</link>
@@ -316,6 +323,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Edit the Daily Goal in Microsoft Windows Clock (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-the-daily-goal-in-windows-clock/</link>
+      <pubDate>Sat, 02 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-the-daily-goal-in-windows-clock/</guid>
+      <description>This tutorial covers:&#xA;How to Edit the Daily Goal How to Reset the Daily Goal History No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Edit the Daily Goal Step 1: First switch to Focus Sessions mode. Click the &amp;ldquo;Edit your daily goal&amp;rdquo; or pencil button. Step 2: In the window that opens, click the &amp;ldquo;Daily goal&amp;rdquo; drop-down menu and click to select the number of minutes.</description>
     </item>
   </channel>
 </rss>
