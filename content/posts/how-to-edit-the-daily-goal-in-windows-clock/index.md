@@ -11,12 +11,12 @@ This tutorial covers:
 ## [How to Reset the Daily Goal History](#2)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1OGeHP5qs9pRhDasuE-bGFH_vqayM7NPbV1i-Z25Dmg4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1v7-2jOswRI_HKpB_E7mt4ywnpZ7-LkfqeKNs5QiApeM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="6zky9-yunyQ" width="100%" height="416" src="https://www.youtube.com/embed/6zky9-yunyQ"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="f1JGHTZlXa4" width="100%" height="416" src="https://www.youtube.com/embed/f1JGHTZlXa4"></iframe>
 
 <br />
 
@@ -34,7 +34,7 @@ Watch a video tutorial:
 Step 1: [Open](https://qhtutorials.github.io/posts/how-to-open-microsoft-windows-clock/) the Windows Clock. In the lower left click the "Settings" or gear button. <div class="stepimage">![A screenshot of the cursor clicking the gear button.](blogclicksettingsdown.png "Click the gear button")</div>
 * Step 2: Scroll down and on the far right side of the "Privacy" section, click the "Clear history" button. <div class="stepimage">![A screenshot of the cursor clicking the "Clear history" button.](blogclickclearhistory.png "Click 'Clear history' ")</div>
 
-Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1SWgGc_L_iy4rIIdIQhnpbdxLbTixdDTq/view?usp=sharing).
+Keep a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1K8P7xqS9BMnDHksZauLpEdxRRE2vFRoF/view?usp=sharing).
 
 <br />
 
