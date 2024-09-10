@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Sat, 09 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad-keyboard-shortcuts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Create a Log in the Microsoft Notepad App (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-create-a-log-in-notepad/</link>
-      <pubDate>Sat, 09 Sep 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-create-a-log-in-notepad/</guid>
-      <description>This tutorial covers:&#xA;How to Create a Log in Notepad: With Menu With Keyboard With Code No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Create a Log in Notepad With Menu Step 1: First open a Notepad window. In the upper left click the &amp;ldquo;Edit&amp;rdquo; button. Step 2: In the menu that opens, click &amp;ldquo;Time/Date&amp;rdquo;. Notepad inserts the current time and date into the document.</description>
+      <title>Microsoft Notepad Keyboard Shortcuts (Windows 11)</title>
+      <link>http://localhost:1313/posts/notepad-keyboard-shortcuts/</link>
+      <pubDate>Mon, 09 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/notepad-keyboard-shortcuts/</guid>
+      <description>This tutorial covers:&#xA;1. Menu Keyboard Shortcuts 2. File Menu Keyboard Shortcuts 3. Edit Menu Keyboard Shortcuts 4. Find and Replace Keyboard Shortcuts 5. View Menu Keyboard Shortcuts No time to scroll down? Click through these tutorials slides:&#xA;See a video tutorial:&#xA;Menu Keyboard Shortcuts First open a Notepad window. On the keyboard, hold Alt and press one of the corresponding keys to open that menu. For example, press Alt + F to open the File menu.</description>
     </item>
   </channel>
 </rss>

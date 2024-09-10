@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Notepad Keyboard Shortcuts (Windows 11)</title>
+      <link>http://localhost:1313/posts/notepad-keyboard-shortcuts/</link>
+      <pubDate>Mon, 09 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/notepad-keyboard-shortcuts/</guid>
+      <description>This tutorial covers:&#xA;1. Menu Keyboard Shortcuts 2. File Menu Keyboard Shortcuts 3. Edit Menu Keyboard Shortcuts 4. Find and Replace Keyboard Shortcuts 5. View Menu Keyboard Shortcuts No time to scroll down? Click through these tutorials slides:&#xA;See a video tutorial:&#xA;Menu Keyboard Shortcuts First open a Notepad window. On the keyboard, hold Alt and press one of the corresponding keys to open that menu. For example, press Alt + F to open the File menu.</description>
+    </item>
     <item>
       <title>How to Set the Header/Footer in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</link>
@@ -325,11 +332,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Edit the Daily Goal in Microsoft Windows Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-edit-the-daily-goal-in-windows-clock/</link>
-      <pubDate>Sat, 02 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-edit-the-daily-goal-in-windows-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Edit the Daily Goal How to Reset the Daily Goal History No time to scroll down? Click through these tutorial slides:&#xA;Watch a video tutorial:&#xA;How to Edit the Daily Goal Step 1: First switch to Focus Sessions mode. Click the &amp;ldquo;Edit your daily goal&amp;rdquo; or pencil button. Step 2: In the window that opens, click the &amp;ldquo;Daily goal&amp;rdquo; drop-down menu and click to select the number of minutes.</description>
+      <title>How to Edit the Timer in Microsoft Windows Clock (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-the-timer-in-windows-clock/</link>
+      <pubDate>Mon, 04 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-the-timer-in-windows-clock/</guid>
+      <description>This tutorial covers:&#xA;How to Edit the Timer Length: With Click With Keyboard With Right Click How to Edit the Timer Name: With Click With Menu With Right Click With Keyboard Shortcuts How to Clear the Timer Name: With Click With Keyboard How to Exit the Timer Name Window No time to scroll down? Click through this presentation tutorial:&#xA;See a tutorial video:&#xA;How to Edit the Timer Length With Click Step 1: First switch to Timer mode.</description>
     </item>
   </channel>
 </rss>

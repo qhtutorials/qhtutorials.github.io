@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/notepad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Notepad Keyboard Shortcuts (Windows 11)</title>
+      <link>http://localhost:1313/posts/notepad-keyboard-shortcuts/</link>
+      <pubDate>Mon, 09 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/notepad-keyboard-shortcuts/</guid>
+      <description>This tutorial covers:&#xA;1. Menu Keyboard Shortcuts 2. File Menu Keyboard Shortcuts 3. Edit Menu Keyboard Shortcuts 4. Find and Replace Keyboard Shortcuts 5. View Menu Keyboard Shortcuts No time to scroll down? Click through these tutorials slides:&#xA;See a video tutorial:&#xA;Menu Keyboard Shortcuts First open a Notepad window. On the keyboard, hold Alt and press one of the corresponding keys to open that menu. For example, press Alt + F to open the File menu.</description>
+    </item>
     <item>
       <title>How to Set the Header/Footer in the Microsoft Notepad App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-set-header-footer-in-notepad/</link>
