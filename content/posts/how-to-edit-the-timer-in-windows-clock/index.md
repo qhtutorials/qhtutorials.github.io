@@ -24,12 +24,12 @@ This tutorial covers:
 ## [How to Exit the Timer Name Window](#10)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/1v7-2jOswRI_HKpB_E7mt4ywnpZ7-LkfqeKNs5QiApeM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18TewMwN6LYpgdnFqHqvQ1BRLccxDUnqorSF02v6z6Mw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="f1JGHTZlXa4" width="100%" height="416" src="https://www.youtube.com/embed/f1JGHTZlXa4"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aefDp0O6Bg8" width="100%" height="416" src="https://www.youtube.com/embed/aefDp0O6Bg8"></iframe>
 
 <br />
 
@@ -107,7 +107,7 @@ Step 1: [Switch](https://qhtutorials.github.io/posts/how-to-edit-windows-clock-s
 
 * Step 1: [Edit](#1) a Timer. Click the "Cancel" button. <div class="stepimage">![Two screenshots where the cursor clicks the "Cancel" button and the "Edit timer" window closes.](blogpptclickcancel.png "Click 'Cancel' ")</div>
 
-Keep these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1K8P7xqS9BMnDHksZauLpEdxRRE2vFRoF/view?usp=sharing).
+Keep these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1Ovz-i8V1CmxjAto2Dwz4xMEECWDZfKtr/view?usp=sharing).
 
 <br />
 
