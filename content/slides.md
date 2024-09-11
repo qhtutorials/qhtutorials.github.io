@@ -96,3 +96,4 @@ Press **Esc** to exit full screen mode.
 
 #### *Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)*
 1. Keyboard Shortcuts for the Microsoft Notepad App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtihllF7XFfEjDhKP6gm2mwvvMTciluTegxbMgKjG9hyPdydDxxmJHU_hmV7U7R5pZ__gaLQAWZwbX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. [How to Create a Log in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/8eC8KD8pAEQ) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="8eC8KD8pAEQ" width="100%" height="416" src="https://www.youtube.com/embed/8eC8KD8pAEQ"></iframe></div>

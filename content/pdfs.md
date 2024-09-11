@@ -81,3 +81,4 @@ Here is a list of all the PDF tutorials I created.
 
 #### *Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)*
 1. [Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1SKJpIB5rShV3s5zY1tGO38yIYLA-2CRV/view?usp=sharing)
+2. [How to Create a Log in the Microsoft Notepad App (Windows 11)](https://drive.google.com/file/d/1rcsYsrFcMdNPEfTWYriwTol3XP1Tpsyw/view?usp=sharing)
