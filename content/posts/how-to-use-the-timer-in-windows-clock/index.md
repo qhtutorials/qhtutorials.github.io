@@ -13,12 +13,12 @@ This tutorial covers:
 ## [How to Reset the Timer](#3)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/18TewMwN6LYpgdnFqHqvQ1BRLccxDUnqorSF02v6z6Mw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1kpyoHfZAiRKaXowpiUFjB3kZcpWProgbgKd3WWogrKQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aefDp0O6Bg8" width="100%" height="416" src="https://www.youtube.com/embed/aefDp0O6Bg8"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="ns22Pzf5n28" width="100%" height="416" src="https://www.youtube.com/embed/ns22Pzf5n28"></iframe>
 
 <br />
 
@@ -37,7 +37,7 @@ Step 1: [Start](#1) a Timer. Click the "Pause" button. <div class="stepimage">![
 * Step 1: First [pause](#2) a Timer. Click the "Reset" button. <div class="stepimage">![A screenshot of the cursor clicking the "Reset" button.](blogclickreset.png "Click 'Reset' ")</div>
 * The Timer resets. <div class="stepimage">![A screenshot of the reset Timer.](blogclickreset2.png "The Timer resets")</div>
 
-Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1Ovz-i8V1CmxjAto2Dwz4xMEECWDZfKtr/view?usp=sharing).
+Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1Yq95a5u7Kkl7MAkVtOTOFXIzX9LqTzBJ/view?usp=sharing).
 
 <br />
 
