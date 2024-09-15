@@ -16,12 +16,12 @@ This tutorial covers:
 3. [With Menu](#5)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1kpyoHfZAiRKaXowpiUFjB3kZcpWProgbgKd3WWogrKQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/15QVYnTtF9oPn1fe9VcTNxdyETFfuxiiCh-k7QRepsJg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="ns22Pzf5n28" width="100%" height="416" src="https://www.youtube.com/embed/ns22Pzf5n28"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="yDSEnORXzVA" width="100%" height="416" src="https://www.youtube.com/embed/yDSEnORXzVA"></iframe>
 
 <br />
 
@@ -56,7 +56,7 @@ Step 1: [Switch](https://qhtutorials.github.io/posts/how-to-edit-windows-clock-s
 * Step 3: Click the "Done" or check mark button. <div class="stepimage">![A screenshot of the cursor clicking the check mark button.](blogclickpencildelete2.png "Click the check mark button")</div>
 * Step 4: The Timer disappears. <div class="stepimage">![A screenshot of the deleted Timer disappearing from the app window.](blogclickpencildelete3.png "The Timer disappears")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1Yq95a5u7Kkl7MAkVtOTOFXIzX9LqTzBJ/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1dGM33njYJXa_R9XQKMXciHAXVAYHA9ca/view?usp=sharing).
 
 <br />
 
