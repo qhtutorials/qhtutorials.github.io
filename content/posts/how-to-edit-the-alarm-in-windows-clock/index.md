@@ -29,12 +29,12 @@ This tutorial covers:
 ## [How to Exit the "Edit Alarm" Window](#13)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/15QVYnTtF9oPn1fe9VcTNxdyETFfuxiiCh-k7QRepsJg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1cSeAFn-_zMthtsQIY9FA7pddtFK4U9lH2tqKAkvDfog/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="yDSEnORXzVA" width="100%" height="416" src="https://www.youtube.com/embed/yDSEnORXzVA"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="dMDpjbd5fSs" width="100%" height="416" src="https://www.youtube.com/embed/dMDpjbd5fSs"></iframe>
 
 <br />
 
@@ -147,7 +147,7 @@ Step 1: [Switch](https://qhtutorials.github.io/posts/how-to-edit-windows-clock-s
 
 * Step 1: First [edit](#1) an Alarm. Click the "Cancel" button, or click anywhere outside the window. <div class="stepimage">![A screenshot of the cursor clicking the "Cancel" button.](blogclickcancel.png "Click 'Cancel' ")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1dGM33njYJXa_R9XQKMXciHAXVAYHA9ca/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1racm50vNP8flZqMjh43QKfbSN5uvKUSo/view?usp=sharing).
 
 <br />
 
