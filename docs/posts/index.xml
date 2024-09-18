@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Open the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-open-microsoft-whiteboard/</link>
+      <pubDate>Mon, 16 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-open-microsoft-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;What is Microsoft Whiteboard? How to Open Microsoft Whiteboard With Search How to Open a Blank Whiteboard: With Click With Close By Default How to Open a Whiteboard Template: With the Templates Window With Preview With Menu How to Refresh a Whiteboard No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;What is Microsoft Whiteboard? As a cloud-based or online app, Microsoft Whiteboard enables multiple users to collaborate on digital whiteboards in real time.</description>
+    </item>
     <item>
       <title>How to Set Up a Hugo Blog</title>
       <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog/</link>
@@ -344,13 +351,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Edit the Alarm in Microsoft Windows Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-edit-the-alarm-in-windows-clock/</link>
-      <pubDate>Mon, 11 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-edit-the-alarm-in-windows-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Edit the Alarm Time: With Click With Keyboard With Right Click With Menu With Keyboard Shortcut How to Edit Alarm Name: With Click With Right Click With Keyboard Shortcuts How to Repeat the Alarm How to Set Dates in the Alarm How to Edit the Snooze Time Length How to Turn the Alarm On/Off How to Exit the Edit Alarm Window No time to scroll down?</description>
     </item>
   </channel>
 </rss>
