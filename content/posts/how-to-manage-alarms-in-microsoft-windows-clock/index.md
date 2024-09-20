@@ -28,7 +28,7 @@ Follow along with a video tutorial:
 <h1 id="1">How to Add a Timer With Click</h1>
 
 * Step 1: First [switch](https://qhtutorials.github.io/posts/how-to-edit-windows-clock-settings/) to Alarm mode. In the lower right, click the "+" or "Add an alarm" button.  <div class="stepimage">![A screenshot of the cursor clicking the "+" button.](blogclickplus1.png "Click '+' ")</div> 
-* In the "Add new alarm" window that opens, click to edit the alarm settings and click the "Save" button. <div class="stepimage">![A screenshot of the cursor clicking the "Save" button.](blogclickplus2.png "Click 'Save' ")</div> 
+* Step 2: In the "Add new alarm" window that opens, click to edit the alarm settings and click the "Save" button. <div class="stepimage">![A screenshot of the cursor clicking the "Save" button.](blogclickplus2.png "Click 'Save' ")</div> 
 * The Windows Clock displays the new Alarm. <div class="stepimage">![A screenshot of the Windows Clock app displaying the newly added alarm.](blogclickplus3.png "The new alarm")</div> 
 
 <h1 id="2">How to Add an Alarm With Keyboard Shortcut</h1>
