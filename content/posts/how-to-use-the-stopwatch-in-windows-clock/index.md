@@ -15,12 +15,12 @@ This tutorial covers:
 ## [How to Reset the Stopwatch](#4)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/13odiOl0-BpyaRx8Zs8nfTJJsvexfcCxD-A-B2BXoywo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1nKhPe-I6RT9edU3edwUKQArr_6v3omkb5V4jC-yDFpw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Watch a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="Xp3RwwepZEk" width="100%" height="416" src="https://www.youtube.com/embed/Xp3RwwepZEk"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_GPZUJbEP2o" width="100%" height="416" src="https://www.youtube.com/embed/_GPZUJbEP2o"></iframe>
 
 <br />
 
@@ -46,7 +46,7 @@ Watch a video tutorial:
 * Method 1: [Pause](#2) the Stopwatch. Click the "Reset" button. <div class="stepimage">![A screenshot of the cursor clicking the "Reset" button.](blogclickresetpause1.png  "Click 'Reset' ")</div>
 * The Stopwatch resets the time. <div class="stepimage">![A screenshot of the reset Stopwatch.](blogclickresetpause2.png  "The Stopwatch resets")</div> 
 
-Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1dfehQjWd2DHK8xAsg4JyRLI-mmSLR5Ac/view?usp=sharing).
+Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing).
 
 <br />
 
