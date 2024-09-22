@@ -45,6 +45,8 @@ Watch a video tutorial:
 
 * Method 1: [Pause](#2) the Stopwatch. Click the "Reset" button. <div class="stepimage">![A screenshot of the cursor clicking the "Reset" button.](blogclickresetpause1.png  "Click 'Reset' ")</div>
 * The Stopwatch resets the time. <div class="stepimage">![A screenshot of the reset Stopwatch.](blogclickresetpause2.png  "The Stopwatch resets")</div> 
+* Method 2: First [start](#1) the Stopwatch. Click the "Reset" button. <div class="stepimage">![A screenshot of the cursor clicking the "Reset" button.](blogclickresetlaps1.png  "Click 'Reset' ")</div>
+* The Stopwatch resets the time. <div class="stepimage">![A screenshot of the reset Stopwatch.](blogclickresetpause2.png  "The Stopwatch resets")</div> 
 
 Save these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing).
 
