@@ -24,12 +24,12 @@ This tutorial covers:
 3. [With Keyboard Shortcut](#10)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/1nKhPe-I6RT9edU3edwUKQArr_6v3omkb5V4jC-yDFpw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1kRfRQ2CooiCy9KuPtERQo9BqgefEF8xxvP_un9f1MmI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 See a tutorial video:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_GPZUJbEP2o" width="100%" height="416" src="https://www.youtube.com/embed/_GPZUJbEP2o"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="a2Yp6XGcbFE" width="100%" height="416" src="https://www.youtube.com/embed/a2Yp6XGcbFE"></iframe>
 
 <br />
 
@@ -90,7 +90,7 @@ See a tutorial video:
 * Step 2: On the left side of a city, click the "Delete" or trash can button. <div class="stepimage">![A screenshot of the cursor clicking the trash can button.](blogalte2.png "Click the trash can")</div> 
 * Step 3: On the keyboard press **Alt + D**. <div class="stepimage">![A screenshot of a graphic of the "Alt + D" keys on the World Clock display.](blogalte3.png "Press 'Alt + D' ")</div>
 
-Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing).
+Save a copy of these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1G8AZwIn162XYNaqD69DNHfmkRTksetyc/view?usp=sharing).
 
 <br />
 
