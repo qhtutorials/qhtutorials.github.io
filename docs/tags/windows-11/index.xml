@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 20 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Close the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-close-whiteboard/</link>
+      <pubDate>Mon, 23 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-close-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Delete a Whiteboard How to Close Microsoft Whiteboard: With Click With Right Click With Hover Witih Hover and Right Click With Keyboard Shortcuts No time to scroll down? Click through this presentation tutorial:&#xA;Watch a tutorial video:&#xA;How to Delete a Whiteboard Step 1: First open a whiteboard. In the upper left click the &amp;ldquo;My whiteboards&amp;rdquo; or house button. Step 2: Hover over a whiteboard and click the &amp;ldquo;More options&amp;rdquo; or &amp;ldquo;&amp;hellip;&amp;rdquo; button.</description>
+    </item>
     <item>
       <title>How to Open Content in Microsoft Whiteboard (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-open-content-in-whiteboard/</link>
@@ -332,11 +339,11 @@
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
     </item>
     <item>
-      <title>How to Manage Cities in Microsoft Windows World Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-manage-cities-in-the-microsoft-world-clock/</link>
-      <pubDate>Mon, 18 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-manage-cities-in-the-microsoft-world-clock/</guid>
-      <description>This tutorial covers:&#xA;How to Add a City: With Click With Keyboard Shortcut With Keyboard How to Clear the &amp;ldquo;Add New Location&amp;rdquo; Window: With Click With Backspace With Delete How to Exit the &amp;ldquo;Add New Location&amp;rdquo; Window How to Delete a City: With Click With Right Click With Keyboard Shortcut No time to scroll down? Click through this tutorial presentation:&#xA;See a tutorial video:&#xA;How to Add a City With Click Step 1: First switch to the World Clock mode.</description>
+      <title>How to Change the Display in Microsoft Windows World Clock (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-change-the-world-clock-display/</link>
+      <pubDate>Wed, 20 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-change-the-world-clock-display/</guid>
+      <description>This tutorial covers:&#xA;How to Pin a City to Start How to Compare Cities: With Click With Keyboard No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Pin a City to Start Step 1: First switch to the World Clock mode. Right click a city. Step 2: In the menu that opens, click &amp;ldquo;Pin to Start&amp;rdquo;. Step 3: In the window that opens, click &amp;ldquo;Yes&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
