@@ -13,12 +13,12 @@ This tutorial covers:
 2. [With Keyboard](#3)
 
 <p>No time to scroll down? Click through these tutorial slides:</p>
-<iframe src="https://docs.google.com/presentation/d/1kRfRQ2CooiCy9KuPtERQo9BqgefEF8xxvP_un9f1MmI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1SwagljFsBt0KdRac6D2CSyS-mDdMJxHkjY-wpLxWVc4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="a2Yp6XGcbFE" width="100%" height="416" src="https://www.youtube.com/embed/a2Yp6XGcbFE"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="FWrYHyLQuoI" width="100%" height="416" src="https://www.youtube.com/embed/FWrYHyLQuoI"></iframe>
 
 <br />
 
@@ -44,7 +44,7 @@ Follow along with a video tutorial:
  
 * Step 1: First [switch](https://qhtutorials.github.io/posts/how-to-edit-windows-clock-settings/) the World Clock mode. On the keyboard press **Alt + C**. <div class="stepimage">![Two screenshots where a graphic of the "Alt + C" keys appears on the window, and the World Clock comparison screen appears.](blogaltc.png  "Press 'Alt + C' ")</div>
 
-Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1G8AZwIn162XYNaqD69DNHfmkRTksetyc/view?usp=sharing).
+Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1OyKVkdvyRTsSER-d32ZkYiwbu3Fo6iR5/view?usp=sharing).
 
 <br />
 
