@@ -16,6 +16,8 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 3. [How to Install GIMP on Windows 11](https://www.youtube.com/embed/rkP5QZTsM6M) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="rkP5QZTsM6M" width="100%" height="416" src="https://www.youtube.com/embed/rkP5QZTsM6M"></iframe></div>
 4. [How to Install Live Home 3D – House Design on Windows 11](https://www.youtube.com/embed/dukMuMtWpko) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="dukMuMtWpko" width="100%" height="416" src="https://www.youtube.com/embed/dukMuMtWpko"></iframe></div>
 
+<br />
+
 ## Microsoft Sticky Notes App (Windows 11) Tutorials
 
 #### *How to Open the Microsoft Sticky Notes App (Windows 11)*
