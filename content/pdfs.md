@@ -90,3 +90,6 @@ Here is a list of all the PDF tutorials I created.
 2. [How to Pin the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1sN-IvFotZ1yhJyedVa5RSEfsnzC1zXLD/view?usp=sharing)
 3. [How to Open Content in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1AWcBKM2QlwtiACMOFsoC301ujKYtBgU0/view?usp=sharing)
 4. [How to Close the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/19VEIO1hmmQnYJtdC8-74nN0zfSVo5NLv/view?usp=sharing)
+
+#### *How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)*
+1. [How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1jOaHcZ_yX-eI8tBt0szE46Ed61fPLEdT/view?usp=sharing)
