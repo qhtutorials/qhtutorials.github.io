@@ -13,7 +13,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 ## Installation Guides
 1. [How to Install Inkscape on Windows 11](https://www.youtube.com/embed/r0ZXbQzvYkI) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="r0ZXbQzvYkI" width="100%" height="416" src="https://www.youtube.com/embed/r0ZXbQzvYkI"></iframe></div>
 2. [How to Install Scribus on Windows 11](https://www.youtube.com/embed/bwI8R9mPEY8)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="bwI8R9mPEY8" width="100%" height="416" src="https://www.youtube.com/embed/bwI8R9mPEY8"></iframe></div>
+
 3. [How to Install GIMP on Windows 11](https://www.youtube.com/embed/rkP5QZTsM6M) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="rkP5QZTsM6M" width="100%" height="416" src="https://www.youtube.com/embed/rkP5QZTsM6M"></iframe></div>
+
 4. [How to Install Live Home 3D – House Design on Windows 11](https://www.youtube.com/embed/dukMuMtWpko) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="dukMuMtWpko" width="100%" height="416" src="https://www.youtube.com/embed/dukMuMtWpko"></iframe></div>
 
 <br />
