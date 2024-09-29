@@ -12,11 +12,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 ## Installation Guides
 1. [How to Install Inkscape on Windows 11](https://www.youtube.com/embed/r0ZXbQzvYkI) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="r0ZXbQzvYkI" width="100%" height="416" src="https://www.youtube.com/embed/r0ZXbQzvYkI"></iframe></div>
-2. [How to Install Scribus on Windows 11](https://www.youtube.com/embed/bwI8R9mPEY8)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="bwI8R9mPEY8" width="100%" height="416" src="https://www.youtube.com/embed/bwI8R9mPEY8"></iframe></div>
-
-3. [How to Install GIMP on Windows 11](https://www.youtube.com/embed/rkP5QZTsM6M) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="rkP5QZTsM6M" width="100%" height="416" src="https://www.youtube.com/embed/rkP5QZTsM6M"></iframe></div>
-
-4. [How to Install Live Home 3D – House Design on Windows 11](https://www.youtube.com/embed/dukMuMtWpko) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="dukMuMtWpko" width="100%" height="416" src="https://www.youtube.com/embed/dukMuMtWpko"></iframe></div>
+2. [How to Install Scribus on Windows 11](https://www.youtube.com/embed/bwI8R9mPEY8)<div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="bwI8R9mPEY8" width="100%" height="416" src="https://www.youtube.com/embed/bwI8R9mPEY8"></iframe></div>
+3. [How to Install GIMP on Windows 11](https://www.youtube.com/embed/rkP5QZTsM6M) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="rkP5QZTsM6M" width="100%" height="416" src="https://www.youtube.com/embed/rkP5QZTsM6M"></iframe></div>
+4. [How to Install Live Home 3D – House Design on Windows 11](https://www.youtube.com/embed/dukMuMtWpko) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="dukMuMtWpko" width="100%" height="416" src="https://www.youtube.com/embed/dukMuMtWpko"></iframe></div>
 
 <br />
 
@@ -41,7 +39,7 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Edit Sticky Notes in the Microsoft Sticky Notes App (Windows 11)*
 1. [How to Create Sticky Notes in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/7nW3REmZ6nE)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="7nW3REmZ6nE" width="100%" height="416" src="https://www.youtube.com/embed/7nW3REmZ6nE"></iframe></div>
-2. [How to Edit a Sticky Note in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/5qCKiWC0jc8) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="5qCKiWC0jc8" width="100%" height="416" src="https://www.youtube.com/embed/5qCKiWC0jc8"></iframe></div>
+2. [How to Edit a Sticky Note in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/5qCKiWC0jc8) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="5qCKiWC0jc8" width="100%" height="416" src="https://www.youtube.com/embed/5qCKiWC0jc8"></iframe></div>
 3. [How to Format Text in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/v_zEuRPAgc0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="v_zEuRPAgc0" width="100%" height="416" src="https://www.youtube.com/embed/v_zEuRPAgc0"></iframe></div>
 4. [How to Undo and Redo in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/5bOIfnzRilk) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="5bOIfnzRilk" width="100%" height="416" src="https://www.youtube.com/embed/5bOIfnzRilk"></iframe></div>
 5. [How to Edit Images in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/n4cUXQEC9fg) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="n4cUXQEC9fg" width="100%" height="416" src="https://www.youtube.com/embed/n4cUXQEC9fg"></iframe></div>
