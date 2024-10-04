@@ -15,7 +15,7 @@ This tutorial covers:
 ## [How to Edit the Rectangle Shape](#4)
 
 <p>No time to scroll down? Click through this presentation tutorial:</p>
-<iframe src="https://docs.google.com/presentation/d/1SwagljFsBt0KdRac6D2CSyS-mDdMJxHkjY-wpLxWVc4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwfl54CVkW7IffXsYdscB_ZCHquyFTXMrwGdtJiIehz89h5Nf2Zf99jpG5QmVK0Z7v17RXR7bPYoAz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
