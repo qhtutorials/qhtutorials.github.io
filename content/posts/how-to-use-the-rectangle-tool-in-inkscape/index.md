@@ -43,7 +43,7 @@ See a with a tutorial video:
 
 * Step 1: [Insert](#1) a rectangle. Click, hold, and drag the circle handle to make the rectangle edges more round. <div class="stepimage">![Two screenshots where the cursor drags the circle sizing handle and a blue oval appears on the canvas.](blogpptcircledrag.png  "Click and drag the circle sizing handle")</div>
 
-Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1OyKVkdvyRTsSER-d32ZkYiwbu3Fo6iR5/view?usp=sharing).
+Save these instructions for later with this free [PDF tutorial](https://drive.google.com/file/d/1fbvxebAHMAuvuZJzzmYM1s27jhn2DIem/view?usp=sharing).
 
 <br />
 
