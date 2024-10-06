@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit CSS in the Archie Theme</title>
+      <link>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</link>
+      <pubDate>Fri, 04 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</guid>
+      <description>This tutorial covers:&#xA;1. How to Add Custom CSS to the Archie Theme 2. How to Edit the CSS of the Archie Theme 3. How to Change the Font of the Archie Theme How to Add Custom CSS to the Archie Theme Step 1: In the root directory of your Hugo blog, open the hugo.toml file, and add this line: [params] customcss = [&amp;#34;css/first.css&amp;#34;] Step 2: Use Visual Studio Code or your favorite editor to create the assets/css/first.</description>
+    </item>
+    <item>
+      <title>How to Edit the Print Settings in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</link>
+      <pubDate>Wed, 02 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Change Printing Orientation: With Print Window With System Dialog With Printing Preferences How to Change Color Settings: With Print Window With System Dialog With Printing Preferences How to Change Paper Size How to Change Printing Scale How to Change Pages per Sheet How to Change Margins How to Add or Remove the Header and Footer How to Add or Remove Background Graphics How to Change Page Order How to Change Paper Source How to Change Media No time to scroll down?</description>
+    </item>
+    <item>
+      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
+      <pubDate>Mon, 30 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
+    </item>
+    <item>
+      <title>How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-manage-whiteboards/</link>
+      <pubDate>Fri, 27 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-manage-whiteboards/</guid>
+      <description>This tutorial covers:&#xA;How to Rename a Whiteboard: With Menu With &amp;ldquo;More Options&amp;rdquo; How to Share a Whiteboard How to Export a Whiteboard: As an Image As a PDF As a Zip File How to Navigate the Whiteboard Downloads Window: How to Open the Downloads Window How to Close the Downloads Window How to Search the Downloads Window How to Clear All History in the Downloads Window How to Open the Computer Downloads Folder How to Report a Whiteboard No time to scroll down?</description>
+    </item>
+    <item>
+      <title>How to Set Up a Hugo Blog Post</title>
+      <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</link>
+      <pubDate>Wed, 25 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</guid>
+      <description>This tutorial covers:&#xA;1. How to Create a New Blog Post 2. How to Add Images to the Blog Post 3. How to Add Other Media to the Blog Post How to Create a New Blog Post Step 1: With PowerShell, navigate to the root of your Hugo website folder, then run the following command: hugo new content posts/nameofyourpost/index.md Step 2: Open the content/posts/nameofyourpost/index.md file in your favorite code editor. Go to the front matter, or section in between the &amp;ldquo;&amp;mdash;&amp;rdquo; triple hyphens, and edit the following: For title:, type the title of the blog post.</description>
+    </item>
     <item>
       <title>How to Close the Microsoft Whiteboard App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-close-whiteboard/</link>
@@ -372,6 +407,13 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
+    </item>
+    <item>
+      <title>How to Use the Rectangle Tool in Inkscape</title>
+      <link>http://localhost:1313/posts/how-to-use-the-rectangle-tool-in-inkscape/</link>
+      <pubDate>Sat, 23 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-use-the-rectangle-tool-in-inkscape/</guid>
+      <description>This tutorial covers:&#xA;How to Insert a Rectangle: With Mouse With Keyboard How to Resize a Rectangle How to Edit the Rectangle Shape No time to scroll down? Click through this presentation tutorial:&#xA;See a with a tutorial video:&#xA;How to Insert a Rectangle With Mouse Step 1: First click the Rectangle tool. Step 2: Click and drag the mouse on the canvas to create a rectangle. How to Insert a Rectangle With Keyboard Step 1: On the keyboard press R.</description>
     </item>
   </channel>
 </rss>

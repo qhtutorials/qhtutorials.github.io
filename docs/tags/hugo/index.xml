@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit CSS in the Archie Theme</title>
+      <link>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</link>
+      <pubDate>Fri, 04 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-css-in-the-archie-theme/</guid>
+      <description>This tutorial covers:&#xA;1. How to Add Custom CSS to the Archie Theme 2. How to Edit the CSS of the Archie Theme 3. How to Change the Font of the Archie Theme How to Add Custom CSS to the Archie Theme Step 1: In the root directory of your Hugo blog, open the hugo.toml file, and add this line: [params] customcss = [&amp;#34;css/first.css&amp;#34;] Step 2: Use Visual Studio Code or your favorite editor to create the assets/css/first.</description>
+    </item>
+    <item>
+      <title>How to Set Up a Hugo Blog Post</title>
+      <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</link>
+      <pubDate>Wed, 25 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-set-up-a-hugo-blog-post/</guid>
+      <description>This tutorial covers:&#xA;1. How to Create a New Blog Post 2. How to Add Images to the Blog Post 3. How to Add Other Media to the Blog Post How to Create a New Blog Post Step 1: With PowerShell, navigate to the root of your Hugo website folder, then run the following command: hugo new content posts/nameofyourpost/index.md Step 2: Open the content/posts/nameofyourpost/index.md file in your favorite code editor. Go to the front matter, or section in between the &amp;ldquo;&amp;mdash;&amp;rdquo; triple hyphens, and edit the following: For title:, type the title of the blog post.</description>
+    </item>
     <item>
       <title>How to Set Up a Hugo Blog</title>
       <link>http://localhost:1313/posts/how-to-set-up-a-hugo-blog/</link>

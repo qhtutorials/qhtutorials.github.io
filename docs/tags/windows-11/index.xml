@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Quickly How Tutorials</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 02:01:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Edit the Print Settings in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</link>
+      <pubDate>Wed, 02 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-edit-print-settings-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Change Printing Orientation: With Print Window With System Dialog With Printing Preferences How to Change Color Settings: With Print Window With System Dialog With Printing Preferences How to Change Paper Size How to Change Printing Scale How to Change Pages per Sheet How to Change Margins How to Add or Remove the Header and Footer How to Add or Remove Background Graphics How to Change Page Order How to Change Paper Source How to Change Media No time to scroll down?</description>
+    </item>
+    <item>
+      <title>How to Print in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-print-in-whiteboard/</link>
+      <pubDate>Mon, 30 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-print-in-whiteboard/</guid>
+      <description>This tutorial covers:&#xA;How to Print in Whiteboard: With Print Window With System Dialog How to Close the Print Window: With Click With Keyboard Shortcut With Close How to Specify Pages: With Print Window With System Dialog How to Print on Both Sides: With Print Window With Printing Preferences How to Add a Printer: With Print Window With System Dialog How to Change the Printer: With Print Window With System Dialog How to Let Whiteboard Change Printing Preferences No time to scroll down?</description>
+    </item>
+    <item>
+      <title>How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)</title>
+      <link>http://localhost:1313/posts/how-to-manage-whiteboards/</link>
+      <pubDate>Fri, 27 Sep 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-manage-whiteboards/</guid>
+      <description>This tutorial covers:&#xA;How to Rename a Whiteboard: With Menu With &amp;ldquo;More Options&amp;rdquo; How to Share a Whiteboard How to Export a Whiteboard: As an Image As a PDF As a Zip File How to Navigate the Whiteboard Downloads Window: How to Open the Downloads Window How to Close the Downloads Window How to Search the Downloads Window How to Clear All History in the Downloads Window How to Open the Computer Downloads Folder How to Report a Whiteboard No time to scroll down?</description>
+    </item>
     <item>
       <title>How to Close the Microsoft Whiteboard App (Windows 11)</title>
       <link>http://localhost:1313/posts/how-to-close-whiteboard/</link>
@@ -337,13 +358,6 @@
       <pubDate>Mon, 27 May 2024 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-open-sticky-notes/</guid>
       <description>This tutorial covers:&#xA;What is the Microsoft Sticky Notes App? How to Open the Microsoft Sticky Notes App With Search No time to scroll down? Click through this tutorial presentation:&#xA;Watch a tutorial video here:&#xA;What is the Microsoft Sticky Notes App? Sticky Notes is a note-taking app that comes with Windows 11. Notes can have formatted text (bold, italic, underline, strikethrough, and bulleted lists), images, and recognized URLs. For further customization, choose from seven different colors of sticky notes and a &amp;ldquo;Dark&amp;rdquo; mode for the app.</description>
-    </item>
-    <item>
-      <title>How to Change the Display in Microsoft Windows World Clock (Windows 11)</title>
-      <link>http://localhost:1313/posts/how-to-change-the-world-clock-display/</link>
-      <pubDate>Wed, 20 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/how-to-change-the-world-clock-display/</guid>
-      <description>This tutorial covers:&#xA;How to Pin a City to Start How to Compare Cities: With Click With Keyboard No time to scroll down? Click through these tutorial slides:&#xA;Follow along with a video tutorial:&#xA;How to Pin a City to Start Step 1: First switch to the World Clock mode. Right click a city. Step 2: In the menu that opens, click &amp;ldquo;Pin to Start&amp;rdquo;. Step 3: In the window that opens, click &amp;ldquo;Yes&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
