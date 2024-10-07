@@ -95,3 +95,6 @@ Here is a list of all the PDF tutorials I created.
 1. [How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1jOaHcZ_yX-eI8tBt0szE46Ed61fPLEdT/view?usp=sharing)
 2. [How to Print in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1q_5EjaHZSoCqIPPEf919F8XrddGWj0fz/view?usp=sharing)
 3. [How to Edit Print Settings in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1gnZp6KpihRYnwfB_z-kZQQk4OkmbIhMJ/view?usp=sharing)
+
+#### *How to Customize the Microsoft Whiteboard App (Windows 11)*
+1. [How to Customize the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/14zb-6e0SF5tQil4v0Fk6UZhchipkrZpp/view?usp=sharing)
