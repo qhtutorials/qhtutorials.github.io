@@ -57,6 +57,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 6. [How to Delete Sticky Notes in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/eqC6Mbk2a7w) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="eqC6Mbk2a7w" width="100%" height="416" src="https://www.youtube.com/embed/eqC6Mbk2a7w"></iframe></div>
+
+<br />
+
 7. [How to Edit the Settings of the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/VtDNTFB8N-0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="VtDNTFB8N-0" width="100%" height="416" src="https://www.youtube.com/embed/VtDNTFB8N-0"></iframe></div>
 
 #### *How to Navigate the Microsoft Sticky Notes App (Windows 11)*
