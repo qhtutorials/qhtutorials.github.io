@@ -98,3 +98,4 @@ Here is a list of all the PDF tutorials I created.
 
 #### *How to Customize the Microsoft Whiteboard App (Windows 11)*
 1. [How to Customize the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/14zb-6e0SF5tQil4v0Fk6UZhchipkrZpp/view?usp=sharing)
+2. [How to Zoom In and Out of the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1W5IsxrC9pf6BE90QBpSj8WM5f13SkLCa/view?usp=sharing)
