@@ -127,4 +127,5 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 #### *How to Customize the Microsoft Whiteboard App (Windows 11)*
 1. [How to Customize the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/aUoGbOoYoWM) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="aUoGbOoYoWM" width="100%" height="416" src="https://www.youtube.com/embed/aUoGbOoYoWM"></iframe></div>
 2. [How to Zoom In and Out of the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/LRjlx4phRU4)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="LRjlx4phRU4" width="100%" height="416" src="https://www.youtube.com/embed/LRjlx4phRU4"></iframe></div>
+3. [How to Edit the Microsoft Whiteboard App Display (Windows 11)](https://www.youtube.com/embed/e6S67M4-_ow) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="e6S67M4-_ow" width="100%" height="416" src="https://www.youtube.com/embed/e6S67M4-_ow"></iframe></div>
 
