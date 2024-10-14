@@ -135,3 +135,5 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 2. [How to Zoom In and Out of the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/LRjlx4phRU4)<div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="LRjlx4phRU4" width="100%" height="416" src="https://www.youtube.com/embed/LRjlx4phRU4"></iframe></div>
 3. [How to Edit the Microsoft Whiteboard App Display (Windows 11)](https://www.youtube.com/embed/e6S67M4-_ow) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="e6S67M4-_ow" width="100%" height="416" src="https://www.youtube.com/embed/e6S67M4-_ow"></iframe></div>
 
+#### *How to Insert Objects in the Microsoft Whiteboard App (Windows 11)*
+1. [How to Use Ink Objects in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/3bSeJ0m7SvI) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="3bSeJ0m7SvI" width="100%" height="416" src="https://www.youtube.com/embed/3bSeJ0m7SvI"></iframe></div>
