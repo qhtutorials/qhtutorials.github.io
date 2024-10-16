@@ -91,6 +91,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 2. [How to Minimize the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/qdPApbNVOHQ) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qdPApbNVOHQ" width="100%" height="416" src="https://www.youtube.com/embed/qdPApbNVOHQ"></iframe></div>
+
+<br />
+
 3. [How to Maximize the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/MAp0xgGXSfU)<div class=”slidesitem”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="MAp0xgGXSfU" width="100%" height="416" src="https://www.youtube.com/embed/MAp0xgGXSfU"></iframe></div>
 4. [How to Restore the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/IJY0M6Wvsu4) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="IJY0M6Wvsu4" width="100%" height="416" src="https://www.youtube.com/embed/IJY0M6Wvsu4"></iframe></div>
 5. [How to Move the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/OIbL6ZKVRJ0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="OIbL6ZKVRJ0" width="100%" height="416" src="https://www.youtube.com/embed/OIbL6ZKVRJ0"></iframe></div>
