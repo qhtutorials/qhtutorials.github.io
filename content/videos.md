@@ -140,3 +140,4 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Insert Objects in the Microsoft Whiteboard App (Windows 11)*
 1. [How to Use Ink Objects in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/3bSeJ0m7SvI) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="3bSeJ0m7SvI" width="100%" height="416" src="https://www.youtube.com/embed/3bSeJ0m7SvI"></iframe></div>
+2. [How to Use the Eraser and Highlighter in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/4YYVFrxWl8E) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="4YYVFrxWl8E" width="100%" height="416" src="https://www.youtube.com/embed/4YYVFrxWl8E"></iframe></div>
