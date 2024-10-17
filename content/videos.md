@@ -33,6 +33,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 2. [How to Minimize the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/gbhEICDg11w) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="gbhEICDg11w" width="100%" height="416" src="https://www.youtube.com/embed/gbhEICDg11w"></iframe></div>
+
+<br />
+
 3. [How to Maximize the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/JmUpkc9d_Ig) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="JmUpkc9d_Ig" width="100%" height="416" src="https://www.youtube.com/embed/JmUpkc9d_Ig"></iframe></div>
 4. [How to Restore the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/vsRW-454E-o) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="vsRW-454E-o" width="100%" height="416" src="https://www.youtube.com/embed/vsRW-454E-o"></iframe></div>
 5. [How to Show All Notes in the Microsoft Sticky Notes App (Windows 11)](https://www.youtube.com/embed/p0Wo4VfjGHw) <div class="vidlist"><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="p0Wo4VfjGHw" width="100%" height="416" src="https://www.youtube.com/embed/p0Wo4VfjGHw"></iframe></div>
