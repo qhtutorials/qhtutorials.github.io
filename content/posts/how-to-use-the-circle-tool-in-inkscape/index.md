@@ -15,12 +15,12 @@ This tutorial covers:
 ## [How to Edit the Circle Shape](#4)
 
 <p>No time to scroll down? Click through this tutorial presentation:</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwfl54CVkW7IffXsYdscB_ZCHquyFTXMrwGdtJiIehz89h5Nf2Zf99jpG5QmVK0Z7v17RXR7bPYoAz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxZ09fE18oTUyMaiW238xP7WAjuNrhSe9t_tAApb_gYCRwJl7OVo8BFb6Md1YAge_NNgXFyg64USNI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br />
 
 Follow along with a video tutorial:
-<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="faExizJfT-g" width="100%" height="416" src="https://www.youtube.com/embed/faExizJfT-g"></iframe>
+<iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="Pd2mdQx2jik" width="100%" height="416" src="https://www.youtube.com/embed/Pd2mdQx2jik"></iframe>
 
 <br />
 
@@ -43,7 +43,7 @@ Follow along with a video tutorial:
 
 * Step 1: [Insert](#1) a circle. Click, hold, and drag the circle handle to adjust the arc of the circle. <div class="stepimage">![Two screenshots where the cursor drags the circle sizing handle and a brown arc appears on the canvas.](blogshapecircle.png  "Click and drag the circle sizing handle")</div>
 
-Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1fbvxebAHMAuvuZJzzmYM1s27jhn2DIem/view?usp=sharing).
+Refer to these instructions for later with this free [tutorial PDF](https://drive.google.com/file/d/1U41q4kaebvf2c13tlGhxMI_0vs4OhMCp/view?usp=sharing).
 
 <br />
 
