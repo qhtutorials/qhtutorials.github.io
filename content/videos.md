@@ -105,6 +105,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 4. [How to Restore the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/IJY0M6Wvsu4) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="IJY0M6Wvsu4" width="100%" height="416" src="https://www.youtube.com/embed/IJY0M6Wvsu4"></iframe></div>
+
+<br />
+
 5. [How to Move the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/OIbL6ZKVRJ0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="OIbL6ZKVRJ0" width="100%" height="416" src="https://www.youtube.com/embed/OIbL6ZKVRJ0"></iframe></div>
 6. [How to Use Zoom in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/fPEMNak8GPY) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="fPEMNak8GPY" width="100%" height="416" src="https://www.youtube.com/embed/fPEMNak8GPY"></iframe></div>
 7. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/IkkAJVVAbxs) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="IkkAJVVAbxs" width="100%" height="416" src="https://www.youtube.com/embed/IkkAJVVAbxs"></iframe></div>
