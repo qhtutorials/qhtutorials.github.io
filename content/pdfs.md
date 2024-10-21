@@ -105,3 +105,6 @@ Here is a list of all the PDF tutorials I created.
 1. [How to Use Ink Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1sCSr9tpQj9E1kQIocw1ssQed7NIQoz3d/view?usp=sharing)
 2. [How to Use the Eraser and Highlighter in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1S6jYsRUb5XnzErUhEey097z33ATuuiVZ/view?usp=sharing)
 3. [How to Insert Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1WAR1UybMXI8aiT34G9cYi9cvkh3w_2do/view?usp=sharing)
+
+#### *How to Edit Objects in the Microsoft Whiteboard App (Windows 11)*
+1. [How to Edit Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1Gxwr4XSi66NYIiu6q9Yu4OxnSuHVfe2o/view?usp=sharing)
