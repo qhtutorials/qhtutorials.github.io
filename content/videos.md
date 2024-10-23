@@ -113,6 +113,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 6. [How to Use Zoom in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/fPEMNak8GPY) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="fPEMNak8GPY" width="100%" height="416" src="https://www.youtube.com/embed/fPEMNak8GPY"></iframe></div>
+
+<br />
+
 7. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/IkkAJVVAbxs) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="IkkAJVVAbxs" width="100%" height="416" src="https://www.youtube.com/embed/IkkAJVVAbxs"></iframe></div>
 8. [How to Edit the Microsoft Notepad App Settings (Windows 11)](https://www.youtube.com/embed/Bw7rfbs_1Vc) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="Bw7rfbs_1Vc" width="100%" height="416" src="https://www.youtube.com/embed/Bw7rfbs_1Vc"></iframe></div>
 
