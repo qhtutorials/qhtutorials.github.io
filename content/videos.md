@@ -129,6 +129,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 2. [How to Undo and Redo in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/EdDB2iBk-ak) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="EdDB2iBk-ak" width="100%" height="416" src="https://www.youtube.com/embed/EdDB2iBk-ak"></iframe></div>
+
+<br />
+
 3. [How to Find Text in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/1fn2eRogJwY) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="1fn2eRogJwY" width="100%" height="416" src="https://www.youtube.com/embed/1fn2eRogJwY"></iframe></div>
 4. [How to Navigate the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/T6eK5MhJzT0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="T6eK5MhJzT0" width="100%" height="416" src="https://www.youtube.com/embed/T6eK5MhJzT0"></iframe></div>
 5. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/BblKsYzmBqA) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="BblKsYzmBqA" width="100%" height="416" src="https://www.youtube.com/embed/BblKsYzmBqA"></iframe></div>
