@@ -137,6 +137,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 4. [How to Navigate the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/T6eK5MhJzT0) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="T6eK5MhJzT0" width="100%" height="416" src="https://www.youtube.com/embed/T6eK5MhJzT0"></iframe></div>
+
+<br />
+
 5. [How to Edit the Display of the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/BblKsYzmBqA) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="BblKsYzmBqA" width="100%" height="416" src="https://www.youtube.com/embed/BblKsYzmBqA"></iframe></div>
 
 #### [*How to Save in the Microsoft Notepad App (Windows 11)*](https://www.youtube.com/embed/qIImZi-rQIc) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qIImZi-rQIc" width="100%" height="416" src="https://www.youtube.com/embed/qIImZi-rQIc"></iframe></div>
