@@ -123,3 +123,4 @@ Press **Esc** to exit full screen mode.
 
 #### *How to Edit Objects in the Microsoft Whiteboard App (Windows 11)*
 1. How to Edit Objects in the Microsoft Whiteboard App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_byV3dAj-orN1uVVixdGgod54OXe8mgQoAhgOOwSNpwzhQz0hBggRCwohDe7zFu6WJY2QVpeG1jEU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. How to Resize Objects in the Microsoft Whiteboard App (Windows 11) <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX9-iXexDegJZx6pe5_Cnfm-4dN4gp9Gbx8R1QuJBStNdSljZOcS4EZcrKIliLEX7_O4sZI1_wMdNl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>

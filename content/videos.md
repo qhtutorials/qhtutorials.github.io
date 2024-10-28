@@ -178,3 +178,4 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Edit Objects in the Microsoft Whiteboard App (Windows 11)*
 1. [How to Edit Objects in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/anaNWyZqIFk) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="anaNWyZqIFk" width="100%" height="416" src="https://www.youtube.com/embed/anaNWyZqIFk"></iframe></div>
+2. [How to Resize Objects in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/zK3HrndjFN4) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="zK3HrndjFN4" width="100%" height="416" src="https://www.youtube.com/embed/zK3HrndjFN4"></iframe></div>
