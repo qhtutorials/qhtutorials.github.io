@@ -151,6 +151,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 2. [How to Edit the Print Settings in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/MVMvbB5qmpg) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="MVMvbB5qmpg" width="100%" height="416" src="https://www.youtube.com/embed/MVMvbB5qmpg"></iframe></div>
+
+<br />
+
 3. [How to Set the Header and Footer in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/DvXw-sSjKTI) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="DvXw-sSjKTI" width="100%" height="416" src="https://www.youtube.com/embed/DvXw-sSjKTI"></iframe></div>
 
 #### *Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)*
