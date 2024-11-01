@@ -1,6 +1,6 @@
 ---
 title: "How to Delete Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-10-30T02:01:58+05:30
+date: 2024-11-03-30T02:01:58+05:30
 description: "Use click, right click, or keyboard shortcuts to delete objects. Find out more in this post."
 tags: [Edit Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---

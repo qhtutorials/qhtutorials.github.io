@@ -1,6 +1,6 @@
 ---
 title: "How to Position Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-11-01T02:01:58+05:30
+date: 2024-11-01-T02:01:58+05:30
 description: "This tutorial covers how to rotate, lock, and move an object forwards or backwards."
 tags: [Edit Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
