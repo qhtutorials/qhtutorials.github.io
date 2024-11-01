@@ -1,6 +1,6 @@
 ---
 title: "How to Insert Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-10-18T02:01:58+05:30
+date: 2024-10-18-T02:01:58+05:30
 description: "This post covers how to insert shapes, sticky notes, text, and more."
 tags: [Insert Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
