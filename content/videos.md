@@ -159,6 +159,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 #### *Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)*
 
 1. [Keyboard Shortcuts for the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/emlskC42snM) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="emlskC42snM" width="100%" height="416" src="https://www.youtube.com/embed/emlskC42snM"></iframe></div>
+
+<br />
+
 2. [How to Create a Log in the Microsoft Notepad App (Windows 11)](https://www.youtube.com/embed/8eC8KD8pAEQ) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="8eC8KD8pAEQ" width="100%" height="416" src="https://www.youtube.com/embed/8eC8KD8pAEQ"></iframe></div>
 
 ## Microsoft Whiteboard App (Windows 11) Tutorials
