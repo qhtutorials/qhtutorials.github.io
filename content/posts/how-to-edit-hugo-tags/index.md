@@ -1,6 +1,6 @@
 ---
 title: "How to Edit Tags in a Hugo Blog"
-date: 2024-10-21-T02:01:58+05:30
+date: 2024-10-21T02:01:58+05:30
 description: "Learn how to add and edit Hugo blog tags."
 tags: [Hugo]
 ---
