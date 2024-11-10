@@ -1,6 +1,6 @@
 ---
 title: "How to Format Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-10-30T02:01:58+05:30
+date: 2024-11-04-T02:01:58+05:30
 description: "Change the color and border color of objects, then copy and paste them."
 tags: [Edit Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
