@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Text of Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-11-01-T02:01:58+05:30
+date: 2024-11-01T02:01:58+05:30
 description: "Label your objects with text, alt text, and different colors and formatting."
 tags: [Edit Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
