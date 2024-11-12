@@ -1,6 +1,6 @@
 ---
 title: "How to Open the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-08-T02:01:58+05:30
+date: 2024-11-08T02:01:58+05:30
 description: "Learn how to open and pin the Windows Clock app."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
