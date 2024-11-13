@@ -1,6 +1,6 @@
 ---
 title: "How to Close the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-08-T02:01:58+05:30
+date: 2024-11-11T02:01:58+05:30
 description: "There are five ways to close this app. Find out how in this post."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
