@@ -110,3 +110,6 @@ Here is a list of all the PDF tutorials I created.
 1. [How to Edit Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1Gxwr4XSi66NYIiu6q9Yu4OxnSuHVfe2o/view?usp=sharing)
 2. [How to Resize Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1_GQn6vuIkg6MxFSIPyffvuN7Ad86H5Gj/view?usp=sharing)
 3. [How to Position Objects in the Microsoft Whiteboard App (Windows 11)](https://drive.google.com/file/d/1DaT9yh_lo8QnEsDj1_LXuUKGV8ITWxbQ/view?usp=sharing)
+
+#### *How to Use the Microsoft Windows Clock App (Windows 11)*
+1. [How to Open the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1GdcziAlbasAc5jn_g1OZgqEK4ahJ4AOM/view?usp=sharing)
