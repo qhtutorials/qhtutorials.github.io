@@ -1,6 +1,6 @@
 ---
 title: "How to Maximize the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-11T02:01:58+05:30
+date: 2024-11-15T02:01:58+05:30
 description: "Need to adjust a timer or alarm? Maximize the Windows Clock app for easy access."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
