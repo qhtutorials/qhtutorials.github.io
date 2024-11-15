@@ -1,6 +1,6 @@
 ---
 title: "How to Minimize the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-13-T02:01:58+05:30
+date: 2024-11-13T02:01:58+05:30
 description: "Hide the Clock app when not in use. See how in this post."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
