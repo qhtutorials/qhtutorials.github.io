@@ -1,6 +1,6 @@
 ---
 title: "How to Resize the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-15T02:01:58+05:30
+date: 2024-11-20T02:01:58+05:30
 description: "Customize the size of the Windows Clock with three helpful tips."
 tags: [Microsoft Windows Clock, Windows 11]
 ---

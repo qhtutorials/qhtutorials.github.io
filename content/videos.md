@@ -198,3 +198,6 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 
 #### *How to Use the Microsoft Windows Clock App (Windows 11)*
 1. [How to Open the Microsoft Windows Clock (Windows 11)](https://www.youtube.com/embed/AoUtHesmpm4) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="AoUtHesmpm4" width="100%" height="416" src="https://www.youtube.com/embed/AoUtHesmpm4"></iframe></div>
+2. [How to Close the Microsoft Windows Clock App (Windows 11)](https://www.youtube.com/embed/pGn0MPo3f1U) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="pGn0MPo3f1U" width="100%" height="416" src="https://www.youtube.com/embed/pGn0MPo3f1U"></iframe></div>
+3. [How to  Minimize the Microsoft Windows Clock (Windows 11)](https://www.youtube.com/embed/qpcwS6A9v5I) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="qpcwS6A9v5I" width="320" height="266" src="https://www.youtube.com/embed/qpcwS6A9v5I"></iframe></div>
+4. [How to Maximize the Microsoft Windows Clock (Windows 11)](https://www.youtube.com/embed/2LmjQBMF3uk) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="2LmjQBMF3uk" width="100%" height="416" src="https://www.youtube.com/embed/2LmjQBMF3uk"></iframe></div>

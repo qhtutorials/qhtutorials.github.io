@@ -113,3 +113,6 @@ Here is a list of all the PDF tutorials I created.
 
 #### *How to Use the Microsoft Windows Clock App (Windows 11)*
 1. [How to Open the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1GdcziAlbasAc5jn_g1OZgqEK4ahJ4AOM/view?usp=sharing)
+2. [How to Close the Microsoft Windows Clock (Windows 11)](https://drive.google.com/file/d/1EYmzLwrXSjfVwZDsIB_kZMDPy31qn-h8/view?usp=sharing)
+3. [How to Minimize the Microsoft Windows Clock (Windows 11)](https://drive.google.com/file/d/1BITqmTaMlu3tTVtu6H9wqJy0gYjdADfq/view?usp=sharing)
+4. [How to Maximize the Microsoft Windows Clock (Windows 11)](https://drive.google.com/file/d/1LxwbY3TzgEVklotyOKfvcW44KVYdJ5PG/view?usp=sharing)
