@@ -1,6 +1,6 @@
 ---
 title: "How to Resize Objects in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-10-28-T02:01:58+05:30
+date: 2024-10-28T02:01:58+05:30
 description: "Change the size of objects and shapes to suit your needs. Learn more in this post."
 tags: [Edit Objects in Whiteboard, Microsoft Whiteboard, Windows 11]
 ---

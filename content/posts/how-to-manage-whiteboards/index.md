@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Whiteboards in the Microsoft Whiteboard App (Windows 11)"
-date: 2024-09-27T02:01:58+05:30
+date: 2024-09-27-T02:01:58+05:30
 description: "This post covers how to rename, export, and report a whiteboard. Read on to learn more."
 tags: [Manage Whiteboard, Microsoft Whiteboard, Windows 11]
 ---
