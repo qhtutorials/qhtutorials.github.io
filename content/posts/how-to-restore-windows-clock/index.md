@@ -1,6 +1,6 @@
 ---
 title: "How to Restore the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-18T02:01:58+05:30
+date: 2024-11-18-T02:01:58+05:30
 description: "Changed your mind about maximizing the app? Simply restore it to the default size. Read on to find out how."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
