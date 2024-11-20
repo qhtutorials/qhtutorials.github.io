@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Microsoft Windows Clock Settings (Windows 11)"
-date: 2024-11-20T02:01:58+05:30
+date: 2024-11-25T02:01:58+05:30
 description: "Learn how to change the theme color, clock mode, and more."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
