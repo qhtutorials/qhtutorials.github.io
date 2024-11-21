@@ -117,3 +117,4 @@ Here is a list of all the PDF tutorials I created.
 3. [How to Minimize the Microsoft Windows Clock (Windows 11)](https://drive.google.com/file/d/1BITqmTaMlu3tTVtu6H9wqJy0gYjdADfq/view?usp=sharing)
 4. [How to Maximize the Microsoft Windows Clock (Windows 11)](https://drive.google.com/file/d/1LxwbY3TzgEVklotyOKfvcW44KVYdJ5PG/view?usp=sharing)
 5. [How to Restore the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/17JbZqFAvPaHJAQ57JD2ZVVLTJ3Ykkdjj/view?usp=sharing)
+6. [How to Resize the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/17Jn6OrLw5wYdfwRuAs9SREFSmFKweli2/view?usp=sharing)
