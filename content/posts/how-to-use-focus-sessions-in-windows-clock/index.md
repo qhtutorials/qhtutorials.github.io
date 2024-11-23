@@ -1,6 +1,6 @@
 ---
 title: "How to Use Focus Sessions in the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-22T02:01:58+05:30
+date: 2024-11-27T02:01:58+05:30
 description: "Use Focus Sessions to keep track of time spent on certain tasks. This post covers how to set up and customize Focus Sessions."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
