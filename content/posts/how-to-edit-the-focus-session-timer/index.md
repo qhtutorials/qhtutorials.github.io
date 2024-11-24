@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Focus Sessions Timer in the Microsoft Windows Clock (Windows 11)"
-date: 2024-11-25T02:01:58+05:30
+date: 2024-11-29T02:01:58+05:30
 description: "Learn how to start, pause, and reset the Focus Sessions timer."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
