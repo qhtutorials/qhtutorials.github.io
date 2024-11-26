@@ -172,6 +172,9 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 <br />
 
 2. [How to Pin the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/W7EL6aMfgrM) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="W7EL6aMfgrM" width="100%" height="416" src="https://www.youtube.com/embed/W7EL6aMfgrM"></iframe></div>
+
+<br />
+
 3. [How to Open Content in the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/xt99RAfevIE) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="xt99RAfevIE" width="100%" height="416" src="https://www.youtube.com/embed/xt99RAfevIE"></iframe></div>
 4. [How to Close the Microsoft Whiteboard App (Windows 11)](https://www.youtube.com/embed/K9PKaFHIHN4) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="K9PKaFHIHN4" width="100%" height="416" src="https://www.youtube.com/embed/K9PKaFHIHN4"></iframe></div>
 
