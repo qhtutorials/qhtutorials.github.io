@@ -120,3 +120,4 @@ Here is a list of all the PDF tutorials I created.
 6. [How to Resize the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/17Jn6OrLw5wYdfwRuAs9SREFSmFKweli2/view?usp=sharing)
 7. [How to Move the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/16MLnFPDQdCbe5gOo03crpvluzH-Jvr6n/view?usp=sharing)
 8. [How to Edit the Microsoft Windows Clock Settings (Windows 11)](https://drive.google.com/file/d/1T8wb28c1i0vb1ZqRCiR4Y5O2HlzVTlZH/view?usp=sharing)
+9. [How to Use Focus Sessions in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1qET8OWVlLrNgVdJG_jrAgv_2uuBL9mZc/view?usp=sharing)
