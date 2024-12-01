@@ -1,6 +1,6 @@
 ---
 title: "How to Navigate the Focus Sessions Task List in Microsoft Windows Clock (Windows 11)"
-date: 2024-11-29T02:01:58+05:30
+date: 2024-12-04T02:01:58+05:30
 description: "You can collapse, expand, and switch between different task lists. Read on to find out how."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
