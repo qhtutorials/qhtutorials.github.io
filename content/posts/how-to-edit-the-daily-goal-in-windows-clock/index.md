@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Daily Goal in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-02T02:01:58+05:30
+date: 2024-12-04T02:01:58+05:30
 description: "Track how many times you meet your daily goal in Windows Clock. This post shows you how."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
