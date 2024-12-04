@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Timer in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-04T02:01:58+05:30
+date: 2024-12-09T02:01:58+05:30
 description: "Learn how to edit the Timer length and name in this helpful post."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
