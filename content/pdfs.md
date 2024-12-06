@@ -124,3 +124,4 @@ Here is a list of all the PDF tutorials I created.
 10. [How to Edit Focus Sessions in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1y1XOd0CHuScKqC3YqBj5HTDvX6FAtH9a/view?usp=sharing)
 11. [How to Set up Tasks for Focus Sessions in the Microsoft Windows Clock App](https://drive.google.com/file/d/1qJdTnQMWYKWxfqDVcOuFuQbsbQG20N_3/view?usp=sharing)
 12. [How to Navigate the Focus Sessions Task List in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1SWgGc_L_iy4rIIdIQhnpbdxLbTixdDTq/view?usp=sharing)
+13. [How to Edit the Daily Goal in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1K8P7xqS9BMnDHksZauLpEdxRRE2vFRoF/view?usp=sharing)
