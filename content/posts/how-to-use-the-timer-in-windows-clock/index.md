@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Timer in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-06T02:01:58+05:30
+date: 2024-12-11T02:01:58+05:30
 description: "This post covers how to start, pause, and reset the Timer."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
