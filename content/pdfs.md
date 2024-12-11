@@ -126,3 +126,4 @@ Here is a list of all the PDF tutorials I created.
 12. [How to Navigate the Focus Sessions Task List in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1SWgGc_L_iy4rIIdIQhnpbdxLbTixdDTq/view?usp=sharing)
 13. [How to Edit the Daily Goal in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1K8P7xqS9BMnDHksZauLpEdxRRE2vFRoF/view?usp=sharing)
 14. [How to Edit the Timer in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1Ovz-i8V1CmxjAto2Dwz4xMEECWDZfKtr/view?usp=sharing)
+15. [How to Use the Timer in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1Yq95a5u7Kkl7MAkVtOTOFXIzX9LqTzBJ/view?usp=sharing)
