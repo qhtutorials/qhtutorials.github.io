@@ -127,3 +127,4 @@ Here is a list of all the PDF tutorials I created.
 13. [How to Edit the Daily Goal in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1K8P7xqS9BMnDHksZauLpEdxRRE2vFRoF/view?usp=sharing)
 14. [How to Edit the Timer in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1Ovz-i8V1CmxjAto2Dwz4xMEECWDZfKtr/view?usp=sharing)
 15. [How to Use the Timer in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1Yq95a5u7Kkl7MAkVtOTOFXIzX9LqTzBJ/view?usp=sharing)
+16. [How to Manage Timers in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1dGM33njYJXa_R9XQKMXciHAXVAYHA9ca/view?usp=sharing)
