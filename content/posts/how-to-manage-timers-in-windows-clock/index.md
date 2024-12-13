@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Timers in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-13T02:01:58+05:30
+date: 2024-12-16T02:01:58+05:30
 description: "Learn how to add and delete timers with this handy tutorial."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
