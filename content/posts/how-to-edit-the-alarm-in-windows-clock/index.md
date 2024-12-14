@@ -1,6 +1,6 @@
 ---
 title: "How to Edit the Alarm in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-13T02:01:58+05:30
+date: 2024-12-16T02:01:58+05:30
 description: "You can edit the Alarm time, name, and dates in the Windows Clock app."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
