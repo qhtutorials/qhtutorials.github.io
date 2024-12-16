@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Alarms in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-16T02:01:58+05:30
+date: 2024-12-18T02:01:58+05:30
 description: "You can add and delete as many alarms as you need! Find out how in this post."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
