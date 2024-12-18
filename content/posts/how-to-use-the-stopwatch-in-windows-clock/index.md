@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Stopwatch in Microsoft Windows Clock (Windows 11)"
-date: 2024-12-16T02:01:58+05:30
+date: 2024-12-20T02:01:58+05:30
 description: "Start, pause, and add laps using the Stopwatch. Read on to find out how."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
