@@ -1,6 +1,6 @@
 ---
 title: "How to Manage Cities in Microsoft Windows World Clock (Windows 11)"
-date: 2024-12-18T02:01:58+05:30
+date: 2024-12-23T02:01:58+05:30
 description: "This post covers how to add and delete cities."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
