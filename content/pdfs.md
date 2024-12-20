@@ -130,3 +130,4 @@ Here is a list of all the PDF tutorials I created.
 16. [How to Manage Timers in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1dGM33njYJXa_R9XQKMXciHAXVAYHA9ca/view?usp=sharing)
 17. [How to Edit the Alarm in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1racm50vNP8flZqMjh43QKfbSN5uvKUSo/view?usp=sharing)
 18. [How to Manage Alarms in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1dfehQjWd2DHK8xAsg4JyRLI-mmSLR5Ac/view?usp=sharing)
+19. [How to Use the Stopwatch in the Microsoft Windows Clock App](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing)
