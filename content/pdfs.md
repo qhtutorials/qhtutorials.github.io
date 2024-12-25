@@ -132,3 +132,4 @@ Here is a list of all the PDF tutorials I created.
 18. [How to Manage Alarms in the Microsoft Windows Clock App (Windows 11)](https://drive.google.com/file/d/1dfehQjWd2DHK8xAsg4JyRLI-mmSLR5Ac/view?usp=sharing)
 19. [How to Use the Stopwatch in the Microsoft Windows Clock App](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing)
 20. [How to Manage Cities in the Microsoft Windows World Clock](https://drive.google.com/file/d/1G8AZwIn162XYNaqD69DNHfmkRTksetyc/view?usp=sharing)
+21. [How to Change the Display in the Microsoft Windows World Clock (Windows 11)](https://drive.google.com/file/d/1OyKVkdvyRTsSER-d32ZkYiwbu3Fo6iR5/view?usp=sharing)
