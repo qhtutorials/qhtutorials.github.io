@@ -1,6 +1,6 @@
 ---
 title: "How to Change the Display in Microsoft Windows World Clock (Windows 11)"
-date: 2024-12-27T02:01:58+05:30
+date: 2024-12-25T02:01:58+05:30
 description: "You can compare cities and pin them to the Start menu. Read on to find out how."
 tags: [Microsoft Windows Clock, Windows 11]
 ---
