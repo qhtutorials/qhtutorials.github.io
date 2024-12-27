@@ -224,3 +224,7 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 19. [How to Use the Stopwatch in the Microsoft Windows Clock App](https://www.youtube.com/embed/_GPZUJbEP2o) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="_GPZUJbEP2o" width="100%" height="416" src="https://www.youtube.com/embed/_GPZUJbEP2o"></iframe></div>
 20. [How to Manage Cities in the Microsoft Windows World Clock](https://www.youtube.com/embed/a2Yp6XGcbFE) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="a2Yp6XGcbFE" width="100%" height="416" src="https://www.youtube.com/embed/a2Yp6XGcbFE"></iframe></div>
 21. [How to Change the Display in the Microsoft Windows World Clock (Windows 11)](https://www.youtube.com/embed/FWrYHyLQuoI) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="FWrYHyLQuoI" width="100%" height="416" src="https://www.youtube.com/embed/FWrYHyLQuoI"></iframe></div>
+
+## Inkscape Tutorials
+#### *How to Insert Shapes in Inkscape*
+1. [How to Use the Rectangle Tool in Inkscape](https://www.youtube.com/embed/QDNooXOG54U) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="QDNooXOG54U" width="100%" height="416" src="https://www.youtube.com/embed/QDNooXOG54U"></iframe></div>
