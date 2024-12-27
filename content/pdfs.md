@@ -133,3 +133,7 @@ Here is a list of all the PDF tutorials I created.
 19. [How to Use the Stopwatch in the Microsoft Windows Clock App](https://drive.google.com/file/d/14LmcfYujYlzdQnuC7VXEAb20ggFvbpQx/view?usp=sharing)
 20. [How to Manage Cities in the Microsoft Windows World Clock](https://drive.google.com/file/d/1G8AZwIn162XYNaqD69DNHfmkRTksetyc/view?usp=sharing)
 21. [How to Change the Display in the Microsoft Windows World Clock (Windows 11)](https://drive.google.com/file/d/1OyKVkdvyRTsSER-d32ZkYiwbu3Fo6iR5/view?usp=sharing)
+
+## Inkscape Tutorials
+#### *How to Insert Shapes in Inkscape*
+1. [How to Use the Rectangle Tool in Inkscape](https://drive.google.com/file/d/1fbvxebAHMAuvuZJzzmYM1s27jhn2DIem/view?usp=sharing)
