@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Rectangle Tool in Inkscape"
-date: 2024-12-30T02:01:58+05:30
+date: 2024-12-27T02:01:58+05:30
 description: "This tutorial covers how to add, resize, and shape a rectangle."
 tags: [Inkscape]
 ---
