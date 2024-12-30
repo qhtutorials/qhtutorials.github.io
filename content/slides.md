@@ -152,3 +152,4 @@ Press **Esc** to exit full screen mode.
 ## Inkscape Tutorials
 #### *How to Insert Shapes in Inkscape*
 1. How to Use the Rectangle Tool in Inkscape <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwfl54CVkW7IffXsYdscB_ZCHquyFTXMrwGdtJiIehz89h5Nf2Zf99jpG5QmVK0Z7v17RXR7bPYoAz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+2. How to Use the Circle Tool in Inkscape <div class=”slidesitem”><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxZ09fE18oTUyMaiW238xP7WAjuNrhSe9t_tAApb_gYCRwJl7OVo8BFb6Md1YAge_NNgXFyg64USNI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>

@@ -234,3 +234,4 @@ Here is a list of all my YouTube video tutorials, created with kdenlive.
 ## Inkscape Tutorials
 #### *How to Insert Shapes in Inkscape*
 1. [How to Use the Rectangle Tool in Inkscape](https://www.youtube.com/embed/QDNooXOG54U) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="QDNooXOG54U" width="100%" height="416" src="https://www.youtube.com/embed/QDNooXOG54U"></iframe></div>
+2. [How to Use the Circle Tool in Inkscape](https://www.youtube.com/embed/Pd2mdQx2jik) <div class=”vidlist”><iframe class="BLOG_video_class" allowfullscreen="" youtube-src-id="Pd2mdQx2jik" width="100%" height="416" src="https://www.youtube.com/embed/Pd2mdQx2jik"></iframe></div>

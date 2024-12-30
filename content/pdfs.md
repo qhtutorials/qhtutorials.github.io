@@ -137,3 +137,4 @@ Here is a list of all the PDF tutorials I created.
 ## Inkscape Tutorials
 #### *How to Insert Shapes in Inkscape*
 1. [How to Use the Rectangle Tool in Inkscape](https://drive.google.com/file/d/1fbvxebAHMAuvuZJzzmYM1s27jhn2DIem/view?usp=sharing)
+2. [How to Use the Circle Tool in Inkscape](https://drive.google.com/file/d/1U41q4kaebvf2c13tlGhxMI_0vs4OhMCp/view?usp=sharing)
