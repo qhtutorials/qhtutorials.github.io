@@ -1,6 +1,6 @@
 ---
 title: "How to Use the Circle Tool in Inkscape"
-date: 2025-12-30T02:01:58+05:30
+date: 2024-12-30T02:01:58+05:30
 description: "Learn how to add, resize, and shape a circle."
 tags: [Inkscape]
 ---
